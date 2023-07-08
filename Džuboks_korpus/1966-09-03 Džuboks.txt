@@ -1,0 +1,3581 @@
+<TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>The shortest TEI Document Imaginable</title>
+   </titleStmt>
+   <publicationStmt>
+    <p>First published as part of TEI P2, this is the P5
+         version using a namespace.</p>
+   </publicationStmt>
+   <sourceDesc>
+    <p>No source: this is an original work.</p>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>This is about the shortest TEI document imaginable.</p>
+  </body>
+ </text>
+  <text>
+  <body>
+džzuboks
+magazin
+
+' cii/la »Lack 1
+j -i» I I ’'*l
+
+■ f»||rULjjS&AI«K
+
+%ahoie I
+ЈГ SHAW P
+
+I 600ШД I • BEOGRAD 3. SEPTEMBAR 1966.
+I CENA: 1.50 H O. 150 STflRIH DINARA
+
+IZLAZI SVAKOG TREĆEG U MESECU • SPECIJALNI DODATAK
+
+В R О Ј ПЗENGLESKA
+ŽENSKA REPREZENTACIJA
+
+Veliki broj kvalitctnih vokalno-instrumentalnih grupa glavni su »krivci« što su
+ženski vokalni solisli u Velikoj Britaniji pomalo zapostavljcni. Međutim, gledajući
+liste popnlarnosti kao i čuveni »top twenty«, pada u oči činjenica da
+se tn, i to gotovo uvek pri vrhu, nade i ime neke od pevačica koje su gosti nasih
+nasiovnih strana. Verujemo da ste čuli za njih: Cilia Black, Petula Clark, Sandie Shaw
+i Dusty Springfield. Cetiri imena i četiri specifična glasa od kojih se svaki odliknje
+osobenim načinom interpretacije, a uz to hiljade poštovalaca širom sveta. To su karakieristike
+koje se nerazdvojno vezuju uz njihova imena.
+Posiednji hit Sile Blek »Don’t answer me« naiazio se nekoliko nedelja na listi »top
+twenty«. Melodija »I couldn’t live without your love* u izvodenju Petule Klark osvaja
+laskava priznanja, dok Send! Sou niže uspehc na svojoj novoj turneji po Italiji gde
+je nedavno snimala svoj hit »Nothing comes easy« na italijanskom jeziku. Posle velikog
+nspeha kompozicije »Yon don’t have to say you love me«, u izvodenju Dasti
+Springfild, ova pevačlca je snimila novi hit koji nosi naziv »Goin’ hack« i drži solidne
+pozicije na hritanskim listama popularnosti. Sudeći po pohvalnim komentarima koji
+dotiekuju svaku njihovu ploču, Sila, Petula, Sendi i Dasti ozbiljno konkurisu vis-grupama
+cija je premoć u svetu muzike danas Jača no ikad.
+
+DUSTY SPRINGFIELD
+
+SANDIE SHAW
+
+PETULA CLARK
+
+CILLA BLACKUVODNIK
+
+VS-om smo odredili garantova
+ni standard za mnoga materijalna
+dobra. I dobro je što je
+to tako! Obezbedili smo se od kupovine
+robe lošijeg kvaliteta. JUS
+obezbedujemo i u drugim oblastima:
+iAi su razni izdavački saveti, komisije
+za prijem filmova, konkursi, fez
+tivali i sve drugo što nam služi kao
+filter. Ali, kako stoji stvar u popmuxici.
+Tu nažalost, JUS ne postoji.
+Zato se i dogada da za svoje novce
+(koje damo za ulaznicu) ne dobijemo
+odgovarajuću vrednost. Dakle, prevareni
+smo.
+Nazalost, u našoj pop-muzici niko
+se ne smatra nadležnim da obezbedi
+minimum kvaliteta. U našoj zemlji
+postoji vise hiijada VIS-ova. A mno
+gi od njih, več posle dva-tri meseca
+izlaze pred publtku, dobijaju prve
+honorare i od tog trenutka cilj im je
+ne usavršiti se u muzičkoj oblasti
+več zaključiti što bolje poslove.
+Metodi našeg ~š»u-biznisa” su
+poznati: izmisliti što sočnije ime
+(najbolje ako počmje sa „the”), objaviti
+okolini da je to najbolji, najkvalitetniji,
+najperspektivniji ansambl
+(a to se maze objaviti plakatama,
+oglasima ili jednostavnim pisanjem
+po zidovima). Za kdnkurenciju
+stalno govoriti sve najgore, u
+teiim slučajevima organizovati klapu
+koja će da zviidi na koncertu,
+a za sehe, naravno, okupiti navijače
+којг če po potrebi da ispunjavaju
+kupone, da pišu listovima i radiostanicama
+i uopšte da stvaraju atmosferu
+omiljenosti.
+I, kad se sve sumira, briga za popularnost
+i afirmaciju kreče se drugim
+kolosecima, a ne ovim pravim:
+neprestanim učenjem i usavršavanjem.
+Za jedan mladi ansambl nije sramota
+ako kože da neito ne zna. VoIjom,
+ucenjem, prohama, moie se
+mnogo postiči. Ali je sramota ako
+ansambl ima vise nastupa na priredbama
+nego proha. Zamislite sportistu
+koji bez treninga odlazi na tak
+mičenja? Pre (li posle spoljni efekti
+će otpasti. Propaganda ne maze da
+nadoknadi kvalitet. Zato je krajnje
+vreme da odredimo i JUS za našu
+рор-тцггки. Da razlikujemo amaterske
+grupe koje sviraju za svoje
+zadovoljstvo od tzv. profesionalnih
+grupa koje se pojavljuju na tako
+konjunkturnom tržištu zabavne muzike.
+Dana pozornicu pustimo samo
+grupu koja ima određene kvalitete.
+U Nemačkoj Dernokratskoj Republic j
+to pitanje je rešeno jednostavno: jav
+ne koncerte mogu priredivati samo
+ansambli koji su pre toga prošll
+kroz audiciju svog strukovnog udruženja.
+Kao recept nije lose, zar ne? !
+
+SADRŽAJ:
+
+Top - lisle 2
+Dobnr dan, knko sle? 4
+Usponi - Tropas б
+Bisera umeslo BHera 7
+Zafire. ostnni in časnk miran! 8
+Pisma it се!еч svein 10
+Adriano, Adriano, koliko Ima sail? 12
+Mode in vns 14
+Hlihov sini no inmni 15
+Arnnimnn in vns 16
+Dn II mate? 18
+Vellkn ernn molitvn 20
+Has kvli 21
+Ko jo ko 22
+Smeh na 220 voUl 23
+Animals! so rniilare 24
+Melodlle Ind(rnnn) 25
+Vest! kurioilleli 26
+„8“ repreienlncija Engleske 28
+Tehničkl kulak 29
+Berervisano in yns 30
+Mall oglasi • lele da so dopisufu 32
+
+I
+■■■■magazin
+
+NIKOLA KARAKLAJIC Uređuje
+
+IZDAJE NIP „DUGA”, BEOGRAD- VT.AJKOVICEVA 8, TEL, !
+335-961. Ziro RACUN KOD BANKE BKOJ 601-1-1692, GLAVNI
+I ODGOVORNI UREDNIK Dr SAVA POPOVIC. ŠTAMPA „NOVA
+MAKEDONXJA” SKOPJE, KORICE BGZ BEOGRAD.
+■ PRETPLATA, ZA ZEMLJU; GODISNJA 18. N. DIN.: 1300 STA
+,MH DINARA; POLUGODISNJA 9 N. DIN.TJ. 900 STARIH DINARA;
+TROMESECNA 4,50 N. DIN. TJ. 450 STARIH DINARA.
+ZA INOSTRANSTVO: GODISNJA 24 N. DIN. TJ. 2400 STARIH
+DINARA; POLUGODISNJA 12 N. DIN. TJ. 1200 STARIH DINARA;
+TROMESECNA 6 N. DIN. TJ. 600 STARIH DINARA.TOP-LISTE
+
+najvise
+siušano u:
+
+Ovog puta javili su nam se ljubiteiji muzike
+iz Dubrovnika. U njihovom klubu
+zvanom „ ORSAN” najradije se slušaju
+ove kompozicije:
+1. Oboji crno (Paint it black) Rolling
+Stones
+2. Pomodarac (Dedicated follower of fashion)
+Kinks '
+3. Pisac džepnih knjiga (Paperback writer)
+Beatles
+4. Divlja stvar (Wild thing) Troggs
+5. Sloop John B Beach Boys
+U gimnaziji „Jovan Jovanov ič Z maj” н
+Novom Sadu najslušanije su sledeče melodije:
+1. Stranci u noći (Strangers in the night)
+Frenk Sinatra
+2. Oboji crno (Paint it black) Rolling
+Stones
+3. Lepi f'anvngo (Pretty Flamingo)
+Manfred Mann
+4. Pisac džepnih knjiga (Paperback writer)
+Beatles
+5. Sunčano posiepodne (Sunny afternoon)
+Kinks
+
+italija Cbig)
+
+1. Che colpa abbiamo noi (Zar smo mi krivi)
+Rokes
+2. Xema Giganti
+3. Notte di ferragosto (Avgustovska noć)
+Gianni Morandi
+4. Ridera (Smejaće se) Little Tony
+5. Liiomo d'oro (Covek od zlata) Caterina
+Caselli
+< в. Amo (Volim) Adamo
+7. Ho in mente te (Mislini na tebe)
+Equipe 84
+8. Se la vita e cosi (Ako je život takav)
+Tony Del Monaco
+9. Geghegeghegeghege Rita Pavone
+10. Strangers in the night (Stranci u noći)
+Frenk Sinatra
+
+velika
+britarsija
+(nme)
+1. With a girl like you
+(Sa devojkom kao ti)
+Troggs
+2. Eleanor Rigby Yellow
+submarine
+(Eleanor Rigby Zuta pod
+mornica) Beatles
+3. Black is black
+(Crno je erno) Los Bravos
+4. The more I see you
+(Sve vise kad te videm)
+Chris Montez
+5. Mama Dave Berry
+6. Out of time
+(Izvan vremena)
+Chris Farlowe
+7. God only knows
+(Bog samo zna)
+Beach Boys
+8. Love letters
+(Ljubavna pisma)
+Elvis Presley
+9. Summer in the city
+(Leto u gradu)
+Lovin’ Spoonful
+10. Visions
+(Vizije)
+Cliff Richard
+
+Bitlsi
+
+Frenk i Nensi Sina'.ra
+
+Ansambl Roket
+
+Ansambl »Giganti«
+
+Troggs
+
+КШ Ričard
+
+Dave Berry
+
+džuboks
+■»■niaya/in I
+
+21. Oboji crno (Paint it blao!;) Rolling Stone»
+2. Mišcla (Michelle) Beatles
+3. I,epi Flamingo (Pretty flamingo) Manfred Mann
+4 Sloop John B Beach boy s
+
+S. Ove Cizme su stvorene za šetnju (This boots are made for walkin)
+Nancy Sinatra
+6. Voiim (J’aime) Adamo
+7. Ponedeljak (Monday, Monday) Mama’s and Papa’s
+8. Sunce vise nikada neće sijati (Sun ain’t gonna shine anymore)
+Walker brothers
+9. Pomodarac (Dedicated follower of fashion) Kinks
+10. 19tl nervni slom (19Th nervous breakdown) Rolling Stones
+11. Pisac džepnih knjiga (Paperback \vriter) Beatles
+12. Mramor, кашеп i željezo Roboti
+13. Bang, bang Cher
+14. Crni sneg Arsen Deđić
+15. Ne treba da mi kažeš da me voliš (You don’t have to say you love
+me) Dusty Springfield
+16. TvoJ rođendan Slluete
+17. Neka mi neko pomogne (Somebody help me) Spencer Davis
+group
+18 Sunčano poslepodne (Sunny afternoon) Kinks
+19. Sen izgiibljene l.jnbcznl Kameleoni
+20, Kađ čovek voli ženu (When a man loves a woman) Percy
+Sledge
+
+Listu smo sastavili na osnovu pisama i predloga koje su nam poslali
+Misa Brcceljnik (Ljubljana), Đorđe Meš (Conoplja), Zivkovif
+Stcvan (Zemun), Vtiiić Milos (Sarajevo), Zeljko Kaliterna (Zagreb).
+Bognar Tiber (Betdan), Mandić Jagoda (Split), Gojković LJubiša
+(Subotica), Stojanović Vojislav (Muta), Vuković LJiljana (SkonlU-1.
+I'ivarski Vladimir (Beograd), Ač Esterina (VrSac), Arh Slavko (Blcdi
+i mnogi drug!.
+
+irancuska
+(sic)
+
+1. Ton nom (Tvoje ;me) Adamo
+2. Cheveux longs et idees oourtes (Duga
+kosa, kratka pamet) Johnny Holliday
+3: Bang, bang Sheila
+4. Strangers in the night (Strand u nod)
+Frank Sinatra
+5. La poupee qui fait non (Lutka koja je
+rekla ne) Michel Polnareff
+6. Qu’elle est belle (Kako je lepa) Mireille
+Mathieu
+7. Chanter (Pevač) Enrico Macias
+8. Excusez moi monsieur (tzvinite gospodine)
+Claude Francois
+9. Le professeur (Profesor) Christophe
+10. Ces petites ohoses (Te male stvari)
+nude Francois
+
+SAD CblSiboard)
+
+1. Summer in the city (Leto u gradu)
+Lovin’ Spoonful
+2. They’re coming to take me away ha-haaa!
+(l)olaze da me odvedu) Napoleon XIV
+3. Wild thing (Divljakuša) Troggs
+1 The pied piper (Sareni svirač) Crispian
+St Peters
+r> i saw her again (Ponovo sam je video)
+Mama’s and Papa’s
+
+в. Sunny (SunCano) Bobby Hebb
+7. Mother’s little helper (Mamina mala pomoćnicaj
+Rolling Stones
+8. Somewhere my love (Negđe moja ljubavi)
+Kac Conn iff and the Singers
+9. I couldn’t live without your love (Ne
+mogu da živira Of? tvoje ljubavi) Petula
+Clark
+10. See you in September (Dovideuja u septembru)
+Happening
+
+Ser
+
+Arsen Deđić
+
+Kameleoni
+
+Holing stounsi
+
+Atlarao
+
+Klocl Fransoa
+
+Ožoni Holldcj
+
+3
+
+izuboks'l
+■HHMIiKUJHZen Idobar
+dan,
+KAKO
+STE
+
+ZLATNI
+AKORDI
+
+nlelja nam je
+da snimimo
+ploču za RIB
+i do ona postane
+zlotna...«
+
+Izvrsno, ne može biti bolje, mada nas
+muče neki problemi odgovorili
+su паш petorica koje po izgledu ne
+bi mogli nazvati čupavcima.
+kakvi su to problemi? popuLARNI
+STE, REŠILI STE PITANJE INSTRUMENATA
+I POJACALA, A NISTE
+,NI LOŠI UCENICI. DA NIJE REC O KOSI?
+• Pogodili ste. Imamo izvrsna VOX pojačala,
+gitare Fender, Greteh i VOX Triko-
+
+son baterije. Brine nas jedino šišanje, na
+koje se moramo odlučiti zbog škole i rbditelja.
+Duga kosa je jedino što nam nedostaje,
+a to nam naši ljubiteiji zameraju.
+VASI INSTRUMENT! I POJAČALA SU
+ZAISTA KVALITETNI, ALI I VEOMA
+SKUPI. KAKO STE USPELI DA IH NABAVITE?
+Možda zvuči neverovatno, ali gotovo čitavu
+svotu sami smo nabavili. Prodavali
+smo paradajz na pijaci i radili kao no-
+
+Ш. sači. PomagaJi su nam i rođitelji,
+a njihov deo već smo
+vratili od honorara.
+MB ★ KOLIKO DUGO VEC BOMB
+STOJI VAS SASTAV I DA
+|LI LI SU INSTRUMENT! NA
+В1 КОЈША SADA SVIRATE
+1У JEDINI?
+'I3S Zajedno sviramo dve go
+SB dine, ali svaki od nas bavi se
+d| bit-muzikom mnogo đuže. Svi
+Bi sviramo kUvir i usne harrno"Тц
+nike.
+★ PITANJE PROSTORIJE
+- ZA PROBE MUCI SVE SAS■WfL
+TAVE. КАКО STE GA VI RE
+Шт SILI I KOLIKO VREMENA
+UVEŽBAVATE nove MELOpP
+DUE?
+|^ e Vežbamo u jednom pođrumu
+među kantama za đubre.
+Jedna od njih 6e®to je služila
+našem bubnjaru umesio
+gjgjß instruments, sve dok nije nabavio
+pravi. Tamo nikome
+ne gmetamo i sastajemo se ponedeljkom,
+utorkom, čatrvrtkom
+i petkom. Mnogo radimo na svom repertoaru,
+jer svake subote želimo da
+lansiramo bar dve nove kompozicije.
+★ ZA RAZLIKU OD OSTALIH NASIH
+VIS-OVA VI RETKO IZVODITE KOMPOZICIJE
+KOJE PEVAJU BITLSI I ROLLING
+STOUNSI?
+Naši uzori su sastavi Kinks i Who; izvodimo
+gotpvo isključivo stvari iz njiho-
+
+vog repertoara. Postal! smo popularni pesmama
+„My generation” (Moja generacija)
+i „Till the end of the day” (Do svršetka
+dana), a svi su oduševljeno primili i kompoziciju
+sastava Renegades „Cadilac”.
+☆ PRICA SE DA STE STUPILI U VEZU
+SA KINKSIMA?
+Izmenili smo nekoliko pisama i nadamo
+se da ćemo postati bliski prijatelji.
+Na tome zasnivamo i neke svoje planove
+za posetu Londonu.
+
+☆ ODAKLE VAM IME „ZLATNI AKORDI”?
+DA LI STE SE KOLEBALI IZMEĐU
+MNOGIH DA IZABERETE UPRAVO TO?
+Basista je predložio taj naziv I svi smo
+ga rado prihvatili. Ono je imalo i opravđanja,
+u oštroj konkurenciji naših sastava
+osvojili smo „Zlatnu gitaru” lista „Studio”.
+Želja nam je da snimimo ploču za
+RTB i da ona postane zlatna.
+* ZA OVE DVE GODINE STA SMATRATE
+NAJVEĆIM USPEHOM?
+Već pomenutu „Zlatnu gitaru”, koju
+ham je dodelio stručni žiri. Na istoj priredbi
+osvojili smo i prvo mesto i dobitrdci
+smo „Srebmog pehara” za 1964 —1965.
+glasanjem publike, a na Festivalu VIS-ova
+u Zagrebu bili smo drugi. Veoma nam je
+drago što smo neko vreme svirali u Klubu
+novinara, kao jedini VIS koji se tamo probio.
+džuboKsl
+■■■Hniagazin |
+
+4ISPRIČAJTE JOŠ NEŠTO CEGA SE
+RADO SEĆATE?
+Zanimljivo je kako smo dobili angažman
+u dubrovačkom baru „Splendid” na
+Lapadu. U njemu je svirao veliki огкеstar
+kada smo mi stigli. U našoj vili, nasuprot
+„Splendidu” s druge strane zaliva,
+svirali smo svake večeri na terasi. Omladina
+je napuštala bar i dolazila k nama
+misleći da se i tu nalazi neki lokal. Tako
+je orkestm otkazano.
+
+ŠTA MISLITE O ODNOSIMA IZMEĐU
+NAŠIH VOKALNO-INSTRUMENTALNIH
+SASTAVA KOJI CESTO NISU PRIJATELJSKI,
+I KOJI SASTAV NAJVIŠE
+CENITE?
+Dobri smo mi prijatelji sa svim zagrebačkim
+sastavima i nikada ni s kim nismo
+došli u sukob. Od svih najviše volimo i ce
+nimo „Mlade” koji nižu uspehe u Nemačkoj.
+it recite nešto o svojim planoVIMA?
+Leto smo proveli u Zagrebu svirajući
+na najpopularnijem plesu u Tuškancu, a
+postoje veliki izgledi da odemo u Bejrut
+gde bismo dali nekoliko koncerata i pojavili
+se na televiziji.
+it ŠTA RADITE U SLOBODNOM VREMENU?
+U slobodnom vremenu slušamo najnovije
+hitove i vlastite snimke.
+Bio bi red da vas predstavimo:
+DŽERALD KAZA FEROVIĆ, (17) učenik
+ZLATKO MIKŠIĆ (19), učenik _ bas gitara;
+obožava vožnju biciklom i voli da
+ga zovu „Zlejt” i ljubimci: „Kinks” i
+„Who”.
+IVICA MIKSIĆ (18), učenik ritam gitara,
+poznat po tome što sakuplja polomljene
+bubnjarske palice; ljubimci: „Beatles”
+Ben King.
+ŽELJKO MARINAC (20), učenik bateriia;
+neobično voli izlete i limunadu, mesečno
+kupuje po četiri para pallca i ljubimci:
+Ringo Star Ciggy Shaw.
+ZLATKO SLOBODŽENSKI, učenik vokalui
+solista; gotovo se ne odvaja od magnetofona,
+obavezno snima engleski Top
+Twenty, a Ijubisrci: „Who”, „Dave, Dee,
+Dozy, Beaky, Mick and Tich”.
+
+IVICA ĐUKIC
+
+VIS "KRISTALI"
+
+Kuboks” je već jednom pitalnom
+sastavu „Kristasao
+o vokalno-instrumenli”.
+Medutim, ovi niornci koji nose
+isti naziv nisu iz Slavonskog
+Broda već iz Sarajeva.
+Sarajevski „Kristali” su mlad sastav,
+osnovan pre dve godine, ali
+zapažen tek ove godine na sarajevskoj
+gitarijadi. Tom prilikom
+ovim mladićima pripala je nagra
+da od 20.000 starih dinara za najlepše
+držanje za vreme sviranja.
+Posle toga, ansambl je dobio angažman
+u letnjoj bašti dmštvenog
+doma „Medrese”. Bast a je
+uvek dobro posećena pošto u Sarajevu
+leti vlada mrtva sezona a
+
+obzirom da svi poznatiji sastavi,
+koji sviraju u većim plesnim dvoranama,
+odlaze na more.
+Clanovi sastava su: Kemal Hamzic
+(vokalni solista), Ismet Cećo
+(bas gitara), Karkin Fikret (bubnjevi),
+Pero Naprta (solo gitara)
+i Nebojša Krošnjar (ritam
+
+gitara). Svi su pristalice Bitlsa osim
+Pere koji uvek isticc muzičke
+kvalitete Edi Duana i Šedousa.
+Velika im je želja da na idnćoj
+sarajevskoj gitarijadi osvoje prvo
+mesto i zato sada provode danc
+u marljiyom vežbanju.
+
+Gordana Gradaščević
+
+Kemal Hamzić
+
+Pero Naprta
+
+Ismet Cećo
+
+Neboiša KroSn.iar
+
+Fikret Karkin
+
+5USPONI
+
+TROGS
+
+Ronnie Bond
+(4. V 1943)
+bubnjevi
+Chris Briton
+(21. I 1945)
+solo gitara
+Pete Staples
+(3. V 1944)
+ritam i bas gitara
+Reg Presley
+(12. VI 1943)
+bas i okarina
+
+ovu ih četvorica iz Andovera.
+U zemlji u kojoj postoji preko sedam
+hiljada vokalno-instrumentalnih
+sastava nije lako proslaviti se. Ako to
+nekom uspe, onda zaista mora da ima kvalitete
+koji ga izdvajaju od ostalih. Ansambl
+Troggs pojavio se meteorski: jedan
+snimak koji je uspeo da obide ceo
+svet, zlatna ploča i... slava je stečena!
+„Divljakuša” (Wild thing) je neotaično zvučala
+i dospela je na liste najpopularmiih
+ploča mnogih zemalja.
+TJ veoma, jakoj konkurenciji nije lako
+dospeti u sam vrh „top tventija”. Ali jednom
+kad tamo dodete, otvoren vam je
+put. Ansambl Troggs je iskoristio taj tre-
+
+rratak: još se „Divljakuša” nije zaboravila,
+a već je đošao drugi hit „Devojka kao
+ti” (Girl like you) koja opet dospeva u
+sam vrh ~top-tventija”. U izgledu je opet
+nova zlatna ploča, a takav uspeh pozeleo
+hi svako. Za ansambl Troggs se saznalo
+tek poslednjih meseci. To su vesoli
+mladići, spremni uvek za šalu, veliki entuzijasti
+1 pobornici ~bit-a”.
+U našem društvu imamo običaj da se
+smejemo sebi, a ne drugima kaže Reg
+Presley.
+čak i njihova imena odišu željom da se
+nasmeju. Baš je Reg Presley uzeo to prezime
+zbog velikog poštovanja koje je gajio
+prema Elvisu Presley-u. Njegovo pra-
+
+vo mie je Reginald Maurice. Drugi clan
+ansambla je opet želeo da liči na Džemsa
+Bonda. Pravo ime Ronija Bonda je Ronald
+Džems Bullis.
+•Д- Kako tumačite vaš uspeh? - pitali su
+članove ansambla.
+Pokušavamo da se probijemo, all pritom
+ne želimo da imltiramo druge.
+Boni je bio još precizniji:
+Uspeh nam je doneo zvuk okarine. Bez
+pojačala. Trudimo se da damo prost ritam,
+all moderan i u duhu tradicionalnog
+beat-a.
+Rekli su nam kako se naše ploče traže
+u Nemačkoj, Holandiji, Irskoj, Svedskoj,
+Australiji, Belgiji i Amboliji. Ali dodaje
+Reg ne znamo gde se nalazi ta Amtaolija.
+Jedan tajanstveni glas nam je samo
+javio telefonom i rekao da Amtaolija !u-duje
+za nama. To je sve što znamo!
+0 svojim planovima ansambl Troggs se
+još izjašnjava:
+Verovatno turneja po SAD.
+Ovih dana je izašla i prva LP ploca: „Prom
+nowhere the Troggs”,
+U ovom alburau kaže Pet, svi pevaju
+ponešto osinv merie. Ali ja ću biti „tajno
+oružje” na sledećoj EP pločl koja izlazi
+ovog meseca i zove se ~Trogg-A-Track”.
+Ljudi kažu kako moj glas mnogo podseća
+na glas Helen Sapiro, a to ne može biti
+lose, zar ne? Mislim na glas,..
+Ali kada su Peta Prislija upitali o njegovom
+ljubimcu Elvisu: da li de kupiti
+njegovu najnoviju ploću, odgovorio je
+oklevajudi;
+Nee... Ipak mi se vise svida moderan
+zvuk koji imaju, na primer, Mama’s and
+Papa’s. Ipak nemojte očekivati da du kritikovati
+jednog pevača koji je dokazao
+svoju popularnost u proteklih deset godina.
+1 najzad, ansambl Troggs voli da lansira
+modu.
+
+ižuboKs'l
+■■Himagazin |
+
+6Susreti
+
+BISERA
+UMESTO
+BITERA
+
+BEOGRADSKO
+POZOriSno
+igraliSte
+TRUDI SB
+SVIM
+SILAMA
+DA
+IZMISUt
+neSto
+NOVO:
+NAJPRE SD
+IZMISEIIJ
+EVU D
+MINI
+SUKNJI,
+PA
+SARADNJD
+ELEKTRICARA
+I
+DOSTOJEV
+SKOG I
+NAJZAD
+BISERA
+UMESTO
+BITERA
+
+Na nedavno održanom recitalu monologa
+Dostojevskog, na kojem je govorila
+sovjetska glumica Ljudmila
+Lisina, kao muzička pratnja pojavio se
+vokalno-instrumentalni ansambl električnih
+gitara „Sraeli”. Smelo je od nas št6
+ih stalno pominjemo, ali ti momci stalno
+izmišljaju neke nove atrakcije pa ne možemo
+da hi zaobiđemo. Čak su poznati 1
+priznati kompozitori Zoran Hristić i Aleksandar
+Kolarević počell da pišu kompozicije
+za njih. Kad je Pozorišno igralište
+donelo odluku da svoje predstave ~garnira”
+muzikam, održana je audicija na ko
+joj su izabrani „Smeli”. Pomoglo im је
+
+njihovo iskustvo koje su stekli radedi u
+„Krsmanoviću”. Pristojan muzidki nivo i
+scensko znanje, kao i ozbiljnost kojom su
+prionuli radu, pomogli su im da postanu
+prvi „elektridari” koji izvode svoje egzibicije
+na pozorišnoj sceni. Mnogi su u
+početku skeptično gledali na odluku Igrališta
+da pre svake predstave servira
+svojim gledaocima trideset minuta ~muzike
+na 220 volti”. Zatim je došla predstava
+„Nipošto, niposto” u kojoj su „Smell”
+opravdali poverenje; publika ih je lepo
+primila. No, za to treba da zahvale 1 nadahnutoj
+igri Eve Ras Kad se proculo
+da de ovi momci „ozvuciti” i monologs
+Dostojevskog svi su bill iznenadeni. Bio
+je to sludaj bez presedana. Medutim, rizik
+se isplatio; mladidi su uspešno izvodili ne
+samo romanse vec i Baha.
+Pozorišno igralište i „Smell” pripremaju
+sada dve nove predsatve: „Sineh, samo
+smoh” i scenski prikaz „Plsama u detiri
+oka”, koja su objavljivana u beogradskom
+„Svetu”. Igralište je uvelo još jednu novinu:
+u‘ pauzi svake predstave, uz pratnju
+„Smelih”, pevade mladi interpretatori
+zabavnih melodija. Prvo od njih je Bisera
+Velentanlid. Dakle, umesto bitera koji se
+do nedavno služio u pauzama pojedinih
+predstava, sada Bisera.
+
+Zamenik upravnika ovog pozorišta, Dejan
+Konstantlnović, rekao nam je:
+Pokušavamo da pogodimo želje publike.
+Ne smemo da budemo hermetički, Lsključivi.
+Sa „Smelima” imamo ugovor do
+septembra, ali mislini da će naša saradnja
+potrajati duže. Nedavno je kompozitor
+Zoran Hristid izjavio da je elektri6na
+muzika, kad je „prava”, muzika našeg
+vremena, Ako se ta muzika oplemeni, ona
+može da bude veoma zanimljiva. Delim
+njegovo mišljenje. Ovi momci dosta rade,
+ozbiljni su i vredni; nedemo ih menjati.
+Nedavno smo uspostavili saradnju i sa
+mladom pevačicom Biserom Veletanlid.
+Publika je i nju lepo primila.
+Bisera se upravo vratila sa gostovanja u
+Austriji, gde je boravila zajedno s ansamblom
+Dragana Vidaka. Pevala je u omladinskim
+klubovima, dak dobila ponudu
+da snimi plodu za veliku kudu „Decca”.
+Prilikom svog „debija” u Pozorišnom igralistu
+Bisera je pevala najnovije hitove
+namenjene mladima i romanse za starije.
+Mada sam do sada imala nekoliko ozbiljnih
+ponuda rekla nam je Bisera
+Veletanlid ja sam ih sve neozbiljno
+shvatala. Ponude zamaraju: malo koja od
+
+njih se ostvari. Priznajem, do danas nisam
+mnogo uradila, ali ono što sam uradila,
+uradila sam sama. Uvek sam bila u
+senci Senke. To je usporilo moje napredovanje.
+Sada ulažem mnogo truda i
+„učim” muzaku jer želim da spojim ozbiljno
+izvodenje s modemifn stilom. Pritom
+mislim na stvaranje jednog stila koji bi
+bio nalik na ono što lansiraju Sila Blek,
+Dion Vorvik i Dasti Springfild. Pevadu je
+potrebno da stvori nešto svoje. U oktobru
+idem na turneju u Nemačku i Svedsku.
+Raduje me što mi je Igralište ukazalo poverenje:
+saradnja s njegovim dlanovima i
+članovima ansambla „Smeli" pravo je
+osveženje.
+V. M.
+
+„PONUDE
+ZAMARAIU:
+MAID KOJA OD
+N|IH SE OSTVAIT
+
+7ZAFIRE
+
+1z daleka je to momak kao toliki
+drugi: srednjeg rasta, s minimumom
+mesa na kostima, dugonog,
+nemiran i sasvim nepredviden.
+Izbliza. ima lice osobe koja misli bez napora,
+nekog ko nameče utisak da gate
+misli ispunjavaju zadovoljstvom ili oak
+srećom. Zove se Zafir, Nemogućno je zahtevati
+od Zafir a da ostane miran, bllo
+da sedi iil stoji. Zafir je pokret. Miran je
+jedino u trenutku dok kaže:
+- Nemojte i vi lose o meni. Sad sam na
+’,tapetu”... Neko to zloupotrebi... Krivo
+mi je...
+Ne, nije mu krivo. Čovek kome je krivo
+ne izgleda tako. Možda će vremenom na-
+
+, učiti da štedi talenat
+Sada ge rasipa . na
+mnoge stralle. A!i. us
+peće! Jer, Zafir Hadžimanov
+je rođeni
+čovek spektakla i
+biće uvek pr&tagonista.
+Ambiciozan je,
+Ali, o tome ne priča.
+Neobično Лера boja,
+glasa, ambdćjja i; na>dasve
+samopouadanje
+stvorili su od Hadžimanova
+—Zafira. Da
+nas je to' dovoljno.
+Kratko: Zafir.
+Isti kvaliteti donell
+su mu ј prve uspehe,
+festivalska priznan.ja,
+popularnost. Nasem
+muzičkom svetu bio
+je potreban jeđan ta
+kav, Zafir. Ipak
+to nije dosta. Potreban
+je neko ko
+će jskoristati njegovu
+
+svestranost i mogudnosti; Zafir je glumac
+(nalazi se pred diplomskim ispitom Akademije
+za pozorišnu umetnost u Beogradu),
+Zafir je pevad (neverovatne glasovne
+snage, podjednako siguran na svim muzidkira
+„terenima”), Zafir je igrac (uverili
+smo se u njegovu pokretljivost bezbroj
+puta). Ali, Zafiru je potreban neko ko de
+usmeriti i umeriti njegove pokrete (trenutno
+ih ima suviše pa se dogodi, kao nedavno
+u Splitu, da neko prozbori: „Vidi
+skakavca”, a to nije baš pravo jer Zafir
+sasvim lepo skače. ZIo je jedino što skade
+mnogo). Potreban je neko ko de umeti
+
+da iskoristi svestranost jednog mladog pevača
+i u datom trenutku mu reći: ~Zafire,
+ostani za časak miran!”
+Dok razgovaramo, Zafir sedi na staroai
+klaviru i mlatara nogama. Teško je uhvatiti
+taj pogled koji nikad ne miruje. Nije
+čudo što svet vrti glavom: „Zafire, Zafire!"
+★ Zafire, što ne pevate više bit-melodije
+kad za to iniate sve uslove. Imate čak i
+glas (što u bit-muzici i nije tako česta pojava),
+mladost i temperament. Svet ionako
+kaže; ,ДЈ njega je ušla struja”, pa zašto
+onda ne bi to bila ona na 220 volti?
+S obzirom da sam student Pozorišne
+akademije, a uz to sa žarkom željom da
+se u budućnpsti bavim glumačkim pozivom,
+smatram da mi je' šansona znatno
+bliža. Kad to kažem mislim na tekst
+šansone i mogućnosti glumca da ga interpretira
+na adekvatan način. Mada pripadam
+toj generaciji i nosim sva njena obeležja
+smatram da jugoslovenski pevač ne
+može da nosi bit muziku u. krvi, da je interpretira
+kao nešto što duboko u scbi
+oseća i doživijava. Sličan je slučaj i sa
+džezom, U odnosu na francusku i italijansku
+šansonu, američka zabavna muzika
+
+nikada nije imala kod nas veceg uspeba.
+Niko je nije istinski voleo Snimio sam
+nekoliko melodija iz repertoara Bitlsa i
+Klifa Ridarda i pritom bio svestan da publika
+vise voli „Tužnu Meksikanku”. Pevadi
+sledtaenici Bitisa rne zabavljaju, ali
+ja se opredeljujem za šansonu.
+■k Jeste li pevali šansone i prilikom nedavnog
+boravka u zemlji koja je kolevka
+tog roda zabavne muzike. Čime ste iznenadili
+Pariz, a dime je Pariz iznenadio
+vas?
+Kad se sve sataere, gostovanje u Parizu
+znadilo je za nas uspeh. Pre odlaska
+
+
+
+8OSTANI ZA ČASAK
+
+nmogl su bili skloni da prigovore izboru
+našeg repertoara s motivacijom da su pesme
+pripremljene za koncerte „stare”. Međutim,
+niko nije vodio računa o činjenici
+da je taj repertoar pripreman za one kojl
+nikada nisu imali kontakta s našom zataavnom
+muzikom, za one koji nikad nisu
+čuli naše pesme. Pre nas, u „Olimpiji” je
+gostovao izvanredan ansambl „Young
+America”. ВШ smo egzaltirani onim što
+smo videli i doživeli, a sala je bila poluprazna.
+Cujete li, poluprazna? To nisam
+mogao da razumem: takva umetnost i takva
+virbuoznost a uspeh sasvim relat.ivan!
+Priznajem to nas je dotuklo. Međutim,
+na naš koncert je došla publika
+koju je intesesovala Jugoslavia. Prvo veбе
+je bilo puno. Od dvanaest večeri bar
+sedam je bilo rasprodato. Siguran sam đa
+bi mnogi našd pevači poželeli takav aplauz
+i u dvorani Doma sindikata. Pevao sam
+melodije „čovek kao ja” na francuskom
+1 „Bez oproštaja” na našem jeziku. Imam
+neke planove. Ali, o tome drugi put. Kad
+dođe vreme. Kad dođe zima.
+-fc Zar su planovi do te mere „vreli”
+da ih može „ohladiti” samo temperatura
+zimskih dana?
+Ne bib o tome govorio. Kasnije. Kad
+dođe vreme. Kad dođe zima.
+
+ic Posle nekoliko zapaženih učegća na televiziji,
+stvoren je zaključak da ste izuzetno
+pogodna Utmost za pravljenje šoa.
+Imate li o tome određeno misljenje?
+Rad na našoj televiziji još uvek je brzoplet,
+eksperimentalan. Ni Deni Kej ne
+bi mogao da sa svega dve probe napravi
+dobar šou-program. Za njega radi čitav
+štab ljudi koji se brinu o svakom detalju.
+Kod nas pevač mora sam da brine o sebi.
+Za pravljenje šoa potrebno je dosta rada
+i dosta vremena. Takvi programi, kao 1
+veština i invencija s kojima su oni prav-
+
+Ijeni, oduševili su me u Parizu. Umetnik
+može da bude i sasvim sekundarnog značaja
+(nekad i bez značaja) a da ga tehnika
+i vešte ruke režisera i snimatelja učine gotovo
+besprekornim. To naročito dolazi do
+izražaja kad su u pitanju neke vokalno-instrumentalne
+grupe.
+★ Kako ste prošli u vasoj grupi na Pozorišnoj
+akademiji? Kada ćete se zakititi
+diplomom?
+Nasmejao se:
+— Zakitio bih se još prošle godine da oisam
+bio prezauzet pevanjem. Položio sam
+celu treću godinu. Nedostaju mi nekoliko
+ispita sa četvrte kao i diplomska predstava.
+U poslednje vreme pevanje mi odnosi sve
+
+više vremena. Rekao bih čak da mi smeta
+u ostvarenju onog što je bila moja davnašnja
+želja.
+it Ima II još želja?
+Želeo bih da moja četvrta samostalna
+ploča koja izlazi u septembru doživi uspeh.
+Naročito polažem nade u jednu izraelsku
+pesmu pevanu na ekstravagantnona
+hebrejskom jeziku.
+-A- Znači, stopama Olivere Vučo?
+Pa... tako. I nije tako. Uostalom...
+Uostalom, to je Zafirova stvar. A kad je
+neštO nečija stvar, onda se u to ne treba
+mešati po svaku cenu. Nije lepo! Casna
+red!
+
+~NI DENI KEJ
+NE BI
+MOGAO DA
+SAMO SA
+DVE PROBE
+NAPRAVI
+Sou”
+
+Višnja Marjanović
+Snimci: Cedomir Urošević
+
+9
+
+đžuboKs'l
+■■■■mngazin |pisma
+
+PISMO IZ LONDONA
+
+Mali, all prijatan klub „Klooks Kleek”
+(Kluks Klik). Pun: nekoliko
+stotina tinejdžera. Polumračna atmosfera
+i zaglušujuća muzika.
+Sta hoćete da vam sada pevam? pita
+pevač, visoki crnac u blještećem smokingu.
+„Shotgun Wedding”, „Shotgun Wedding”
+odjekuje iz mnogo grla.
+Već po drugi put večeras ista melodija.
+Posle svršetka ponovo se čuju glasovi
+„Shotgun Wedding”. No pevač se izvinja
+va, јег je već 23 časa, pa se mora zavrSitt.
+Do videnja, uskoro!
+To je bio moj prvi susret sa 23-godišnjim
+američkim pevačem i kompozitorom
+Roy C-om (Roj Si), koji upravo doživljava
+velike uspehe sa svojom poslednjom
+melodijom „Prinudno venčanje”
+(Shotgun Wedding).
+Za vreme pauze u njegovoj garderobi,
+dok razgleda naš „Džuboks”, on priča:
+Trebalo mi je samo pet minuta da kom
+ponujem ovaj dosad moj najveći hit.
+Skupio sam svoju grupu i rekao im da
+bih želeo da snimim ovu melodiju iduće
+nedelje. Probali smo samo dva puta i zatim
+snimali.
+Roj je počeo da peva u dcvetoj godini
+1 to, kao i veliki broj američkih crnaČkih
+pevača u crkvenom horu. Kasnije Je
+odlučio da postahe bokser. No svakodnevni
+trening, trčanje po plaži ! sparlngovanje
+bokseru Hariken Džeksonu (Hurricane
+Jakson) bilo je naporno.
+Mislio sam, mora da postoji lakši naWn
+da se zaradi novae i zato sam ponovo
+počeo da pevam. Moja grupa „Džines”
+(The Genes) imala je i hit pre nekoliko
+godina s pesmom ~Ko to kuca”,
+ali übrzo smo se raspali.
+Da II je vaše pravo Ime Roy C
+(Roj Si)?
+Moje ime je Roy Charles Hamong (Roj
+Carls Hamond). Prilikom puštanja u prodaju
+moje prve ploče želeo sam da upotrebim
+ime Roy Hamond. AM kompanija
+se nije s tim složila, јег u Americi već
+postoji pevaf pod sličnim imenom Roy
+Hamerton. Roy Charles ne dolazi u obzlr
+zbog Ray Charlsa. Dakle, Roy C.
+Vaši planovi?
+Zeleo bih da se stalno nastanim u Evropi,
+jer moje melodije na starom konttnentu
+imaju veću populamost. Amerika
+ne želi da prihvatf neke od mojih protestnih
+pesama, kao: „Moj dan na sudu”
+I „Moja majka je sestra tvoje majke”.
+Zeleo bih da jugoslovenski mladići 1 devojke
+zavole moje melodije”.
+Stisak ruke i poruka koju Je Roj SI naplsao
+s druge moje članske karte za klub
+„Kluks Klik”:
+„Najbolje želje „Džuboksu” 1 njegovim
+čitaocima od Roj Si-a”.
+AND ELKO ZGORELEC
+
+PISMO IZ
+ŠVEDSKE
+
+Ovih dana Svedska je postala
+prava meta za bitnike i pop
+-muziku cele Evrope. Posle rigoroznih
+mera u Francuskoj i En
+gleskoj, bitnici su „otkrili” Svedsku.
+Tako se danas na ulicama Stokholma,
+kao i drugih veeih gradova
+mogu videti du'gokosi mladidi odeveni
+u stare uniforme ameridke vojske.
+Razlika medu polovima svedena
+je na minimum, tako da se nikada
+ne može sa sigurnošdu tvrditi: ovo
+je muško a ovo žensko. Tako je preko
+dana. A nodu, naročito petkom,
+subotom i nedeljom mladi se povlače
+sa ulica i odlaze na igranke u
+dansing-lokale, kojih u Stokholmu
+ima veoma mnogo. Po tim lokalima
+i klubovima pevaju i sviraju često
+i Donovan, Dilan i drugi. Zahvaljujudi
+masi tinejdžera, u švedskoj postoji
+veliki broj pop-sastava (samo
+u Stokholmu oko 250). Oni najbolji
+sastavi, kao što su Hep Starsi, Sejusi,
+Ola i Jangleusi, po muziciranju
+ne zaostaju za vodedim sastavima
+u svetu. U celoj Svedskoj je
+naročito popularan ansambl Hep
+Stars. O njegovoj popularnosti najbolje
+govori broj snimljenih ploda
+desetak malih i vedih broj LP
+ploda. Njihov poslednji uspeh je
+ploča „Vencanje” koja ved nedeljama
+ne silazi sa vrha švedskih top
+-lista. Njihovoj ogromnoj popularnosti
+je svakako doprinela i Cinjenica
+da sve svoje stvari pišu sami.
+Ovog leta, i verovatno samo ovog leta,
+Stokholm je postao centar bitnika
+i mode. No, kako svaka moda
+prolazi, Stokholm de se idude godine
+verovatno sa osmehom sedati
+prljavih dugokosih mladida koji su
+sedeli ili ležali pred Koncert-hausom,
+ili se besciljno vukli ulicama.
+Smejade se tome, all de se verovatno
+plašiti od neke nove mode koja
+de preplavitl njegove ulice.
+SEDAN MARCETIĆ
+
+PISMO IZ 4
+CIRIHA
+
+Svajcarska je vrlo zanimljiva zemlja:
+po povrsim mala a po
+mentalitetu ljudi vrlo Sarolika,
+opsednuta Alpima i bez naročitih
+prirodnih bogatstava a ipak na
+zavidnom nivou materijp.lnog obilja.
+Svajcarci su štedljivi, all kada nešto
+kupuju onda se odlučuju za najkvalitetnije
+stvari, bez obzira da li one
+potidu iz Svajcarske, Amerike, Sved
+ske, Japana ill nekog drugog kraja
+syeta. Tako postupaju i kada je u
+pitanju muzika. Samo tu odnosi riisu
+tako jednostavni, jer pri form!
+ranju kriterijuma veliku ulogu igra
+i lični ukus. On se menja od grada
+do grada, jer Svajcarsku naciju
+čine nemadki, francuski i i tall jar.
+ski Svajcarci. Zato u Svajcarskoj
+uvek postoje opšti bestseleri iz Engleske
+i SAD i lokalni hitovi koji
+su medusobno vrlo razliditi. Svaka
+radnja sa plodama ima obavezno detiri
+odeljka: anglosaksonski, francuski,
+nemačkl i italijanski. Svaki
+od njih je snabdeven najnovijim pro
+dukcijama, najčešđe direktno uvezenim.
+Primera radi, poslednji sienal
+Bitlsa PAPERBACK WRITER
+pušten je u prodaju istog dana i u
+Engleskoj i Svajcarskoj.
+Medutim, u prodavnicama ploda pada
+u odi nedostatak odeljka sa sopstvenom
+modernom muzikom. Tu
+se Svajcamma može staviti ozbiljna
+zamerka, jer oni su se ležerno
+prepustili tudim tokovima ne ulažuđi
+veliki napor da ih nedim svojim
+obogate.
+I u Svajcarskoj su medu mladirn
+i najmladim generacijama vrlo popularni
+ansambli i „bit” muzika. Pored
+renomiranih stranih imena, koja
+se ne viđaju desto na koncertnim
+plakatama, postoji i dosta amaterskih
+grupa, a i nekoliko po zvanidnom.statusu
+profesionalnih. Najpoznatije
+su LES SAUTERELLES.
+GENTLMEN, DYNAMITES. SEVENS.
+Sve one na repertoaru imaju samo
+kompozicije koje je napisao, aranžirao
+i proslavio neko iz Engleske
+ili SAD, pa su zato ogranidenog uspeha
+i manjeg znadaja.
+Muzidki dasopis Svajcarske omladine
+„Pop” ima otprilike isti staž kao
+i „Džuboks”. On u svemu podseda
+na njega, samo Sto se bavi lokalnom
+tematikom.
+Svoje slobodno vreme mladi Svajcarci
+provode kao i naši mladi:
+predvede na šetalištu, u kafeu uz
+džuboks ili u bioskopu. Ovde su vrlo
+omiljeni i izleti u prirodu, a s
+tim u vezi postoji i jedna zanimlji-
+
+ižuboKsl
+■(■Himagazin )
+
+10PISMO IZ
+ČEHOSLOVAČKE
+
+UPragu je registrovano nekoliko desetina
+VIS-ova. Neki od ovih ansambla
+mogu se merit! sa najpopularnijim
+vokalno-instrumentalnim sastavima
+Engleske. Iz grupe najpopularnijih odskače
+sastav OLIMPIKS. Njihova izvodenja
+poznata su mladiraa u celoj čehoslovačkoj,
+jer je ovaj sastav mnogo gostovao
+u imutrasnjosti. Clanovi ansambla su:
+PETR JANDA, solo gitara, (1942) muzićar;
+LADISLAV KLAJN, ritam gitara
+(1944), muzičar; PAVEL HRASTINA, bas
+gitara (1940), muzičar; MIROSLAV BERKA,
+klavir, usna harmonika i daire (1944);
+JAN ANTONJIN, PACAK, bubnjevi (1941),
+akademski slikar. Ovi mladići imaju veće
+muzičko obrazovanje jer svaki od
+njih, pored instrumenta na kome svira u
+orkestru, svira još na nekom instrumentu.
+Petr svira na violini, mandolini, k!aviru
+i na braču, jednom starom narodnom
+Instrumentu. Pored toga, on komponuje
+moiodije za ovaj orkestar. Ladislav
+zna da svira na klaviru, a Pavel svira na
+
+va manifestacija. To je takozvani
+radio-izlet. Naime, nekoliko dana
+pre vikenda za koji je radio-izlet
+predviden, preko radija se objavi
+otaaveštenje o tome kuda de se idi,
+kada i odakle se polazi. U zakazano
+vreme se nalaze mladi i stari Svajcarci
+iz svih krajeva zemlje i zajednički
+kredu na planiranu rutu.
+To je ovde lako ostvarljivo, jer se
+sa kraja na kraj Svajcarske može
+stidi vozom za nekoliko časova. Idcja
+je vrlo lepa i mogla bi se u skrom
+nijim razmerama ostvariti i kod
+nas.
+BORJAN KOSTIĆ
+
+klaviru i piše tekstove za melodije. Jan
+svira bendžo, usnu harmoniku, a proizvodi
+zvuke i na dasci za pranje veša.
+O velikoj popularnosti OLIMPXKSA u
+Pragu svedoči 1 to što imaju svoj „FAN
+KLUB” u Ulici Spalena 16, gde za publiku
+sviraju tri puta nedeljno. Ovaj klub izdaje
+i svoj časopis posvećen OLIMPIKSIMA.
+Medutim, klub nije njihov najvedi uspeh.
+Oni su snimili deset plooa za „Suprafon”
+a dva puta su svirali na televiinji.
+Gostovali su u Poljskoj i Nemačkoj Đemokratskoj
+Republici. Jedan poljski muzički
+časopis se vrlo pohvalno izrazio o
+ovom gostovanju i podvukao da su OLIMPIKSI
+vise, ođuševili nego ENIMALSI koji
+su gostovali u Poljskoj. U istočnonemačkom
+filmu „Strašna žena” predstavili su
+se gledaocima na nekoliko minuta. Velika
+
+priredba TOP ŠOW, održana 29. aprila
+ove godine, donela im je nov uspeh. Medu
+pet najboljih praških orkestara izabrani
+su za najpopularniji.
+Najčešde sviraju kompozicije iz repertoara
+ansambla Kinks, zatim Rolings Stounsa
+1 Priti Tingsa. Posle gostovanja grupe
+Manfreda Mana u čehoslovačkoj, oni su
+mnoge kompozicije ovog ansambla uvrstili
+u svoj repertoar.
+Za svoje koncerte nemaju nikakvu specijalnu
+garderobu, već se pojavljuju obično
+u farmerkama i ne razlikuju se od publike.
+Možda je to jedan od uzroka njihovd
+velike popularnosti. Sada je „Fan klub”
+zatvoren jer su OLIMPIKSI na odmoru.
+Mladi s nestrpljenjem čekaju završetak
+leta i njihov povratak.
+DRAGOLJUB MATIC
+
+MALE ZANIMLJIVOSTI
+
+~The ventures'* u akciji
+★ Cuveni američki instrumental«! ansambl
+„Veneers” planiraju turneju po
+SAD. Oni će u grupi sa Džeri Li Luisom
+i Fets Dominom gostovati u 43 amerieka
+grada.
+
+~ZOMBIES« - PONOVO
+SVIRAJU T
+
+% Posle duže pauze engleska vokalno-lnstrumentalna
+grupa „Zombies” ponovo se
+nalazi na okupu. Рге desetak dana održali
+su koncert u Selildu gde ih je 2.009
+slušalaca oduševljeno pozdravilo. U meduvremenu
+snimili su i svoju novu long“Plej
+ploču.
+
+KEČERI UMESTO
+DŽONIJA
+% Na tašmajđanskom stađionu u Beogradu,
+umesto najavljenog gostovanja Džoni
+Holiđeja, imali smo prilike đa vidimo
+„čuvene” kečere. Nadamo se da ćemo
+uskoro umesto, Žilijete Greko na TaSmajdanu
+gledati borbe blkova.
+
+Nova ploča
+Donovana т
+
+■ Nova singl ploča Donovana, pod
+nazivom „Sunshine superman”, postiže
+veliki uspeh. Donovan ima i
+novog menadžera. To je Mild Most,
+menadžer grupa „Animals” i „Herman’s
+Hermits”.
+
+11
+
+ižuboKs'
+■fiMimngazuiADRIANO, ADRIANO
+koliko ima sati?
+
+Kgd čosovničor poslone pevač, kid se eosovnik zonieni mikrofonom
+- redo se Adriano Ćelentano
+
+Publika ne
+okreče lefla
+pevaču kojl je
+prvi o italijl
+počeo da peva
+ledima
+okrenul
+public!
+
+Milano, avgusta
+■jSr Adriano Ćelentano, tvoj dasovnik kuca
+u ovom trenutku bez greške. Kaži mi, koИко
+je tačno časova. .. U tvom životu?
+Još bolje: ispričaj o svom životu sve što
+možeš u ovom trenutku!
+To pitanje sam postavio u jednom baru u
+milanskoj Ulici Gluk, ulici detinjstva Adriana
+ćelentana.
+Za mene kažu da sam veoma uobražen.
+Da sam, još vise od toga, isuviše
+okupiran sobom. Da sam osnovao svoj
+klan samo zato da bih mogao da imitiram
+Prenka Sinatru.
+Medutim, ja sam kao i svi drugi ljudi.
+Razlika je samo u tome što se ja zovem
+Adriano Ćelentano. Inače, veruj mi, sentimentalan
+sam i romantičan kao neki
+skroman srednjoškolac.
+
+Uostalom, da ti ukratko ispričam moj tivot.
+I to od onog trenutka kad sam u
+srednjoj školi, na kraju školske godine,
+dobio prolazne ocene samo iz geografije
+i crtanja.
+Na porodičnom većanju; ~šta da se radi sa
+malim Adrianom”, odlučio je autoritet
+moga ujaka koji je po profesiji casovnicar.
+Uskoro zatim, našao sam se za pultom
+u jednoj časovničarskoj školi
+Kad sam završio tu školu, zaposlio sam se
+u jednoj od najluksuznijih časovničarskih
+radnji u samom centru Milana. Veoma
+sam se izveštio u otkrivanju i najmanjih
+kvarova čak i golim okom.
+Ujak je bio neobično zadovoljan. On mi
+je jednom ponosno prognozirao veliku
+budućnost. Pogodio je to samo jednim delom.
+Jer pređa mnom je zaista ležala bu-
+
+džuboKs'l
+■Ннтадаип |
+
+12dućnost, аћ ne časovničarska već pevačka.
+Evo, како se to dogodilo.
+Polovinom 1956, taono рге deset godina,
+bila je popularna rok-melodija „Ludi časovnik”
+Mene je kao stručnjaka za časovnike
+neobično zainteresovao ovaj rok,
+pa sam kuplo gramofonsku ploču. Slušao
+sam je sa naročitim interesovanjem, mada
+su reči bile na engleskom jeziku, pa nisarn
+razumeo baš ništa.
+All su tada moje noge postajale sve ne
+гшгшје, ruke su pravile nekakve krugove
+u vazduhu, glava rni se okretala levo-desno,
+gore-dole. tik-tak. Zatirn sam počeo*
+da pevam tu melodiju, pa sam onda opet
+skakao, vratio sam onda ploču na početak
+.
+Cinilo mi se tada da sam ja taj koji diktira
+ritam grarnofonskoj igli.
+Morao sam da prekmem jer je bio zakazan
+žur kod jednog prijatelja. Na žuru
+sam ponovio onu igru koju sam izvodio
+za sebe kod kuće. I svi su bili odušev
+Ijeni. Meni se ćmilo u prvom trenutku
+da me ismejavaju. All. kad je neko predlo
+žio da se žur prekine- i da se ode na jedшд
+javnu Igranku da bih svoj rok s pevanjem
+ponovio j tamo, video sam da se
+događa nešto važno u mom životu.
+I tamo sam dobio aplauz.
+Veče se završilo posetora jednom poznatom
+baru „Santa Tekla”. Tu se sakupIjaju
+najpoznatiji džezisti Milana. Opet
+su ше prijatelji naterali a bilo je teškp
+naterati me da igram rok i da pevam
+pesmu o časovniku. Gosti su zaboravili
+na svoje piće, muzičari na svoje instruments,
+kelneri na svoju dužnost: Svi
+su gledali u mene kao u neko čudo.
+U stvari, najviše sam bio začuđen ja.
+Jer, bilo je jasno: Ijudima se sviđa kako
+ja pevam i skačem. Trebalo je to iskoristiti.
+Idućeg dana nisam otišao na posao. Jedna
+stolica u časovničarskoj radnji ostala
+je prazna. Zauvek!
+Ja sam učio nove pesme i nove гок-рок
+rete.
+Prvog prolećnog dana 1957, na zatvorenom
+klizalištu Milana, na takmičenju rok’nrolista,
+prikazao sam pred deset hiljada
+
+gledalaca sve što sam za tih nekoliko mesect
+naučio. Tada je već bilb jasno da ,ie
+led konačno probijen.
+Od tog dana, o meni se počelo da prica
+da sam uobražen. Ćim postigneš neki uspeh,
+o tebi se шога nešto lose pričati.
+All, meni je bilo važnije da popularnost
+stečenu u Milanu proširim na celu Italiju.
+Uspelo mi je.
+Iduda etapa mi je bila želja da me upoz
+na i Evropa. Sansa mi se pružila januara
+1961. u San Eemu na festivalu italijanske
+pesme. Tad sam se proslavio i u Evropi
+pred ekranom Evrovizije, pevajući „24.000
+poljubaca”.
+Sad sam ne samo pevač, već i trgovac,
+pošto sam i sopstvenik fabrike gramofonskih
+ploca „Karamba”.
+ir Adriano, kaži mi istinu: da li je tačno
+da je tvoja cena za jedno veče milion
+lira?
+-r- Ne, nije tačno. Tačno je da ja pevam
+za milion i po lira.
+if Sad znam, koliko je tačno časova: ukratko,
+ti si multimiiioner!
+Imati svoju fabriku, znaci imati milijarde
+danas, a sutra ćeš možda opet opravljati
+tuđe časovnike.
+
+•k Ti si toliko popuiaran, da se tebi ne
+može tako neštb desiti. Reci mi, Adriano,
+da li ti je težak teret popularnosti?
+Prauo da ti kažem, nije baš tako lako
+biti popularan.., Pa, ipak, bolje je nositi
+teret popularnosti, nego biti bez toga toreta.
+ne voliš kravatu, retko te vidim
+s njom?
+Kravata mi sputava i noge i ruke. A
+tek glas!
+čovek koji je prvi počeo da peva leđima
+okrenut publici, sve vise povećava svoju
+popularnost. Publika je poslednjih desetak
+godina mnogima okrenula leda, ali njerau
+neće još zadugo.
+Zar ne, Adriano?... Ti uvek znaš koliko
+je časova?
+
+»Lfudima
+sviđa kako
+io pevam...«
+
+Darko šarenac
+
+13
+
+ф SVA К 0 S
+ČEIVRTKA
+»FILMSKI SVETa
+
+ižuboks
+■ttHmagannMODA
+Za
+Vas
+
+Si NASA CITATELJKA MIRJANA SXOJANOVIC IZ NOVOG
+SADA PONOVO NAM JE POSLALA NEKOLIKO
+SVOJIH RADOVA. NJENI MODELI SE ODEIKUJtf SMELIM
+LINIJAMA I BOGATSTVOM RAZNOVRSNIH ĐETALJA.
+UOSXALOM, UVERIXE SE:
+
+Svakoga dana u našu redakciju stizu brojni
+crtezi, modne kreacije nasih citalaca, koji
+sami tragaju za novim elementima odevanja
+
+3. Letnji kostim od
+lakog svetlog materljala
+sa dugim sakoom
+i ornamentom
+s leve "”ane, sastav
+Ijenim od dezeniranog
+materijala.
+
+2. Jednobojna haljina
+ukrašena brošem
+c»d keramike. Nakit
+od keramike veoina
+je moderan, naroeito
+kad su u pitanju
+in lade devojke.
+
+1. Sako koji može da
+posluži kao uniforша
+za vokalno-instrumentalne
+sastave.
+Dopunjuje se ko
+šuljom sa uspravnim
+okovratnikom i pru
+gastom mašnom.
+
+6. Dva kostima u geometrijskom dezenu.
+Prvi ima okovratnik, manžete i kaiš u
+sitnom kockastom dezenu, a drug! prugastu
+suknju i maramu koja se može
+skinuti. Rukavi i psec ukrašeni su paspulima.
+5. Nekoliko modela koji mogu da positive
+kao uniforma za bit-sastave. 1) Osnovni
+i veoma efektan detalj je veliko početno
+slovo ansambla na džepu. 2) KošuIje
+u kombinaciji cvetnog i jednobojnog
+materijala i svetle pantalone s ukrasnim
+džepom. 3) Sako sa interesantnim zakopčavanjem,
+velikim okovratnikom i originalnim
+manžetama. 4. Sako koji podseća
+na vojnicke bluze sa mnogo štepova, dva
+velika visoko postavljena đžepa i crnom
+majicom koja se nosi ispod njega.
+
+4. Suknja dopunjena majicom Ш bluzom
+neophodan je dco u garderobi svake devojke.
+Na slici: nekollko modela sukanja ukragenih
+štepovlma, monogramorn, visećim novčanikora
+ill zakopčavanjem „zipom” celom
+dužinom Uz ove suknje nose se jednobojne
+bluze vojničkog sffla, dezenirane ill n kombinaciji
+dva materijala. Uz njib lepo prtstaju
+i raznobojne majiee.
+
+ј&Ш
+
+14njihov
+sjaj
+ne tamni
+
+RIK
+nelson
+
+Jednom je dobio iz Japana
+kimono sa 15.000 potpisa
+svojih obožavalaca,
+koji ga mole da dode u njihovu
+zemlju. Bio je idol tinejdžera
+celog sveta i ploče su
+mu prodavane u milionskom
+tiražu. Imao je osam zlatnih
+ploča, izmedu ostalih i za kom
+pozicije „Hello Mary Lou” i
+„Jadna mala luda” (Poor little
+fool) koje su i kod nas popularne.
+Dvadesetak njegovih
+interpretacija je zauzimalo visoko
+mesto na raznim TOP-listama.
+Svaka njegova LP-ploča je bila
+doživljaj. Imali smo prilike
+da ga vidimo u filmu „Rio
+Bravo”, kao glumca i pevača.
+Taj plavooki mladić, koga je,
+kao i mnoge druge, najezda vo
+kalno-instrumentalnih grupa
+potisnula u drugi plan, zove se
+Erik Hiliard Nelzon. Sve do
+pre tri godinc njegovo umetničko
+ime je bilo Riki Nelzon,
+all od tada on insistira na tome
+da ga zovu Rik, jer smatra
+da je odrastao i da tako
+deluje ozbiljnije. Prvi javni
+koncert Rik Nelzon je imao u
+desetoj godini, ali je posle toga
+prošlo dugo vremena dok
+mu se nisu otvorila vrata studija
+za snimanje. Uspeh je bio
+munjevit i svet je uskoro saznao
+za novo ime.
+Njegov topli i pomalo dečiji
+glas obišao je svet. Mada mladi
+stalno pronalaze nove idole
+i stilove, ipak će svako rado
+ponovo čuti neku baladu u izvodenju
+„starog dobrog” Rika
+Nelzona. Borislav Mitrović
+
+mali leksikon
+
+JN
+LIVE"
+
+•& In live znači snlmanje „па živo”.
+Ovaj sistem snimanja vrlo je popularan
+na zapadu. Snimanje plo6a vrši
+se obično u go to klubovima ili
+manjim koncertnim salama. Publika
+žamorom, aplaudiranjem, бак i
+pevanjem 6inl snimak dubljim i reIjefnijim.
+„In live” se izbegava u velikim
+salama (zbog velike buke),
+na priredbama na otvorenom prostoru
+(zbog „raslpanja” zvuka). Izuzetak
+je bio jedino festival džeza
+u Njuportu, gde je mnogobrojnim
+kvalitetnim mikrofonima potpuno
+uklonjen ovaj nedostatak. Snimanja
+„па živo” vršena su u „Star-club-u’’
+u Hamburgu, u „CAVERN-u” u Londonu,
+„Sord-u”. u Las Vegasu i „Locomotive”
+u Parizu.
+Najpoznatiji „In live” pevač je Trlni
+Lopen koji je 90 odsto svojih
+kompozicija snimio uz učešće publike.
+„РШЈ
+BACK"
+
+it Pri pravljenju neke muzičke emisije na televiziji najčeSće
+se upotrebljava postupak koji se naziva „play-back". Ovaj sistem
+sinhronizacije slike i zvuka pronađen je i prvi put upotrebljen
+u Americi pred drugi svetski rat. Ova vrsta sinhronizacije
+do danas se uopšte nije promenila iz sledecih razloga:
+u TV studije nemoguće je zbog malog prostora dovesti sve
+koji ucestvuju u snimanju emisije;
+TV stanica bi morala da se izloži ogromnim troškovima,
+plaćajući uzurpiranje vremena svakog izvođača ponaosob, jer
+snimanje traje obično vrlo dugo.
+—i, to je najteži problem zbog različitih šumova u studiju
+nemoguće je obezbediti savršeno tehnički besprekomo Istovremeno
+snimanje zvuka i slike.
+Kako je sve ovo bilo nemoguće izbeći, pribeglo se odvojenom
+snimanju zvuka i slike. Pesma koju pevač Ш orkestar izvodi
+prethodno je već snimljena. Za vreme snimanja emisije pevaču
+ostaje samo da otvara usta i istovremeno „peva” u duetu sa
+svojim glasom sa ploce.
+U poslednje vreme plej-bek se upotrebljava i na koncertima,
+naročito „elektricarskih” orkestar a. Kako je sa bine gde postoje
+svega 2—3 izvora zvuka nemoguće nađjačati galamu, organlzatori
+jednostavno „puste” ploču sa kompozicijama koje će
+ansambli izvoditi preko centralnog pojačala koji ozvučava celu
+salu. tako da muzičarima ostaje samo da „odglume” sviranje.
+
+15
+
+шАRANŽMAN ZA VAS
+WILD THING
+DIVLJAKUŠA
+
+by CHIP TAYLOR .
+
+fcuboks'l
+вшштмдауи 11
+
+1617ČUJTE IH
+SVAKAKO
+
+A TOM-ic JONS (LP)
+★ lako je ploča izašla pre nekoliko
+meseci, kod nas se malo čulo o
+njoj; zato vam je i preporučujcmo.
+Da Ji ste pokušali da Toma Džonsa
+uporedite sa bilo kojim interpretatorom?
+Uzmite svih 14 kompozicija
+sa ove ploče i zaključak će uvek biti
+isti: On je NEUPOREDIV.
+A ХОМ-ski Džons je njegov drugi
+LP. Ploča ima najadekvatniji moguć
+naziv i u pogledu vokalnog i u
+pogleđu instrumentalnog dela.
+Ipak, posebnu pažnju obratite na
+kompozicije „Те stvari ne zaboravIjaš”
+(These things yon DON’T forget)
+i „Onaj koji gubi” (The Loser)
+bisere ovog albuma.
+* * «
+SLOVA LJUBAVI (LOVE
+LETTERS)
+★ Mada neobično mnogo podseća
+na Elvisa iz prvog perioda njegove
+karijere, kompoziciji „Slova Ijubavi”
+пеша zamerke, naročito kad se
+uzme u obzir činjenica da poslednjih
+nekoliko meseci nije dao ništa
+naročito.
+Interesantno je da kompozicija, koju
+smo i ranije imali prilike da čujemo
+u interpretaciji Dajon Vorvik
+i Artura Aleksandera, deluje kao sve
+že i originalno ostvarenje.
+* * *
+★ „Recite joj da nisam n knći”
+(Tell her y’m not home) Ike
+and Tina Turner, posle kompozicije
+„Kao reka duboka kao planina
+velika” (River deep mountain
+high), opet jedno od genijalnih
+ostvarenja aranžera Fila Spcktora.
+Sama činjenica da im je on
+pripremio prvi hit govori o njlhovim
+kvalitetima.
+Drugi uspeh „Recite joj da nisam
+u kući” iznenadiće vas samo
+glas, promukao i osećajan; sve ostalo,
+počev od ritma do vokalne prat
+nje je novo. Same po sebi to hi hilo
+dovoljno da obratimo pažnju ovom
+ostvarenju, a kad utvrdimo da je i
+kvalitativni nivo ostao nepromenjen,
+jedini zaključak je: Ajk I Tina Tarner
+su duo godinp
+« $ *
+„VAN VREMENA” (Out of time)
+Chris Farlowe. Ko kaže da je posle
+nekog poznatog interpretatora teško
+postići veći uspeh istom kompozicij°m,
+naročito ako je to prvi hit?
+lako je u pitanju originalna interpretacija
+Roling stounsa Kris
+farlou nas je übedio u suprotno.
+Prefinjeniji aranžman, uz dodatak
+duvačke linije i Krisov neponovljivi
+glas stvorili su novo ostvarenje.
+
+DA LI
+ZNATE?
+
+YARDBIRDS:
+КИЦ6Д ANE6DOTA
+
+'A' Ansambl „Yardbirds” izđao je noyu
+long-plej ploču. Ploča se zove kao
+i sastav, a autori melodija su članovi
+grupe. Crtež na naslovnoj
+strani realizovao je Kris Dreja. Kris
+
+i drugi član sastava, bubnjar Džlra
+Makarti, objavili su i knjigu anegdota
+o zajedničkom životu ansambla
+„Yardbirds”. Ceo avgust ansambl
+je proved na turneji po SAD.
+
+NE SAMO NJIHOVO PEVANJE I SVIRANJK
+VEC I BROJNE KOMPOZICIJE OBILA2E
+KONCERTNE DVORANE DONOSECI Ш
+NOVE PRIHODE, DOK NA DRUGOJ SXRANl,
+NJIHOVE IZJAVE I POSTUPCI ODBIJAJU
+NOVE OBOŽAVAOCE
+
+■ Ansambl „Four Brothers” «ninuo
+je novu LP-pio£ u odabraiim
+kompozicijama proslavljenog tandema
+Lenon-Makartni. Na ploči se
+nalaze melodije „Michelle”,
+„Help”, „Yesterday”, „Norwcgian
+wood*’, ~We can work it out”,
+..Nowhere man”, „ГЦ follow the
+sun”, „And I love her”, „If I fell",
+„Girl”, „All my loving”.
+
+ižuboKsl
+MBHninyazm I
+
+18»freme ш pldkcnfe«
+u Irancuslcol verziji
+■ Francuski pevač Klod Fransoa
+snimio ze francusku verziju čuvene
+interpretacije Reja Carlsa „Vreme
+za plakanje”, pod nazivom ~Le temps
+des pleurs”.
+
+VIS „OLIMPIKS” 1Z PRAGA GOTOVO BEZ PREMCA U SVOJOJ ZEMLJI,
+A JEDNO OD NAJPOPULARNIJIH IMENA CEHOSLOVACKE BIT-MUZIKE
+JE CLAN OVOG ANSAMBLA LADISLAV KLAIN ►
+
+VIS „ZLATNI DECACI” SVE CESCE
+SE POMINJE KAO ANSAMBL
+KOJI NEGUJE DOBRU BIT-MXJZIKU
+I ROME SE PRORICE POTPUNA
+AFIRMACIJA
+
+Endi Oldhem je postoo
+direkfor orkestra
+■ Endi Odlhem je postao direktor
+orkestra: menadžer Roling stounsa
+dirigovao je velikim orkestrom za
+long-plej ploču koju je izdala „Decca”,
+pod nazivom „Rolling Stones
+Songbook”. Na ploči se nalaze najuspešnije
+melodije iz repertoara
+ovog ansambla. Izmedu ostalih; „Satisfaction”,
+„Heart of stone”, „As
+tears go by”. „The last time”.
+
+Kompoziciia »Aifie« snimllena
+u sedam verzifa
+B Kompoziciju Berta Bakaraka „Affie”
+snimilo ja do danas sedam pevača za razne
+izdavačke kuče. Evo njihovih tmena;
+Ser, Sila Blek, Dion Vorvik, Karmen Mek
+Ri, Dženi Somers, Džek Džons i Toni Martin.
+★ Nedavno je na britanskoj lisli
+TOP-tventi nekoliko nedelja bio i
+Roy sa kompozicijom „Lana”. To пе
+bi bilo čudno kad je u pitanju pevač
+njegovih kvaliteta, ali je čudno
+kad znamo da ,je Roj tu kompoziciju
+snimio 1964. godine i izdao na
+LP pločr. Sada je „reaktivira”, gotovo
+neizmenjenu. Šta će mu to?
+
+if Poslednjih meseci u Zagrcbu,
+Ljubljana i Sarajevu mogu se naći
+ploče trenutno popularnih TOP pevača,
+npr. P. Y. Proby-a i Sikersa.
+U Beogradu se u isto vreme prodaju
+ploče, kao „Surfin, USA”, izdate
+pre dve ili tri godine. Ko je to mogao
+doći do zaključka da mlade Beogradane
+ne interesuju novi snimci
+i interpretatori? Izgleda, da je posredi
+nesnalažljivost preduzeća koja
+se time bave!
+
+•ff Kris Motez je pevač koji nikad
+nije bio vrhunski. Tim pre je čudna
+činjenica da jedna osrednja interpretacija
+(čak u odnosu i na njegov
+nivo) bude jedna od dvadeset najbolje
+prodavanih ploča u Velikoj
+Britaniji! Reč je o „Što te vise gie
+dam” (The more I see you), koja je
+snimljena i izdata pre vise od tri
+meseca. Dali je u pitanju nemanje
+ukusa Ш nešto drugo?
+
+if Na pitanje zašto se ne uvozi vise
+filmova sa POP muzikom (a i kart
+ucine, to biva s velikim zakašnjeијет),
+stručnjaci iz preduzeća „Моrava-film”
+su odgovorili da je razlog
+u tome §to se takvi filmov! vetko
+snimaju u svetu! (?)
+
+BEZ RECI
+
+19
+
+džuboKsl
+■ammagazin |VELIKA
+CRNA
+MOLITVA
+
+GOSPEL SONGS I SPIRITUELS rođeni
+su s Crnom tugom. Na beskrajno
+žarkim poljima Misisipija, u skrivenim
+sastajalištima gde atmosfera liči na pogrebne
+reminiscencije, na dalekom Jugu
+patnje i sramote zbog crnog žiga i
+uverenja, koje se granići sa prokletstvom.
+MAHALIJA DŽEKSON živi je simbol
+velike poruke i jedini naslednik nezaboravne
+Besi Smit.
+Pevanje velike Mahalije to je u stvari
+molitva: žarka pobožna molitva i žeIja
+da se svrši jednom zauvek taj večni
+crni nemir.
+Rodena je pre 56 godina u Nju Orleansu,
+gradu koji je dao svetu Fetsa
+Domina, Luja Armstrongs, Kinga Olivers
+i druge. Potiče iz veoma siromašne
+porodice. Od malena se bila privikla
+na motiku i teške seljačke poslove.
+I u najtežim trenuclma, kada bol skrši
+telo i dušu, tiha pesma nije naptxštala
+velika usta koja su se tromo pomicala.
+U jedanaestoj godini otac ju je poslao
+u Cikago. Mahalija je sanjala dace jednog
+dana postati bolničarka.
+Ni život u gradu nije bio lakši suđopera,
+čistačica, teški fizički radovi
+koji iscrpljuju glomazno telo erne žene.
+Uskoro zatim peva u glavnoj gradskoj
+erkvi religiozne duhovne pesme i zarađuje
+za skroman život.
+Upravo tada počinje bekstvo ka pesmi
+i slavi koja ne zna za poraz.
+MAHALIJA DŽEKSON DANAS je najveće
+ime u istoriji spirituela Amerike.
+Niko nije pevao tajanstveni Gospel sa
+toliko žara i snage, sa toliko života 1
+bola.
+
+Najveći njeni uspesi su: „Hajde da se
+molimo zajedno”, „Smeđokosa devojka”,
+„Ја sam na svom putu”, „Svetlo
+polazi sa Istoka”, „Umreti za tebe", „О,
+Bože moj”, JDuboka reka” i još stotine
+poznatih naslova.
+Velika Mahalija nije nikada učila note.
+Ona još ni danas ne zna šta znače ta
+6udna slova ispremeštana u skali tonova
+i falseta.
+Za sebe kaže:
+Nikakve škole nemam. Ja sam primitivna
+žena Juga, s nemirnog Misisipija,
+i sva шоја tuga vuče koren iz tog
+
+кгаја. Sve što želim, to je da pevam.
+Bilo kako, samo da pevam. O tuzi, !jubavi,
+životu o Ijudima i svemu ito
+zaokuplja dušu i telo eoveka,
+Obišla sam sve zemlje sveta. Ali, najveću
+nagradu za moj uspeh dobila sarn
+u Izraelu. Posle koncerta koji je trajao
+do dva i po sata publika je počela da pe
+va po taktu pesme: „Zovem svoje telo”.
+Zatim se jedna nemoćna starica popela
+k meni na podijum, zagrlila rne i
+rekla kroz suze: „Hvala ti, Mahalija
+hvala, dete, ovo neću nikada zaboraviti.
+Lik i pesma grandiozne Mahalije trajaće
+dok bude pesme.
+
+Toni Nartlić
+
+TOMI SOVILJ
+BEZ SVOJIH
+"SILUETA"
+
+■ Popularnog pevača „bif’muzlke 1 poznanlkr
+mnogih mladlh sa Cajanki и „Mažestiku” 1 ka
+fe-baru „Terazije”, zapaženOg na „Gitarijad
+66”, zatekli smo na pollgouu garnizona Sarajevo,
+gđe miadi pevač od marta služi svoj vojni
+rok. Zatekli smo ga okruženog mnogim vojnicima,
+a lu je bila i gitara. Za momenat smo
+ga izdvojili i postavili mu nekoliko pitanja,
+koja su se odnosila na zabavnu muziku, vojnički
+život 1 njegovu ploču koju Je snimlo za
+kuću „Diskos”:
+Pred sam odlazak na odsluženje vojnog roka,
+sa svojim ansamblom „Siluete” pevao sam n
+kafe-baru „Terazije”, a Imao sam 1 jednu turneju
+po većim mestlma Srblje i Makedonije,
+gde sam pevao pored Nine Splrove 1 Anlce
+Zubovlć, U svim mestlma miadi su me lepo prlmili,
+jer ja 1 moj VIS se trudimo da pogodimo
+ukus mladlh, obnavljajućl stalne svoj reper*
+toar 1 prateći modu u svetu.
+
+Za svoju pločiij koja je izaSla dok sam ja
+ovde, na odsluženju vojnog roka, čujem da je
+tražena.
+Na pitanje kako provodi svoje vojniCke dane
+Tomi je odgovorio:
+lake je obuka prl završetku 1 zanimanja
+ulaze u završnu fazu, ipak se nade dosta vremcna
+i za muziku. U kasarni vodim zabavnomuzičku
+sekeijn, prl vojničkom klubn, 1 vrlo
+£esto gostujemo po okolnim mestlma.
+U razgovoru Tomi nam je poverio da uskoro,
+kada dode na odsustvo, treba da snimi novu
+
+ploču. Kada smo ga upitali o VIS-u „Siluete”
+rckao nam je;
+Vrlo često se dopisujemo i dogovaramo. Sada
+su negde na Jađranu, na turneji. Po povratku
+svratiće do mene u Sarajevo đa se napričamo.
+Od Tomijevih dmgova-vojnika čuli smo da je
+veoma omiljen, da sa uspehom vodi muzičku
+sekciju i da je đobar vojnik. To su nam isto
+potvrdile i Tomijeve starešine.
+Na kraju, Tom! je porućio svojim obožavaoclma
+da ih mnogo pozđravlja i da se nada da ga
+neće zaboraviti.
+
+Mdša MUSTAPIC
+
+džuboksl
+тшшшшт n.ig;um |
+
+20NAŠ KVIZ
+
+•fa Jedan naš čitalac (tinejdžer) ovo
+leto je upotrebio za lično usavršavanje.
+Posetio je čuvene spomenike
+i poslao svoje fotografije. Međutitn,
+on je čuvena umetnička dela video
+svojim očima (ako zagledate malo
+bolje videćete da su na čuvenim statuama
+zamenjeni likovi).
+Dakle, na slikama su lica poznatiii
+vedeta muzike i t'ilma. Ukoliko ne
+budete uspeli da identifikujete svoje
+Ijubimce, potražite odgovor na
+strani 32.
+
+Nalazite li nesto
+čudno na ovim
+statuama?
+1. Mikclanđelov „Mojsije”.
+S.Poznati spomcnik „Statua slobode”, delo francuskog
+vajara Bartoldija. Spomenik je visok 46
+metara i nalazi ge na ulazu и njujorsku Inku.
+3. Rodenovo remck-delo „Mislilac”.
+4. „Miloska Venera”, najđragocenija statna klasične
+grčke umetnosti autor nepoznat.
+5. Statua starogrčkog vajara Mirona „Bacač điska’*
+t. „Apolon Belverderski” remek-delo nepoznatog
+autora nalazi se n muzeju Vatikana.
+7. Boginja Atina kip u rnermem koji s e pripisnje
+Praksltelu, najvećem od grćkih vajara.
+4 „Dijana od Versaja” (statua s košutom) nepoznati
+antor.
+
+21
+
+МШIKO JE KO
+
+ADAMO Salvatore
+Ц Roden na Siciliji pre 22 godine (1. XI. 1944), all u Belgiji živi vecl
+od svoje treće godine. Danas se smatra jednim od najpopularnijihl
+pevača u zemljama francuskog područja. Poznat Je i kao kompoziiorj
+i pigac tekstova. Peva iskreno, mladalački, nežno, intimno i zatoj
+se svida svima bez obzira na uzrast. Zovu ga Adamo „adorable”!!
+Uspesi: „Torabe la neige” (Pada sneg), „Elle”, „La milt” (Noc),j
+„J’aime” (Volim), „Vous permettez, Monsieur” (Dozvoljavate li, 1
+gospodine), „Une de chevcux” (Pramen kose), „Mes mains j
+sur tes hanches” (Sa rukama oko tvog struka), „Mauvais garcon”,!
+„Princeze i pastirice” i drugi^
+
+A N K A Paul
+■ Rođen 30. VII 1941. u Kanadl. PoCeo da komponuje več u 15. godini.
+Senzacionalan uspeh postigao sa „Dajanom” (1957), koja je dostigla
+tiraž od deset millona ploča, snimljena na nekoliko jezika 1
+bestseler u 20 zemalja.
+Kasniji uspesi; ~Ti si moja sudbina” (You are my destiny), „I love
+you baby”, „Usamljenl dečak” (Lonely boy), „Kazl da me voliš”
+(Tell me that you love me), „Hallo Jim”, „Voll me nežno” (Love me
+warm and tender) „Sećanje na Dajanu” (Remember Diana) ltd.
+Cesto se pojavljivao u Itailjl (San Remo) 1 Francuskoj.
+Fan club;
+Carole Ward,
+24 Whitehovse Road, WALKLEY,' Sheffield 0
+
+ANTHONY Richard
+0 Njegovo pravo ime je Beš Dik Antoni. Francuskl pc vac, roden
+u Kaim 13. januara 1938. Pevao Je naizmenično u Egiptu, Velikoj
+Britanijl i Argentini, a od 1951. stalno živi u Francuskoj. Govori pet
+jezika: engleskl, španskl, Italtjanski, arapski 1 francuskl. Snima za
+„Koiumbiju”. Poznate su mu ploCe; „Ја-ја tvlst”, „Slušajući zvižduk
+voza”, „OmCa o vratu”, „Cesto sam se pitao”.
+
+AZNAVUR CHARLES
+■ Franeuski povač-autor-kompozitor, roden 22. maja 1924. u Parizu.
+Bio je veliko otkrlće generacije koja je pretliođila roku. Zapažen Je
+1954. Igrao je n filmovima „Taksi za Tobruk”, ~Ne pucajte na pijanistu”
+i „Prelaz preko Rajne”. Stalan Je gost „Ollmplje”. Snima
+za kućn „Barclay”. Poznate s u mu pesme: „Sur ma vie”, „Viens au
+creux demon dpaule”, „II faut savoir”, „Je me voyals deji”,
+„La mamma” i druge.
+
+ALBERT Herb and Tijuana Brass
+Ш Roden 1935. u Los Anđelosu, već 15 godina
+svira trubu. Sastav Tijuana Brass postao je
+veoma popularan u SAD zbog neobične mesavine
+stilova od americkog diksilenda do mek-
+
+ARMSTRONG Louis
+Rođen 4. VII 1900.
+Nadimak mu je „Sacmo” <zbog defonnacije usana). Prvi trubač sveta. Omiljen
+medu ljubiteijima d/eza i zabavne muzike. Obišao gotovo sve zemije s ve ta»
+a u Africi priraljen kao ambasador dobre volje (dokumentarni film „Zlatna
+truba”).
+Teško je pobrojatl sve njegove uspehe. U zabavnoj muzlci poznate su mu
+ploče: „Mackt the knife”, „Blueberry hill”, „C’est si bon”, „La vie en rose”,
+„Oči čarnija”, „Everybody loves my baby”, „А lot of livin’to do” i
+irinoge druge.
+Prvu ploču je s nlmio još 31. 11l 1923. godine sa orkestrom Džoa „King” Olivera
+tada je svirao drugi kornet), a jedna od posiednjih ploča koja je dospela na
+top tventi jeste „Hallo, Dolly”,
+
+AVALON Frankie
+Roden 18. IX. 1940.
+Karijeru počeo kao pevač (zlatna ploča za „Venus” 1958), kasnije se posvetio
+snimanju filmova („Alamo”, „Guns of Timberland”), a redovno učestvuje
+u kabaretskim programima („Kopakabana” Njujork, „Sands” Las Vegas).
+Gostovao u Evropi (Engleska, Italija, San Remo 1964). Na putu ga uvek pratl
+učitelj pevanja Karlo Menoti, kod koga su pevanje učili i Konl Frensis,
+Bobi Darin i drugi.
+Frenki Avalon snima i filmove („Muscle beach party”) i |>loče: „De De Dinah”,
+„Vhere are you” (Gde si), „Tuxedo Junction”, „Why” (Zašto zlatna
+ploča 1959). U filmovima oblčno peva po nekoliko svojih kompozicija.
+
+siCkog „Marijačija” (zato Ш zovu „Ameriači”)
+PoCetni uspeh „Twinkle star”, kasnije nazvan
+„Usamljeni bik” (Lonely Bui!) 19G2, „Baby
+talk”, „Wonderfull world”, „Taste of honey”
+i najvećl ovogođlšnji uspeh „Spanish Flea” (No,
+3 na top-tventiju), „What now my 10ve”...
+Grupa Tijuana Brass ima u sastavu trubn, klavir,
+has, bubnjeve, mandolinu 1 tri vokala. (Po
+nacionalnosti su; čctiri Xtalijana, jedan Madar i
+dva Amerikanca)
+Nijedan od njih nije iz Tijuane, all se često
+oblače u meksička odela radi reklame 1 živoplsnosti
+na sceni
+
+The ANIMALS
+Eric Burdon (4. V 1941) vokal
+Chas Chandler (18. XI! 1939) bas gitara
+Dave Rowberry (4. VII 1949) električna organa
+Barry Jenkins (ranije)
+(John Steel 4. II 1941) bubnjevl
+Milton Valentine (22. V 1943) solo gitara
+Prvi uspesi ovog ansarabla (Kuća izlazećeg sunca
+Mouse of the rising sun) postignuti su dok
+je ]os u sastavu bio orguljaS Alan Price. Animals-!
+su jedan od retkih beat-sastava kojl
+uspešno učestvuju na đžez festivallma (Ričmond).
+Tada svom sastavu dodaju đuvački instrument.
+Rado su videni u zemljama Istočne
+Evrope (gostovanja u Poljskoj, Cehoslovačkoj).
+Uspesi: ~I’m crying”, „it’s my life”, „I'm mad
+again”, „Inside looking out”, Moramo da odemo
+sa ovog mcsta itd.
+Fan club: Head Keeper, Handyslde Buildings
+Percy Street
+Newcastle-on-Tyne
+England
+
+ANDREWS Chris
+Rođen 15. X 1942.
+Karijeru je počeo kao kompozitor (u 15. godini).
+Nckoliko njegovih kompozicija su obišle svet.
+Postao je producent nekoliko pevača (Send!
+So, Adam Feit), a sam je poceo da se bavi pevanjem
+tek nedavno. Za veoma kratko vreme
+postigao je veliki uspeh. Njegov neobičan, mladalačkl
+glas, uz ritam koji je bio mešavina
+marSa, kalipsa i police, doneo je ne.što novo u
+pop-mitziku.
+Uspesi: Yesterday man (Covek jučerašnjice),
+„To whom it concerns” (Svima kojih se to tiče),
+„Too bad you don’t want me” (Šteta što me
+ne želiš), „Something on my mind” (Mislim na
+nesto), „What you gonna do now” (Sta ćeš sad
+da radiS) 1 drugi.
+Adresa:
+„Starcast”
+54 62 Regent Street
+London W. 1.
+
+The APPLEJACKS
+Martin Baggott (20. X 1947) solo gitara
+Phil Cash (10. X 1947) ritam gitara
+Megan Davies (25. 11l 1944) has gitara
+A 1 Jackson (21. IV 1945) klavir vokal
+Don Gould (23. 11l 1947) klavir, klavioiin
+Gerry Freeman (5. V 1943) bubnjevi
+Jedini ženskl član ansambla Megan (bas gitara)
+činl ovu grupu veoma atraktivnom. (Kasnije
+se ona udala za bubnjara Freemana). Prvi va •/nlji
+javn! koncert grupe bio je u Press Ball
+1963.
+Uspesi „Tell me vhen” (Reci mi kada), „Like
+drummers do” (kompozicija Beatlesa), „Three
+little words” a love you). Baby Jane, ~TI si
+moja jedina’* (You are the one for me) itd.
+Fan club:
+Susan and Marina,
+161, Redstone Farm Road
+HALL GREEN Birmingham 2«,
+England
+
+ATWELL Winifred
+■ Rođena 27. IV 1927, crnačkog porekla, jedna
+od klaviristkinja sa najraznovrsnijim repertoarom:
+snimila Je poCev od Grigovog klavirskog
+koncerta, pa preko melodija reg-tajma do
+najmodernijih „koktela” pop-muzike
+Uspesi: „Jađnici Iz Pariza”, „Izgubljeni Džon",
+„Bugi za pet prstiju”, serije „Party pops",
+„Mississipi mud” (na top-twenty listi) itd.
+Fan club: 39 New Bond Street London W. 1.
+
+ШШ
+mnMinayazin j
+
+22A ul'IvAY
+Hugues
+Д Francuski
+pevač, rođen
+18. avgusta
+1932. Brat glumice
+Paskale
+Odri. Lansirao
+je u Francuskoj stil „skifl”. Na sceni ga prati
+ansambl koji se sastoji od gitara, basa i
+bendža. Stalan je gost „Olimpije” od 1964.
+Snima za kuču „Barclay”. Poznate su mu
+pesme: „Santiano”, ~Ne mislim vise”, ~Engleski
+slavuj”, „Uskoro nas dvoje”.
+
+ANTOAN
+■ Ploče 21-godišnjeg francuskog pevača
+italijanskog porekla Antoana (prezime mu
+je Muraćoli) prodaju se u velikom broju,
+a njegov hit „Antoanova naklapanja” postao
+је svetski bestseler. Antoan završava
+tehnički fakultet, a mašta o tome da postane
+taksi-šofer. Kad se tome doda kosa
+koja pađa niz leđa i košulja sa cvetnim
+dezenom od koje se ne ođvaja onda je
+jasno zašto se ime Antoan mora upamtiti.
+
+Najveća smotra
+zabavne muzike
+u Kanu 1967. g.
+
+Od 30. јапиага do 4.
+februara 1967. u Kanu će se
+uđržati dosad najveća smot
+га zabavne muzike. Na njoj
+će sudelovati najpoznatlj!
+izdavači, kompozitori i pevači
+tz celog sveta.
+
+Roko Granata
+
+CRTEŽI NA
+220 VOLTI
+
+Ц ОУОМ BROJU OBJAVLJTJJEMO
+CRTANE PRILOGE KOJE SU NAM
+POSLALI VL'ADO SKLUK, BOŽO
+SpoljariC, MIODRAG VELICKOVIC
+I BOGDAN ANTIC
+
+STRASILO A
+
+▼ BEZ RECI
+
+KLJUC USPEHA
+
+... veruj, ponekad mi dođe da odern
+berberinu!...
+
+I zato neću date moje oči vise
+vide...
+
+BEZ RECI
+
+23
+
+ižuboKsl
+■■■■magazin |ANIMALSI
+SE
+RAZILAZE
+l posje ~tri godine koje su proletele kao jedan dan 1
+
+IV et ilanova proslavljenog ansambla „Anl?!
+mals” provode odmor na Bahamskhn
+ostrvlraa. U stvarl, to nlje pravl odmor.
+U Nasau, prestonlcl žlvopisndh ostrva.
+Animals! sn sntmiU svojn najneobif nijn
+plo£u na 45 obrtaja.
+Nikada nije napravljen snimak kojl bi bio pi-
+
+Cuven i ansambl se rastura zbog muzičkog razilaženja članova,
+Zvanično saopštenje biće data u jednom dokumentarnom filmu.
+Nova ploča Animalsa snimljena je na Bahamskim ostrvima, medu
+svetom koji je vikao i decom koja su igrala fudbal.
+
+toreskniji 1 haotičniji od ovog. Animals! su neprekidno
+bili prekidani Ш uznemiravani svetom
+koji je ulazio i izlazio iz sale, govorećl
+istim intenzitetom glasa kao kad se doziva prijatelj
+sa suprotne strane ulice; dok su dva
+dečaka igrala fudbal, dovikujući se kao da su
+sami na zelenom igralištu.
+Ipak, Eric Burdon kaže: „Don’t bring me
+down” je tehničkl najbolji snimak, uprkos tome
+što se čuje zaglušujuća buka”.
+Posle ovog snimka Animals! su realizovali jedan
+dugometražni film, koji je sniman u Poljskoj,
+Parizu, Njujorku 1 Londonu.
+Tema filma odnosi se na blisku budućnost
+ovog kvinteta. Eric Burdon (vokalni solista),
+Dave Rowberry (organista), Chas Chandler <bas
+gitara), Hilton Valentine (solo gitara) i Barry
+Jenkins (bubnjar) nalaze se pred rasformiranjem
+svog ansambla, jednog od najpopularnijih
+ne samo u Velikoj Britaniji već u celora
+svetu.
+To se nazire iz komentara filma koji nosi naziv
+„Svet životinja”. U filmu se kaže da su
+poslednje tri godine proletele kao jedan dan,
+ali sada se sve izmenilo. Vreme je postalo dugo.
+Psihički ! fizički članovi kvinteta su veoma
+umorni. Ove reči, veoma značajne, u filmu
+govori Eric Burdon.
+Hamfri Lajtlton, trubač i pionir engleskog džeza,
+koji u filmu obavlja ulogu spikera, izgovara
+na kraju rečenicu: „Animals! su svirall
+u svim zemljama sveta, a sada se nalaze pred
+raspadanjem”. Izgleda da su članovi ansambia
+odlučili da filmom zvanično saopste svoju odluku
+da se razilaze.
+Koji su uzroci stvorili ovu situaciju? Eric želi
+da bude isključivo pevač bluza, Hilton se interesuje
+•za folk-muziku, Dejv želi da se posvet!
+đžezu, dok Cesa zovu „namćorom” grupe
+јег uvek žel! suprotno od ostalih članova
+sastava. Jedini koji se nikada ne mesa u odluke
+Animalsa je bubnjar Bari koji je poslednji
+stigao u ovu grupu i stoga smatra da nema
+prava da nameće svoje aspiracije.
+
+Animalsi: Bary Jenkins, Dave
+Eric Burden, Chu
+Chandler i Hilton Valentine.
+
+ižuboKs'
+■HBmagazin
+
+24MELODIJE JAD (RANA)
+
+Jedna licnost je dominira'a
+feslivalom:
+Oedić taj čovek od
+muzike, divan pesniK
+i nadahnuti
+kompozitor
+
+aključak da imamo bolje pevače negp
+kompozitore nametao se posle svakog
+l'estivala. Medutim, ovogodišnji
+festival „Melodije Jadrana” demantovao je
+bvo tnišljenje. Na žalošt, ne u korist kompozitora.
+Odsustvo, invencije, originalnosti i osveženja
+(nije čudd: u Splitu je temiperat'ura
+bila paklena) razočarali su i, one najdobro-
+
+Grupa učesnika festivaia na vreiom splitskom
+suncu, pred zgradom Narodnog kazalista
+namernije.. Split i njegov festival nisu vise
+ono što su bili. Split nije imao svoju
+„iičnost”, kao što je prošle godine imao
+Terezu. Najlepše što se na ovcm festivalu
+moglo čuti, svakako je prošlogodišnja pobednica
+~Nima Splita do Splita”, kojom
+je festival svečano otvoren i це tako svečano
+zatvoren.
+Jedna smotra pesama koje, prema propozicijama
+takmičenja, treba da sjedinjuju
+elemente primorskog (čitej splitskog) melosa
+s ostalim zabavno-muzičkim kompo-;
+nentama, oprobanim i okušanim na proteklim
+festivalima (tako izgleda), završila
+se neslavno.
+
+Arsen Dedić, kant-autore u čijem se znaku
+održavao ovogodišnji festival. Pripala mu
+je tek treća nagrada i to STRUCNOG
+žirija
+
+Ipak, jedna ličnost je dominirala festivalom:
+Dedić, čovek od muzike, divan pesnik
+i nadahnut kompozitor, ličnost u čijem se
+znaku održavao ovogodišnji festival, kantautore
+koji je superiorno dominirao onim
+što smo u Splitu čuli i videii. Utoliko je
+manje bila razumljiva i manje opravdana
+odluka žirija da daleko najboljem [ najkompletnijem
+ostvarenju festivala,. .Dedićevoj
+kompoziciji „Moj brat”, dodeli tek
+treće mesfo.
+
+Utoliko je više za osudu odluka žlrija za
+tekst koji ,je Dedićevoj poeziji, tako osobenoj
+j nama prisnoj, pretpostavio. tekst
+rađen po onirn ustaljenim kalupima kojima
+smo se uvek tako rado podsmehivali:
+„Stari gradovi, nove priče
+za srce i za oči.
+•U krošnjama zrikavac zriče,
+a sunce svud Ijubav toči”.
+E, pa eto! Sta se tu može? Nije bolje prošla
+ni Dedićeva kompozicija „Leto s Irenom”.
+Arsen je s pravom bio ozlojeđen. On
+uskoro odlaži u Francusku. Otišli su i
+drugi: motivi su werovatno isti. A šta će
+biti posle? Sta će doneti naredrii festival!?
+Kada svi pdu ...
+Festival „Melodije Jadrana” doneo je doduše
+nekoliko melodija које će se pevati
+i slušati. Bilo bi nepravedno to poreći. All,
+ipak teško je pogoditi šta је to ~prek»milo”
+stručni žiri da nagradi pesmicu, priznajeшо
+simpatičnu, ali samo pesmicu
+
+Dragan Stojnić kao da ne može bez nagrada.
+Zajedno za Zafirom doprineo je uspehn
+kompozlcije Josipa Kajlera „Stipina Ijubav”
+..Sentađa na rivi”. Treba pomenuti i fcompoziciju
+debitanta Josipa Kajlera „Stipina
+Ijubav”, prijatan makedo koji će se :svakako
+izvoditi i slušati.
+Ostalo je. poznato, Napisano i prilikom
+ranijih festivals. Sve se, na žalost, ропауIja.
+Samo, dokle se tako može? I na čiju
+radost?
+
+V. MARJANOVIC
+
+25
+
+džuboksVESTI
+
+'к Vokalno instrumentalna grupa
+„Sanjalice” iz Beograda, čijl su člau
+SSSR-u novi pripadnici „slabijeg” pola, treba
+ovih dana da gostuje u Sovjetskom
+Savezu.
+
+Kju-Kluks-Klan protiv Bitlsa
+fli Nedavna turneja Bitlsa po Americi uzbudila je mnoge duhove. Antireligiozna izjava
+Džona Lenona na jeđnoj konferenciji za štampu izazvala je talas protesta i otkazivanje
+mnogih rezervisanih karata za koncert Bitlsa.
+Kju-Kluks-Klan Je organizovao javno spaljivanje ploča i kose Bitlsa, a mnogi uzbudeni
+duhovi zahtevali sn бак spaljivanje mladih Engleza.
+Nije onda nikakvo čudo što je to bila najteža turneja za Bitlse otkad postoje.
+
+Džons napušta Manfreda ▼
+★ Pol Džons je napustio grupu Manfreda Mana da bi započeo
+novu karijeru kao vokalni solista. Zamenio ga je pcvač
+Mišel D’Abo koji će se pojaviti sa grupom Manfreda Mana
+na novoj ploci. Ovih dana, Pol Džons je počeo da snima jedan
+muzički film u kome mu je partnerka slavna O/.in
+Šrimpton. Tom prilikom Džons je rekao: „Dode mi da pobegnem
+sa bine kad čujem publiku koja vrišti za vreme
+izvođenja kompozicije. Kada će već jednom shvatiti da su
+dali pare da slušaju nas a ne mi njih”. Na slici: Pol Džons
+i Džin šrimpton.
+
+i pioca„Ко
+se boji
+Virdžinije
+Vulf“?
+★ „Ко se boji Vir
+džinije Vulf?” naziv
+je pozorišnog
+dela Eđvarda Olbi
+ja. Nedavno je
+slavni par Liz Tejlor
+Ričard Bar
+ton snimio ploću s
+odlomcima iz ovog
+komada.
+
+Nova ploča
+ElvisaPri lija
+★ U SAD je izaš
+la nova long-plej
+ploča Elvisa Prislija
+na kojoj se na
+laze sve melodije
+iz Elvisovog filma
+„Raj n havajskom
+stilu”.
+
+Mlaznjak za A
+Kinkse
+Ansambl „Kinks” odlučio je da
+iznajmi mlazni avion kojim će na
+jesen krenuti na svoju veliku turneju
+po kontinentu. Turneja počinje
+3. septembra u Holandiji, a nastavIja
+se u Rimu. Tom prilikom ansambl
+će verovatno prirediti koncerte
+i u Madarskoj i Sovjetskom
+Savezu.
+
+Them i Brazilci
+# Irska grupa Them navijala je za vreme šampionata
+za Brazilce. Medutim, kako su ovi ispali
+iz borbe za najvišl plasman još u početku,
+dugokosi irskl mladići komponovali su
+pesmu „Otišli su”, koju ovih dana imaju
+namera da snime za kompaniju „DECCA”.
+
+»Stounsi« najtraženiji ▼
+ф Za vreme održavanja svetskog prvenstva u fudbalu prodato je za
+90 odsto vise gramofonskih ploča „bit” muzike nego obično. Najveće
+interesovanje kupci su pokazali za ploče grupe „?loHing stones” i
+„Animals”.
+
+шш
+
+26KURIOZITETI
+
+»Ekip 84« sve bo!ji
+if Uskoro će izaći nova LP-ploča
+najpoznatijeg italijanskog Vokalno■instrumentalnog
+sastava „Ekip 84”.
+Kažu da je ploča neobično zanimlji
+va jer se na пјој nalazi i nekoliko
+„angažovanih pesama”. Najinteresantnija
+među n.jima je italijanska
+vcrzija kompozicije „Bang, bang”.
+
+Milvino
+iznenađenje
++ Poznata italijanska pevačica Milva
+priprema svoj novi televizi.jski
+šou. Međutim, malo ko će prepozuati
+ovu pevačicu. Naime, Milva je odlučila
+da se odrekne svog klasičnog
+izgleda fatalne žene i pojavi se sasvim
+mlada, u stilu „šeika”.
+
+Medalje Bitisima
+■jjf Džon Lenon i Pol Makartni dobili su
+tri medalje, nagradu engleskog Udruženja
+kompozitora: nagrade su osvojili za dva
+„hita” iz 1965. Rec je o melodijama „We
+can work it out” i „Help”. Nagrađena melodija
+„Yesterday” proglašena je najlepšom
+pesmom godine.
+
+Mister »konjski rep«
+◄
+„Konjski rep” je dugo bio nadimak
+američkog pevača P. J. Probija. On
+se zadržao i do danas, kada se pevač
+ponovo „upristdjio”. Njegovu iznenadnu
+ozbiljnost mnogi tumače
+cinjenicom da se Probi zaljubio.
+„Kriva” je Mariana Hil, lepa američka
+glumica. Nedavno su se Probi
+1 Mariana pojavili zajedno u jednom
+televizijskora šou i požnjeli su veliki
+uspeh.
+
+Veiiko prijateljstvo
+Aznavur i Adamo и privatnom životu
+veliki prijatelji. Stvoreno za
+vreme Adamovog debija u pariskoj
+„OUmpiji”, ovo prijateljstvo još traje.
+Pre Adamovog polaska na turneju
+po Italiji, on i Aznavur pojavili
+su se zajedno n jednom programu
+francuske televizije.
+
+Katerina Kazeli *
+komponuje
+ir Katerina Kazeli priprema veliko
+iznenađenje. Uveče peva u ekskluriv
+nim noćnim lokalima, a danju komponuje.
+Dosada je napisala tri kompozicije.
+Katerina planira da za mesec
+dana snimi svoju prvu long-plcj
+ploču na kojoj će se nalaziti deset
+sasvim novih pesama, čiji će isklju
+čivi autor i interpretator biti Katerina.
+tJ oktobru izlazi i njena ploča
+na 45 obrlaja sa popularnim hitom
+koji su lansirali Roling stounsi a
+koji nosi naziv „Paint it black”.
+
+27
+
+džuboksl
+eßeeernagazm |REPREZENTACIJA
+ENGLESKE
+
+UVelikoj Britaniji registrovano je
+oko 5.000 vokalno-instrumentalnih
+ansambla, a još dva puta vise
+ima onih „divljih”, nigde heprijavIjenih.
+Ove grupe sviraju jednom ili dva puta
+nedeljno u nekom lokalu u Sohou,
+nekom poznatom ili manje poznatom ba
+ru na kejovima reke Mersi u Liverpulu
+i na stotinama drugih mesta na Ostrvu.
+Svi oni čekaju svojih pet minuta
+menadžera ili producenta neke poznate
+firme za proizvodnju gramofonskih
+р!оба koji de ih slučajno čuti, pozvati
+u studio i snimiti ploču. Nekima je to
+i pošlo za rukom i sada su poznatl u
+svetu zabavne muzike, i to ne samo u
+Engleskoj ved Sirom sveta. Njihova
+imena pune top liste, dok jedna kompozicija
+smenjuje drugu na toj magicnoj
+berzi popularnosti. Tinejdžeri, a 1
+oni drugi, znaju dobro Bitlse, Stounse,
+Enimalse i druge. Medutim, lista onih
+drugih, koji su poznati u svome gradu
+ili bližoj okolini mnogo je veća. U toj
+opštoj gužvi, gde najčešde odlično plasirana
+reklama istisne kvalitet, pojavilo
+se desetak grupa koje su vrlo vešto
+resile svoj problem opstanka u popularnosti.
+Koristedi ogromnu potrošnju
+za bit ansamblima u susednim zemljama,
+oni su jednostavno spakovali svoje
+instrumente i, naoružani zvučnim
+imenima i plodama snimljenim u sopstvenoj
+režiji, otputovali u Zapadnu
+Nemačku. Reputacija Bitlsa, koji su
+svoju karijeru otpočeli baš u ovoj zemlji,
+omogudila im je ved na samom
+startu odlične i dugorodne angažmane.
+
+Preduzimljivi rvemački menadžerl nisu
+ovoga puta hteli da ispuste tako dobru
+priliku za sigurnom i brzom zaradom,
+kao što je to ranije bio sludaj sa Bitlsima,
+koji su se zbog slabog pladanja
+brzo vratili u Veliku Britaniju i postali
+ono što su danas. Cilj svih ansambla
+bio je Hamburg, koji ih je svojom ogromnom
+bukom, večito tmurnim i maglovitim
+nebom neodoljivo podsećao
+na rodni kraj. Klasični nemački animir
+orkestri koji su svirali po hiljadama
+barova (baš toliko), klubova i krdmi
+bili su preko noći zamenjeni orkestrima,
+čiji su dugokosi članovl oslobođeni
+engleske uglađenosti interpretirall
+najnovije hitove.
+U ovoj poplavi britanskih grupa u prvi
+plan su izbila tri sastava: CASEY
+JONES AND THE GUVERNORS, JIMMY
+AND THE RACKETS U THE
+CHECKMATES.
+Kejzi Džons se rodio i odrastao u Liverpulu.
+Okupivši sastav u vreme kada
+je u Engleskoj TOP lista ved bila zaposednuta
+duvenim imenima, on je
+1964. godine došao u Hamburg. U podetku
+su svirali u jednom lučkom magacinu.
+Međutim, kako se ved drugo
+veče pred ulazom našlo oko 2.000 mladida
+i devojaka, koji su na sve moguće
+nadine pokušavali da udu, organizator
+je pozvao policiju. Ovaj incident
+koristio je Kejsi Džonsu i on se ved
+posle nedelju dana pojavio u duvenom
+„Star-klubu”. Nemadko-švedska firma
+za snimanje ploda .JMetronom” snimila
+je jednu za drugom osam njihovih
+ploda. Danas ovl mladidi dobijaju za
+jedno vede oko 3.500 maraka ill 300
+
+funti, a to je svega nešto manje od surne
+koje dobijaju Enimalsi na Ostrvu.
+Džimi i Rakete dolaze iz Londona. Nemački
+menadžer Peter Ekhorn angažovao
+ih je za svoj klub „The Top ten”,
+gde svako vede sviraju. Kako se u ovom
+klubu nalaze kvalitetni uredaji za snimanje
+„in live”, Džimi je za kompaniju
+„The Top ten production” snimio pet
+ploda. Sa Džimijem koji svira organu
+svira i Ricku Berns, poznat kao najpopularniji
+tenor-saksofonista Engleske.
+Zenski vokalni solxsta je Isabele Bond.
+Tredi i svakako najinteresantniji sastav
+je THE CHECKMATES. U ovoj
+grupi nalaze se i dva crnca. Voda grape
+je bas-gitara George Ford. Posle velikih
+peripetija u Nemačku su došli
+1965. godine. Naime, nemadka ambasada
+u Londonu nikako nije htela da im
+izda ulazne vize pošto je Džordž Ford
+član Komunističke partije Velike Britanije.
+Tek na urgiranje njihovog nemačkog
+menadžera Manfreda Vajsledera,
+koji je upotrebio sve svoje veze,
+oni su najzad doputovali u Hamburg.
+Ova grapa se najbolje snašla. Do sada
+se pojavila na 62 koncerta u Nemačkoj,
+Danskoj, Svedskoj i Belgiji. Za jedno
+vede dobijaju 500 funti. Za Englesku
+firmu „Columbia” snimill su devet plo-6a
+(kompozicija „Stop Music" bila je
+1965. list top thirty).
+Interesantno je da nijedna od ovih
+grapa ne namerava da se vrada u Britaniju,
+ved poraduju: „Istina je da mi
+„igramo” za B reprezentaciju. No, to
+je još uvek bolje, nego sedeti na klupi
+za rezervne igrade”.
+
+Vladan Krasić
+
+CASEY AND THE
+GUVERNORS
+
+шш
+
+28TEHNIČKI KUTAK
+
+ŠTA JE TO POJAČALO
+profesionalnog
+instrumentaliste
+
+Kb god se zainteresuje za modernu
+muziku i zaželi da stekne neki elektridni
+instrument odmah podinje da
+mašta o nekom izuzetnora pojačalu, o što
+vedem zvudniku. Realno, to je amateru
+muzičaru sasvim nepotrebno, jer se osnov
+nl akordi i jedinstvene melodije sasvim
+dobro mogu da uče i uz pomod prosecnog
+radio-aparata, za to prilagođenog. U
+vede muzioke ekskurzije malo ko se upušta.
+Profesionalna pojadala bi trebalo da
+imaju samo oni, koji su temeljno savladali
+osnove muzidke tehnike, koji de takve
+aparate da koriste sa raerom i osedajem.
+Tako bi trebalo da bude. Ali pošto
+smo svedoci čestih bezbojnih zvučnih
+orkana na podijumima, znamo da nije
+tako.
+Pošto je interesovanje mladih za vrhunska
+pojadala veliko, to de ovom prilikom
+biti redi o njima. Najpriznatiji svetski
+proizvodadi ove opreme su iz SAD „Fender”
+i engleski „Voks” i „Selmer”. Ova
+poslednja firma se kod nas zanemaruje,
+mada su njeni produkti najkvalitetniji.
+Svaka od ovih fabrika ima pojadala najvede
+snage 50 do 100 W, pojadala srednje
+snage 30 do 50 W i pojadala manje
+snage 10 do 20 W. Zatim je tu eho-
+
+-uređaj kao i serija odgovarajuđih zvu6nih.kutija.
+između pojedinih modela postoje
+razlike u pogledu mogućnosti ostvarenja
+raznih efekata, kao što su na primer
+hal-„jeka”, tj. zadržavanje ođsviranog
+tona još neko vreme, malo podrhtavanje
+tona i sl. Isto tako postoje i jednokanalna
+1 dvokanalna pojačala. Ako je pojačalo
+
+dvokanalno, to praktično znači da ono
+sadrži dva ista pojačala od kojih svako
+ima polovinu snage od one koja je naznačena
+kao snaga celog uređaja. Svaka
+polovina ima svoje regulatore i svoj priključak
+za zvučnik, tako na primer na
+takvo pojačalo može se priključiti bas
+gitara i organa, a da se oni čuju zasebno,
+sa raznih mesta i iz raznih zvučnika. Danas
+su najsayremenija tranzistorizovana
+pojacala koja su nešto skuplja, ali su uz
+malo brižljivije rukovanje neogranicenog
+trajanja. Kod njih veliku pažnju treba
+posvetiti samo priključivanju zvučnika.
+Kao praktičan primer pojačala najviše
+klase može da posluži „Selmerov Taurus
+tranzistor 60”. Tu su pojačalo i zvučnici
+jedinstvena celina i nalaze se u zatvorenoj
+kutiji. Pojačalo ima dva kanala sa po 30
+W maks snage i sa razdvojenim regulatorima.
+To su (si. 2); 1. jačina, 2. visoki,
+3. niski tonovi, 4. hal, 5. jačina tremola,
+6. brzina tremola. Svaki kanal može
+se priključiti na dva razlicita instrumenta
+(8); sa 7 je označen mrežni prekidač
+sa indikatorskom lampicom. Dva zvučnika,
+ugradena u kutiju, proizvod su firme
+„Gudmen” koja je jedan od svetskih pro-
+
+izvođača zvučnika. Precnika su po 30 sm
+(12 inca) i maksimalne snage 30 W. Cena
+ovakvog aparata je oko 180 funti (500 dolara).
+SI. 3. Najnovija serija „Grundig” magnetofona
+ima trocifrenu oznaku, u stvari
+neku vrstu šifre. Prva brojka pokazuje
+koliko brzina ima aparat, druga koliko
+kanala, a treda je oznaka modela. Tako se
+sad proizvode TK 120, 140, 125, 145, 220,
+245, 320, 340.
+SI. 4. Da bi bilo koji radio-aparat mogao
+da posluži kao pojacalo za gitaru ili mikrofon,
+dovoljno je samo priključiti žeIjeni
+instrument ili mikrofon na jednostavno
+tranzistorsko pretpojačalo firme
+„Hofner”. Izvod iz pretpojačala se spaja
+sa bilo kojim priključkom za gramofon,
+a samo pretpojačalo radi na baterije.
+
+Kako kupiti dobar magnetofon
+
+Skupili ste nesto novca i pred dilemom ste: šta kupiti
+kad ima toliko raznih tipova magnetofona 1 toliko
+raznih cena. Postojc dve mogućnostl: kupiti nov
+Hi polovan?! Magnetofone које možemo naći po oka*
+sionima Ш preko oglasa podelićemo n tri grupe: ekstra
+klase sa ekstremnim kvalitetima, srednje klase takode
+kvalitetne i one jednostavne i jeftine. Na ckstra
+klasi, koja se sem kvaiitetom odlikuje i astronomskim
+cenama, ne treba se zadržavati. Ljubitelj muzike sa
+skromnim sredstvima biće zadovol.ian 1 malo slabijim
+kvalitetima mnogo jeftinljeg magnetofona srednje
+klase. Za one koji vole krajnosti, evo nekoliko tipova:
+Uher Royal, Philips RK 66 heimstudioggrat. Philips
+RK 37 stereo, SABA TK 220-SH i na kraju profesionalni
+portabl švajcarske proižvodnje NAGRA. Mehanika
+magnetofona mora blti što jednostavnija. Gumeni
+remeni za prenos snage pri intenzivnoj upotrebl
+posle otprtlike šest meseci moraju se zameniti. Slguran
+znak da Je gumiea odradila svoj vek je nesposobnost
+magnetofona da premotava brzo i ravnomerno
+1 ve6e koture trake. Kupimo radije proizvod
+poznate firme. Lakše će 161 sa nabavkom rezervnih delova.
+Jedan od primera solidnosti je izvrsni Philips
+
+RK 14. Pri kupovini polovnog magnetofona obratite
+pažnju na đve „sitnice”, očuvanost mehaničkog dela
+I očuvanost glava. Po nključenju na reprodukeiju
+zvuenik magnetofona sasvim utišajte. Stavite uvo na
+kutiju magnetofona: ne sme se čuti nikakvo neravnomerno
+lupkanje ni brum. Rascentriran zamajac
+mički trese citavu kutiju.
+Pozajmite od nekog prijatelja traku sa što kvalitetnijim
+snimeima. Nedostatak vsiokih tonova siguran je
+znak istrošenosti glava. Kod gotovo svih magnetofona
+skida se poklopac sa glava. Ukoliko po izgledu raagnetofona
+ne možete da utvrdite njegovu starost, poslužite
+se trikom. Vlasnik je možđa promenio glave i
+stavio nove, ali veoma izlizane vodice koje drže traku
+sa obe strane glava nedvosmisleno govore o nebrojenim
+časovima sviranja. Pogledajte i u unutrašnjost između
+glava magnetofona. Tragovi ulja, prašine ili parčad
+trake pokazaće koliko je truda vlasnik uložio u
+održavanje. Takav magnetofon ne kupujte.
+
+MIROSLAV LEVICKI
+
+29
+
+ИкШlRezervisano za vas
+
+if Povodom naplsa „А šta vi mislite” в
+prošlom broju našeg lista, vise čitalaca
+nam je iznelo svoje predloge i saglasnost.
+Objavljujemo jedno od tih pisama:
+Sava Rosie, Beograd, Gračanička br. 1
+~Da se sastajemo jednom mesečno. . ideja
+je divna, ali gde se mogu sastatl
+svi čitaoci „Džuboksa"? Koja bl prostorija
+bila dovoljno velika za sve one koji bi
+želeli da prisustvuju takvom jednom sastanku
+gde nede toiti onxh starijlh koji se
+zgražavaju, gde ce biti samo prijateljl,
+puni razumevanja...
+,Дsа organizujemo zajedničke izlete..bez
+razmišljanja pristajemo. Vi pogadata
+željr mladih! Izleti bi bili divni i veseli
+uz pomoć ploča 1 baterijskog gramofona...
+I, naravno, našeg dobrog raspoloženja.
+„Da posetimo neki koncert poznatog VIS-a
+(zašto ne i pevača) u nekom gradu gde
+se takav koncert održava”. Ko to ne bi
+voleo? Ali prepreka su roditelji. Oni de to
+smatrati bacanjem para, kao §to mi mislimo
+o posedivanju utakmica...
+Draga redakeijo, omladina vam je odana,
+ali ne i odrasli (cast izuzecima).
+* * if
+Saznaii smo (proverićemo) da ansambl
+„Kinks” treba da gostuje a
+Mađarskoj. Nije daleko, nije skupo,
+a može biti zabavno. Zar ne?
+
+„Džuboks magazin"
+priprema prijatno iznenadenfe
+za svoje
+čitaoce?...
+
+Aleksandar Guga, VRSAC, Save Munčana 14
+Predlažem da u „Džuboksu” pišete nešto o prolzvođnjl gramofonskih ploča kod nas 1 u
+svetu. Takode, da „Džuboks” stvorl svoju muzičku emisiju koju bl slušall preko radiotalasa.
+U toj emlsiji bi se emitovale melodile sa top-liste „Džuboksa” i vodio razgovor sa
+čitaocima. Sličnt ćasoplsl u svetu čine to isto.
+
+Gordon Borovčak, DOLJEVAC (kod Niša), V. P. 3SBS/4
+Ш od prvog broja čitam vaS izvrsni list. „Džuboks" je Jos mlad 1 mlslim da čete svakl
+savet od strane čitalaca rado prlmitl. Svakako bl trebalo da uvedete rubriku o novim ploćaraa
+kod nas sa kratkim prikazima. Ne bl bilo loše 1 kada bl objavljivali program« važmjih
+radio-stanica, naravno ne sav program već muziku koju voilmo mi mladi.
+
+Snežana Solaja, BEOGRAD, Vojvode Mišiia 21
+9B Kao stalna čitateljka vašeg lista prlmetila sam da nastojite da uđovoljite mnoge želje
+Citalaca. Mlslim da bi trebalo da uvedete 1 rubriku u kojoj če čitaoci moći da pokaže
+svo.ie znanje iz oblasti zabavne muzike. To bl moglo da bude neko takmifienje ill kvlz.
+
+И Jedan mladi vokalno-instrumentalni sastav
+iz Trsta stekao je za kratko vreme veliku popularnost
+u Sloveniji. To je VIS „Rinnegati**
+
+Q Redakcija svakodnevno prima veliki
+broj crtanih priloga karikatura
+na temu bit-muzike. PoSto je a
+nemogućnosti da sve bolje radove
+objavi na strani odredenoj za crtane
+priloge redakcija če uskoro pozvatl
+neke od Citalaca-karikaturista
+na radni dogovor o buđućoj saradnji.
+(u slobodnora prevodu znači „Nepriznati”). Ovaj
+ansambl je svirao u novom elegantnom restorann
+„Taverna” n Lucijl kod Portoroža. Ovo
+mesto Je postalo popularno baš zbog mladih
+tr.šćanskih „električara’% pa je postalo stecište
+mladih iz Ljubljane, Trsta, Kopra, Portoroza,
+kao I turista koji su letovali na slovenackoj rivijeri.
+Da ih ukratko predstavlmo: Volte jo (21 svira bas
+gitaru, Dino (18) solo gitara, za bubnjevima
+je Karlo (21), a najmlađi Đani (15) svira ritam
+gitaru ili orgulje. Može se dogoditi da ih vidite
+i čujete, jer su u pregovorima sa Ijubljanskom
+televizijom za snitnanje 20-minutne sou emisije,
+IDEISINGER MITJA
+LJUBLJANA
+Celovška 207
+
+Prošlog meseca, pod pokroviteljstvom omladinskog
+aktiva „Bončejca”, u Prilepu je održana
+smotra VIS-ova. Takmičenje je odrzano u sali
+bioskopa „11 oktobar”. Sala nije mogla da priml
+sve Ijubitelje „električarske” muzike. Učestvovala
+su čefciri ansambla; „SUNGERI”, „ККГSTALI”,
+„PETUNI” i „ELEKTRONI”. Pobedill
+su „ELEKTRONI” sa dvesta poena vise od drugopiasiranih
+„KRISTALA”. Pobednički ansambl:
+Stojan Pctkoski solo gitara, Ivan Soleski
+riiam gitara, Kire Nikoloski bas gitara, Mice
+Minoski bubnjevl, Dragan Sekulić vokalni
+solista.
+Vaš list sada rcdovno stiže u naš grad.
+ISrdacan pozdrav
+PEJO PETAR
+„Sotka Đorđioski” 95
+PRILEP
+
+RINNEGATI
+
+„SONI I SER" karikatura kaja
+nam je poslao Aleksandar Stojanović
+iz Kragujevca
+
+I U PRILEPU „GITARIJADA”
+
+teuboKsl
+■■■■■mngazin )
+
+* Rezervisano za vas * Rezervisano
+
+30Meho Žiga, Višegrad, Dušće
+Moji drugovi i ja bismo vas nešto zamolili.
+Dali možete da u listu odvojite malo
+prostora i da jednu stranicu posvetite
+onima koji bi želeli da uče sviranje na
+git.ari.
+* ♦ *
+Ideja je zanimljiva. Ukoliko je ostali
+čitaoci podrže pokušaćemo sa
+„školom za gitaru”
+
+Ilija Stančul, Kikinda, Bregalnicka br. 10
+Nihad Slanjankić, Brčko, Mušanovića
+br. 63
+Vaše priloge sa ukrštenim rečima
+smo primili, ali zbog neslaganja ostalih
+čitalaca s tom rubrikom zasad
+ukrštene reči nećemo objavljivati.
+♦ * ♦
+Više čitalaca nam je poslalo tekstove
+popularnih pesama ocl kojih
+objavljujemo nekoliko:
+LEK ELUCUBRATIONS
+D’ANTOINE
+Oh, Yeah!
+Ma mere m’a dit, Antoine, fais-toi couper
+les cheveux
+Jc lui ai dit, ma mere, dans vingt ans si tu
+veux
+Je ne les garde pas pour me faire remarquer,
+ni parce que je trouve ca beau
+Mais parce que ca me plait
+Oh, Yeah!
+L’autre jour j’ecoute la radio en me reveillant
+C’etait Yvette Horner qui jouait de I’accordeon
+Ton accordeon me fatigue Yvette
+Si tu jouais plutot de la clarinette
+Oh, Yeah!
+Mon meilleur ami, si vous le connaissiez
+Vous ne pourriez plus vous en separer
+L’autre jour il n’etait pas tres malin
+11 a pris un laxatif au lieu de prendre le train
+Oh, Yeah!
+Avec mon petit cousin qui a dix ans
+On regardait gros nounours & la television
+A minuit il a dit „bonne nuit mon bonhomme”
+II est parti danser le jerk au Paladium
+Oh, Yeah!
+Le juge a dit k Jules, vous avez tufc
+oui j’ai tue ma femme, pourtant Je I’aimals
+Le juge a dit k Jules, vous aurez vingt ans
+Jules a dit, quand on aime on a toujours vingt
+ans
+Oh, Yeah!
+Tout devrait changer tout le temps
+Le monde serait bien plus amusant
+On verrait des avions dans le couloirs du
+metro
+Et Johnny Halliday en cage & Medrano
+Oh, Yeah!
+Si je porte des chemises a’ fleurs
+C’est que je suis d’avance de deux ou trois
+longuers
+Ce n’est qu’une question de saison
+Les votres n’ont encore que des boutons
+Oh, Yeah!
+J’ai recu une lettre de la Presidence
+Me demandait, Antoine vous avez du bon sens
+Comment faire pour anrichir le pays?
+Mettez la pillule en vente dans le monoprlx
+Oh, Yeah!
+PAPERBACK
+WRITER
+Paperback writer
+(Paperback writer, writer)
+Dear Sir or Madame will you read
+my book
+It took me years to write.
+Will you take a look
+based on a novel by a man named
+Lear
+and I need a job.
+So I want to be a paperback
+writer,
+paperback writer.
+It’s a dirty story of a dirty ma*
+
+and his chinging wife doesn’t
+understand
+His son is working for the Daily Mail
+It’s a steady job
+but he wants to be a paperback
+writer,
+paperback writer.
+It’s a thousand pages give or take a few
+I’ll be writing more in a week or two.
+I can make it longer if you like
+the style I can change it round
+and I want to be a paperback writer,
+paperback writer.
+SLOOP JOHN B
+We come on the SLOOP JOHN B, my
+grandfather
+and me
+Around Nassau town we did roam
+Drinkin* all the night
+Got into a fight
+Well, I feel so broken-up
+I wanna go home
+So ho-ist up the John B sail
+See how the main sail sets?
+Call for the captain ashore
+Let me go home
+I wanna go home A-Yeah, Yeah
+Well I feel so broken-up
+I wanna go home
+First mate he got drunk
+And broke in the captain’s trunk
+The constable had to come and take him away
+Sheriff John Stone
+Why don’t you leave me alone? A-Teah, Yeah
+Well I feel so broken-up
+I wanna go home
+So hoist up the John B sail
+See how the main sail sets?
+Call for the captain a-shore
+Let me go home (let me go home)
+Home, let me go home
+Home, let me go home
+Hoist up the John B sail
+Feel so broken-up
+I wanna go home
+Poor cook he caught the fits
+Threw’way all my grits
+And then he took and he ate all up of my corn
+Let me go home
+Why don’t they let me go home?
+This is the worst trip I’ve ever been on
+Hoist up the John B sail
+See how the main sail sets?
+Call for the captain a-shore
+Let me go home
+I wanna go home.
+THESE BOOTS ARE
+MADE FOR WALKIN’
+You keep sayin’ you got somethin’ for me
+Somethin’ you call love but confess
+You been messin’ where you shouldn’t beeng
+messin*
+
+And now someone else is gettin’ all your best.
+Refren:
+These boots are made for walkin’
+N’ that’s just what they’ll do
+One of these days.
+These boots are gonna walk all over you.
+You keep lyin’ when you oughta be „truthin* *•
+You keep losin’ when you oughta not bet
+You keep ~same-in” when you oughta
+cliangin*
+Now what’s right, is right, but you ain’t
+been right
+Refren: (kao gore)
+You keep playin’ where you shouldn’t be playin*
+You keep thinkin’ that you’ll never get burned
+I just found me a brandnew box of matches
+And what he (she) knows, you ain’t got time to
+learn.
+Refren: (kao gore)
+Dragi druže uredniče,
+Biću kratak. Imam dva predloga. U jednom od
+ranijih brojeva pročitao sam vaš uvodnik o originalnosti
+l traženju sopstvenog stila koji se
+odnosi na naše vokalno-instrumentalne ansamble.
+Predlažem*
+1. Da se u Beogradu (ill nekom drugom mestu)
+umesto „Gitarijade”, koja ne donosi ništa korisno,
+održi svakih šest meseci prava „Gitarijada”
+pod pokroviteljstvom vašeg lista 1 na kojoj
+bi svi naši sastavi izvodili samo sopstvene
+kompozicije. Predlažem 1 nagrade za najbolju
+instrumentalnu, bit i laganu kompoziciju, kao
+1 za najbolji tekst. Sigurno bi ovakva priredba
+donela dosta novog 1 korisnog za našu zabavnu
+muziku.
+2. Da u svakom broju objavite note neke poznate
+strane popularne kompozicije, a da 61-*
+taoci napišu tekst. Tako bi se rešio problem
+pevanja na našem jeziku.
+Kao llustraciju ove ideje Saljem vam prepev
+melodije ~Tell me” iz repertoara Rolling Stoun*«
+aa.
+RECI
+Reci da me voliš ti,
+šapni da sam jedini ja.
+I srećna bit’ беб tl zajedno sa mnom,
+I sve dane tvoje mlađosti ulepšaću ja.
+All prvo šapni da sam tvoj,
+draga, prvo šapni da voliš me.
+Da! Prvo šapni da sam tvoj,
+draga, šapni da voliš me.
+Tiho sasvim tiho ti,
+iapni da sam najdraži ja.
+I od tog trena znaj! Ja biću samo tvoj
+1 svoju nežnost svu poklonit’ ću ti ja.
+Da? All prvo reel ti,
+prvo reci da sam najdraži,
+Da! draga prvo šapni ti,
+Sapni nežno, da sam jedini ja.
+Da! Da! Jedini da sam ja!
+MIHAL. GLIGOR PODGORSKI
+
+Kako naš čitalac Goran Mirkaš,
+Slavenska br. 6 zamišlja ansambl JBič
+Bojs”. w
+
+Grupa čitalaca iz BrCkog poslala nam je fotografiju
+omiljenog ansambla „Elektroni” (Brčko);
+Rusmir Begić solo gitara, Fikret Begić
+ritam gitara, Hasam Džapo bas gitara, Josika
+Boruk bubnjevi 1 Edham Duratović i Tenfik
+Marie vokalni solisti.
+
+ea vas * Rezervisano za vas * Rezervisano za vas Res
+
+31
+
+džuboKs
+шашшштплп gazirtMale zanimljivosti
+
+XRGOVINSKO PREDUZECE „MUZIKALII” V
+SKOPLJU ZA RAZLIKU OD MNOGIH U NAŠOJ
+ZEMLJI REDOVNO SNABDEVA SVOJE
+KUPCE NAJNOVIJIM LP PLOCAMA VIS-OVA
+IZ CELOGA SVETA. U POSLEDNJEM KONTINGENTU
+BILE SU NAJTRAŽENIJE PLOCE
+BITLSA, ROLING STOUNSA, SPENCER DAVIS
+GROUP
+
+Rešenje kviza sa str. 21
+1. Marlon Brando 2. Sejla 3. Adamo 4.
+Silvi Vartan 5. Elvis Prisli 6. Džoni Holidej
+7. Frans Gal 8. Fransoaz Ardt
+
+OLIVER A VUCO PRIPREMA I TRECU PLOCU.
+OLIVERA VUCO, POZNATA FILMSKA GLUMICA
+USPEŠNO JE DEBITOVALA SA PRVOM
+PLOCOM „NECU TEBE”, KAO I SA DRUGOM
+„NIJE TO LJUDI ISTINA” A ZA PRODUKCIJU
+RTB PRIPREMA I TRECU
+
+Spencer
+Davis
+Group
+
+MALI OGLASI
+
+PRODAJEM po narudžbini najnovije i neupotrebljavane ploče engleske proizvođnje.
+Branko Karas, Zagreb, Crnomerec 24.
+XXX
+SVI ONI koji žele da postanu članovi „STAR’S CORES PONDENCE CLUBA” iz
+Manchestera 1 dopisuju se sa engleskom omladinom, neka se jave na adresu: S. C.
+Club, Zagreb 111, Borska 4/1.
+XXX
+PRODAJEM PLOCE sledećih interpretatora: Chubby Checker, „The Beach Boys”,
+Joey Dee, Pat Boone, Rita Pavone, Dick Lee, Little Tony, Ray Charles, Paul
+Anka, Herve Vilard, Sylvie Vartan, Sheila, Fats Domino, Cliff Richard, Chris
+Montez, The Animals”, „The Shadows”, „The Beatles”, „The Byrds”, „Them” i
+druge. Vladimir Kordiš, Karlovac, Smičiklasova 11-a.
+XXX
+PAŽNJA MUZICARI I AMATERI!
+za nabavku električnih gitara, pojačala, miikrofona, bubnjeva i ostalih muzidkih
+instrumenata „Daycord”, Minhen, obratite se pismeno na adresu: Perkov Roko,
+Sibenik, S. Macure 34, gde ćete dobiti prospekte.
+XXX
+PRODAJEM potpuno nove plboe sleđećih sastava i pevača: „The Beatles”, „The
+Rolling Stones”, „Kinks”, „The Bech Bous”, Peit Buna, Lit! Ričarda i drugih.
+Boris Dimčevski, Pula, VE 1, V. P. 2073-10/15.
+xxx
+POJACAIvO ZA električnu gitaru i gramofon za radio prodajem ill menjam za
+eiektridnu gitaru. Jože Doles, p. Leskovec pri Krškem, Drnovo 51, Slovenija.
+XXX
+PRODAJEM polovnu gitaru marke „Glazbala” Zagreb. Zoran Panic, Beograd, Internacionalnih
+brigada 13.
+XXX
+PRODAJEM strane male i velike ploče, pevača i grupa. Branko Belso, Zagreb I,
+Kruge 85.
+XXX
+PRODAJEM engleske ploče po narudžbini. Rok isporuke 15 dana. Porudžbine
+slat! na adresu Miodrag Klašnja, Beograd, Majke Jevrosime 22.
+
+ŽELE
+DA SE
+DOPISUJU
+
+Staša Mirić,
+Vršac, Žike Jovanovića
+br. 80
+Jelena Zlatanović,
+Beograd, Bulevar Revolucije
+br. 83
+Mirjana Malenčić,
+Štitar kod Županje,
+Školska br. 29-a
+Vlada Simionović,
+Aranđelovac, Kolonija
+11/31
+Hanka Wimmerova,
+Revolučnl 1046, NAPAJE
+DLA. okr. Gottwaldov,
+CSSR
+Petar Todorović,
+Smederevo, D. Davidovi
+ća br. 2a/6
+Džeana Adžemović,
+Travnik, Maršala Tita
+3-a
+Džck Simeon.
+Strumica, V. P. 2724/33
+Žil Nikitović,
+Strumica, V. P. 2724/33
+Marijan Dukovčić,
+Karlovac, Mrežnička 1
+Franca Zavretto,
+Rijeka, Ljudevita Matešića
+14
+Vojo Đuroski,
+Kičevo, Nova Naselba 7
+Slavica Aralica,
+Bezdan, Nova 45
+Ljubica Stanačev,
+Novo Miloševo, Lole Ribara
+15, Banat
+Kulot Karmen, Šempeter
+pri Gorici br. 75, SIo
+venija
+Dragica Lukačević, Gor
+nji Tavankut. broj 1123,
+kod Subotice
+Nada Pivac,
+Šibenik, Mosečka 1
+Milanka Lukić,
+Beograd, Varvarinska 26
+Ileš Varga,
+Štip, V. P. 2724-5 Ve2
+Aranka Jonaš,
+Novi Bečej, Nova ulica
+2, Banat
+Branislava Todorović,
+Beograd, Topalovićeva
+15
+Ljiljana Benotić, Kopriv
+nica, Matije Gupca 13
+Evelina Betoć, Hrbovi
+53, Z. P. Barbon, Pula
+
+džuboKsl
+•■■■■magnzin |
+
+32PREDSTAVLJAMO VAM
+ANSAMBL
+DAVE DEE,
+DOZY,
+BEAKY,
+MICK and
+TICH
+
+DEJTV Dll
+r eider*
+17, XU Ш:
+vokaini
+sotifita
+
+HIKI:
+rodeo
+ie, VII I Ш;
+gitara,
+bubnjevi
+I teas
+
+UOZI:
+roden
+27- XI 1944;
+has gitara*
+ntam
+gltara,
+bubnjevi i
+bongo
+
+MIK :
+rode it
+4. 11l IШI
+hnbojevl
+
+TIC:
+rodcn
+15, V 1944;
+solo
+gltara
+«
+
+Grupa je postigla prvl /apazenlji uspeh o
+iiiartu ove godine. IT to vreme, cela Bri(anija
+pevušila je mclodljn »Drži Žvrsto«
+(Hold tight). Mada Sablonskl araužiran, ovaj njlhov
+prvi lift postigao je uspeh vedrim, naglašcmm
+ritmom. Pre toga, grupa I>ejv Di I ostaii
+hila je jedna od mnogih kojc su bile poznate
+same užem krugu slušalaca. s izuzetkom Mika,
+koji je profesionalni muzičar, svi ostall se vet
+nekoliko godina have muzlclraujem u raznini
+sastavima. Dejv Di i Tič počeli su karijeru svitajucl
+u Cuveuom klubu »Top ten« u Hamburgu.
+Nijedan ođ člauova ansambla nema nikakvog
+muzičkog obrazovanja: svi su saini usavrsavali
+svojc znanje svirajućl.
+U junu je izašla njihova prva long-plej ploča
+čiji je nazlv isti kao i nazlv grupe. I prva kompozieija
+na plodi posvećena je njlma, a njen
+naziv je sastavljen ad prvlh slova Imena elanova;
+DDD-BMT. To je u stvari humoristička
+najava svih članova, uobičajena na I.P-plocama
+britanskih grupa.
+Sređinom juna pojavio se i ujibov drugi hit
+»Hideaway«. Ova ploča, bar §to sc tiče glavne
+melodije, predstavlja malo razočaranjc. Јоб jednom
+se ponovilo već toliko poznato »preslikavanje«
+prvog hlta. Međutim, druga strana je po
+kvalltetu daleko iznad prve. Komantična balada,
+koja se nalazi i na long-plej ploci, pod nazivom
+»Evo srea« (Here’s a heart) iiverava nas da Dejv
+Di i os tali niogu mnogo više, naročlto kad je «
+pitanju kvalitet vokalnog sol isle. KlavirsKa
+pratnja Kena Hauarda, koji so pojavljuje kao
+gost, samo je upotpunlla ovaj Izvrsni snimak.
+Naredni hit će kompletnije govorltl o ovom
+kvintetu koji od skora ulazi 11 naSe diskoteke
+
+DAVE DEE,
+DOZY, BEAKY
+MICK + TICHGDE..
+
+KAKO..
+
+FRANS
+GAL
+
+Kada Je 20.
+maria 1965.
+godine u
+Napulju žlri odluCio
+da prvu
+nagradu dodeli
+pesml Luksemburga
+»Lutka
+ođ voska« rode na
+je nova zvezda
+u zabavnoj
+muzici. Smedokosa
+Francuskinja,
+na izgled
+devojcica, do«
+blla je »Grand
+pri* za pesmu
+Evrope.
+Novinari su je
+opkolili jer nisu
+znali gotovo
+ništa o njoj:
+Ko ste vi,
+Frans Gal?
+Take se saznaio
+da police iz
+jedne porodice
+u kojoj se mnzika
+gaji po
+tradiciji. Muzikom
+se bavio
+jos njen deda,
+a otac joj
+je stekao veliki
+ugled kao
+kompozitor (La
+Mamma). I njena
+braća blizanci
+Patris i
+
+Filip, takođp
+svlraju gitara i
+pevaju.
+Robert Gal k
+dao solidno mu
+zičko obrazovanje
+svojoj kćer
+ci, a kasnije
+kada je počeia
+sa koncertima
+komponovao je
+specijalne pesme
+za nju.
+Sada je Frans
+Gas staia u red
+na.ipopularni.iib
+
+pevaća Francuske.
+Snfmila
+je nekoliko pioča,
+a najpozna
+tiji su Joj uspe
+si »Ne budi
+glup«. »Pantljike
+i cvet«, »U
+redu volim
+te«, »Cujem
+ovu muziku«,
+»Misli na mene«,
+»Ne kaži
+drugovima«,
+
+»Da sam dečak«.
+»Ostavi
+devojke«. Ргоšle
+godine dve
+ploče su bile
+naročito zapažene
+»Ne slušaj
+idole« i
+
+»Kristijansen«.
+Njena najomiUenija
+pcsma
+ostaće »Poupee
+de cire, poupće
+
+de son« (Lutka
+od voska), kojom
+je osvoji!a
+»Grand pri«
+Evrovizije.
+
+1. Frans Gai u trenutku kad je Ugu Jirgensu
+predala »Gran pri« EvrovizijeKO...
+
+KADA...
+
+KRIS
+
+ENDRJUS
+
+■ Kompozitori, prođucenti i drugi Ijudi, bez kojih se pop-muziha
+ne može ni zamisliti, u najvećem broju slučajeva oslaju
+anonimni ili poznati Jedino Ijudima koji se have istim posiom.
+Jedan od takvih do proSle Jeseni bio je i Kris Endrjus. Mada
+mlađ, on se komponovanjem bavi već deset godina. a nekoliko
+godina je i prođucent. Autor je пеко Ико kompozicija koje su
+obišle svet. Kris je zasiužan za popnlarnost Send! Sou jer je
+od poćetka njene karijere njen prođuceot. On je komponovao
+i većinu njenih hitova, između ostalih i »Devojko, ne dolazi«
+(»Girl don’t come«); zatim njen najvećj uspeh »Živela Ijubav«
+(Long live love«), kao i posted nji hit »Ništa ne đolazi tako«
+(»Nothing comes easy«) - . Pored Sendi Sou, Kris stalno sarađuje
+i sa Adamom Fejtom.
+Svi ovi podaci bili sn nepoznati dok Kris Endrjus nlje i sam
+zapevao. Bila je to njegova kompozicija »Covek jučerainjice«
+(»Yesterday man«). Pesma je oblšla svet i odjednom su svi tražili
+od Krisa da komponuje za njih. Pored osfalih, to su tražlle
+i poznale grupe »Fortunes«, »Hollies« i »Pretty things«. Mnog!
+su tražili da im proda autorsko pravo nekih svojih kompozicija.
+ali je Kris to uvek odbijao.
+Sta je to Ito je Krisa Endrjusa izbacilo na vrh lisle, popularnih
+interpretatora Velike Britanje? V tome je najviše udeia imao
+Kris-kompozitor. F ritmu koji je do tada smatran nepogodnim
+za pop-muziku u mešavmi marša i polke, s isticanjem đuvača
+Kris je napravio nešto novo. S njegovim glasom, to je bilo
+presudno za postizanje uspcha.
+Novi hltovi, »Koga se to tiče« (»To whom it concerns«), »Nešto
+mi je na duši« (»Something on my mind«), pa i najnoviji »Sta
+ćeS sad raditi« (»What you gonna do now«) u istom su stilu, ali
+nikako ukalupljeni, jer Kris uvek saopštava nešto novo i iivo?OASTV SPRINGFIELD a
+
+a ANSAMBL »WHO« a
+
+fICHRISTOPfIE
+  </body>
+ </text>
+</TEI>
