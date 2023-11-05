@@ -2,22 +2,16 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>The shortest TEI Document Imaginable</title>
+    <title></title>
    </titleStmt>
    <publicationStmt>
-    <p>First published as part of TEI P2, this is the P5
-         version using a namespace.</p>
+    <p></p>
    </publicationStmt>
    <sourceDesc>
-    <p>No source: this is an original work.</p>
+    <p></p>
    </sourceDesc>
   </fileDesc>
  </teiHeader>
- <text>
-  <body>
-   <p>This is about the shortest TEI document imaginable.</p>
-  </body>
- </text>
   <text>
   <body>
 džuboks
@@ -233,7 +227,7 @@ Papa’s
 Young rascals
 
 Materijale za Sop-liste
-pri <3 remic za stampu:
+pri 3 remic za stampu:
 Borislav Milrović
 
 3. Sloop John B Beach
@@ -1337,7 +1331,7 @@ ižuDoksl
 1213
 
 ižuteMs'
-№Шшта<Ј:шп8 DETALJA LETA
+№ШштаЈ:шп8 DETALJA LETA
 
 I] mnogim zemljama sveta postoJ
 je prodavnice u kojima mladi

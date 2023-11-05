@@ -2,47 +2,23 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>The shortest TEI Document Imaginable</title>
+    <title></title>
    </titleStmt>
    <publicationStmt>
-    <p>First published as part of TEI P2, this is the P5
-         version using a namespace.</p>
+    <p></p>
    </publicationStmt>
    <sourceDesc>
-    <p>No source: this is an original work.</p>
+    <p></p>
    </sourceDesc>
   </fileDesc>
  </teiHeader>
- <text>
-  <body>
-   <p>This is about the shortest TEI document imaginable.</p>
-  </body>
- </text>
   <text>
   <body>
-E. Letovi iz Beograda ı
-
-a Je ii II ji - E: OE a
-
-- Beograd
-
-| AVIO KARTE PO NAJPOVOLJNIJIM USLOVIMVIA „www.sabtravel.com ·
-
-20 DENARA e O,5 KM
-
-- Www.dcinqas.CO.YU _
-www.danasnews.com
-
-Branioci Miroslava Ju
-
-Sahnana II SUH na [{guom jm
-
+<div id="vesti">
+Advokati
 Filipovića ponovo
 predložili ukidanje
-_ pritvora
-
-[HilHihya (1419
-Ip H0{0Hp
+pritvora
 
 Beograd, Niš – Istražni vojni
 sudija Vojnog suda u Nišu
@@ -53,12 +29,12 @@ u ponedeljak da se
 ukine pritvor Miroslavu Filipoviću.
 Za ukidanje pritvora
 
-· potrebna je i saglasnost vojnog
+potrebna je i saglasnost vojnog
 tužioca, a u slučaju raZmimoilaženja
 odlučivaće veće
 - rekao je za Danas Goran
 Draganić, advokat Miroslava
-Filipovića. ~ -
+Filipovića.
 
 - U ponedeljak je nadležno
 veće Vojnog suda u Nišu odlučilo
@@ -86,8 +62,6 @@ predočena izjava o odbijanju
 izdanja Draniocima nisu urućena
 rešenja o Žalbama upućenim
 prošle nedelje.  R.D.
-
-Strana 3
 
 Beograd - Komemorativni skup
 povodom smrti istaknutog jugoslovenskog
@@ -123,12 +97,9 @@ U ime Nezavisnog udruženja noVinara
 Srbije od Nikole Burzana se
 oprostio Dragan Banjac.
 
-Strane 6,710
 
 Juče predstavljen novi Dosije NUNS-a
 o represiji nad nezavisnim medijima
-
-Sistemaisie mar nnDtiuM mel{lija
 
 Beograd – Represija nad medijima se toliko pojačala da Dosije Nezavisnog
 udruženja novinara o tome morati da izlazi svakodnevno izjavila
@@ -139,16 +110,13 @@ osma tužba po Zakonu o informisanju kao i da je ekipi VIN oduzet
 snimljeni materijal. „Poslednji događaji pokazuju da režim koristi
 niz sistematskih mera protiv medija, izjavila je ona. LK.
 
-Strana 3
-
-„POVPp(iBi
 
 Zrenjanin, Beograd - Jovan
 Prijić, zamenik okružnog javnog
 tužioca u Zrenjaninu podneo je tamošnjem
 prekršajnom organu
 zahtev za pokretanje prekršajnog
-postupka po Zakonu o javnom ınformisanju,
+postupka po Zakonu o javnom informisanju,
 član 69, protiv preduzeća
 za novinsko izdavačku delatnost
 DAN GRAF doo u Beogradu,
@@ -172,15 +140,10 @@ da je „Ljubo Sljepčević, načelnik
 
 Zamenik Okružnog javnog tužioca u Zrenjaninu prijavio Danas
 
-lit[pti Javni
-
-'011/361–59–59
-
-če u prostorijama Danasa održana komemoracija povodom smrti Nikole Burzana
-
+juče u prostorijama Danasa održana komemoracija povodom smrti Nikole Burzana
+</div>
+<div id="politika">
 Sastanak opozicije sutra u sedištu DC
-
-(igor tnaži DidiJgVan
 
 Beograd – U skladu sa dogovorom sa sastanka demokratske opozicije
 Studentski pokret Otpor dostavio je „ Predlog strategije narodne
@@ -198,9 +161,8 @@ opoziciju, budući da nam se svakodnevno javljaju organizacije sa
 Beta i dodao da postoji mogućnost da se na sastanku u petak odredi
 novi koordinator opozicije, što bi u narednom periodu trebalo
 da bude Srpski pokret obnove. Lj. Podunavac
-
-Strana 3
-
+</div>
+<div id="vesti">
 Ginekolog prijavio NIN, pretres danas u 11.00
 
 Veseljka Koprivice, odgovornog”
@@ -218,8 +180,6 @@ aplauzom“. Podnosilac zahteva
 predložio je da se kao svedok
 pojavi autor teksta Zoltan Horvat.
 Maksimalna kazna predviđena po
-
-LOCUJII O O
 
 69. članu je ukupno 600 hiljada dinara,
 300 za preduzeće po 150 hiljada
@@ -242,8 +202,6 @@ gan za prekršaje. Branioci Danasa su nakon te odluke tražili
 da se suđenje-:odloži Za narednu nedelju. Do zaključenja
 ovog izdanja nije stiglo novo rešenje. UNO IO S O
 
-Tekst oti jie
-
 Beograd – Usmeni pretres po
 Zakonu o informisanju protiv beogradskog
 nedeljnika NIN ı glavnog
@@ -262,9 +220,6 @@ za nerođene“, koji je objavljen
 Ognjević je naveo u prijavi da je
 NIN povredio pravo njegove ličnosti
 objavljivanjem citata: „Zelela
-
-[JO tialta
-
 sam da rodim to dete. Medutim, u
 razgovoru sa mojim ginekologom,
 zbog povećanog stepena radijacije,
@@ -281,24 +236,18 @@ glavnom i odgovornom uredniku
 NIN-a i zatražio da list objavi demanti
 spornih navoda, ali da to „nije
 učinjeno“. (Beta)
+</div>
 
-Pretipanom
-
-Milo Bukanović odbio due! sa
+<div id="politika">
+Milo Đukanović odbio duel sa
 
 Bulatovićem
 
-Strana 3HRONIMA ·
-
-Otvoreno pismo grupe nastavnika Filozofskog fakulteta |
-
-četvrtak, 1. jun 2000.
-
 Džordž Robertson u poseti Kosovu
 
-Rezolucija 12
+Rezolucija 1244 nije u
 
-oinunosti nealizovana
+potpunosti realizovana
 
 FOTO: ROJTERS
 
@@ -333,13 +282,14 @@ svim etničkim zajednicama. „KFOR neće
 tolerisati nikakvo novo naselje, a posebno
 ne protiv malih etničkih zajednica“, kazao
 je Robertson. (Beta)
-
+</div>
+<div id="vesti">
 Posle protesta
 
 žitelja BresJa
 
-Kfon vnatig
-koninolni punkt
+Kfor vnatig
+kontrolni punkt
 
 Kosovo Polje - Pripadnici
 Kfora ponovo su preksinoć
@@ -474,16 +424,14 @@ sa naredbodavcima i
 počiniocima zločina, javno
  1tajno, njihovi su saučesnici,
 jer tim činom amnestiraju
-zločine“. Novinar je is-
-
-pustio reč „koji“ , čime je
+zločine“. Novinar je ispustio reč „koji“ , čime je
 bitno izmenio smisao reči
 generala Pavkovića, kaže
 se u Betinom saopštenju.
 
 Miting meštana sela Koretište kod Gnjilana
 
-SP traže poupatak Upjske Jugoslavije
+SP traže poupatak vojske Jugoslavije
 
 Beograd - Žitelji sela Koretište u opštini
 Gnjilane poslali su šefu Misije UN na Kosovu
@@ -547,15 +495,7 @@ pri tumačenju i primeni
 ako se imaju u vidu politički
 motivi za njegovo usvajanje“,
 navodi se u pismu i dodaje da
-će Jedina posledica takvog za-
-
-a: | CAT a
-
-konskog akta „biti veliki strah
-
-. Bnalani Snhije
-lici
-
+će Jedina posledica takvog
 građana“.
 
 Grupa nastavnika Filozofskog
@@ -568,9 +508,7 @@ kao i na „vojnopartijsku“
 direktivu resornog
 republičkog Ministarstva o
 prekidu nastave na fakultetima,
-koje ih je pretvorilo u „za-
-
-. branjene ustanove“.
+koje ih je pretvorilo u „zabranjene ustanove“.
 
 Pismo su potpisali redovni i
 vanredni profesori dr Milomir
@@ -599,9 +537,7 @@ moskovski list Komersant, u
 kojem komentariše strategiJu
 Moskve na Balkanu.
 
-Premda kaže da je zado-
-
-| voljan posetom i podrškom
+Premda kaže da je zadovoljan posetom i podrškom
 
 koju su ruski sugovornici
 pružili demokratskim promenama
@@ -614,7 +550,7 @@ Srbiji još važnija.
 
 „Oni su se uglavnom potrudili
 da nas saslušaju“ kaže
-Đinđić „ ı mada je njihov
+Đinđić „ i mada je njihov
 odnos prema onome što
 smo im govorili bio blagonaklon,
 ne bi bilo loše kad
@@ -691,39 +627,13 @@ se osloboditi pogrešne
 logike tipa 'što je loše za Zapad,
 dobro je za Rusiju i
 obratno“, kaže Đinđić.
-(Sense) __
-
-Jelka Jovanović (desk),
-
-Imre Sabo, Vladimir Stefanović (Beograd),
-
-Danas, dnevnik, izdaje preduzeće za novinsko-iz
-
-davačku delatnost, DAN GRAF d.o.o, Redakcija: Alekse Nenadovića 19-23, V sprat,
-Beograd, e-mail: danaseeunet.yu, danasdesaeinfosky.net, tel/fax: 344-11-86, 432-731. Predsednik Upravnog odbora: Radomir Ličina.
-Direktor DAN GRAFA: Dušan Mitrović. Glavni urednik: Grujica
-~ kolegijum: Božidar Andrejić (zamenik glavnog urednika), Radovan B
-ri P - CVIJIĆ (sport), Ludwik Wincenty Gadomski (posebna izdanja), Zdra
-Radomir Ličina, Gordana Logar, Dragana Luković (marketing), Zagorka Milošević,
-
-Dragan Stošić (kultura), Prodaja: Slavenka Đurović, Milorad Đ
-
-Spasović, Odgovorni urednik: Veseljko Koprivica, Redakcijski
-alać (Novi Sad), Safeta Biševac (unutrašnja) Nikola Burzan, Petar
-vko Huber (zamenik glavnog urednika), Milovan Jauković (svet),
-Predrag Mitić (foto), Aleksandar Nikašinović, Vesna Ninković
-urović. Žiro-računi 40816-603-5-3045538 i 40816-603-8-4045538
-
-Stampa „Forum“ – Holding korporacija, Vojvode Mišića 1, Novi Sad, ISSN 1450-538XTANJA VALIČ
-
-| HRONIKA
-
-Tyanas
-
+(Sense) 
+</div>
+<div id="politika">
 Milo Đukanović odbio duel sa Predragom Bulatovićem
 
-„l ja Bih igpao košankii
-· sa Majklom Džgpianom"
+„i ja Bih igrao košarku
+sa Majklom Džordanom"
 
 Podgorica – Crnogorski
 predsednik i čelnik Demokratske
@@ -740,16 +650,14 @@ ispuni nekoliko uslova.
 bavio košarkom rado igrao
 sa američkim košarkašem
 Majklom Džordanom, ali on
-neće da igra sa mnom“, T[ekao
-je Đukanović na promo-
-
-tivnom skupu Koalicije „Da
+neće da igra sa mnom“, rekao
+je Đukanović na promotivnom skupu Koalicije „Da
 živimo bolje“, koji je preksinoć
 održan u Podgorici.
 Bulatović je na nekoliko
 predizbornih skupova SNP
 pozvao na politički dvoboj
-Đukanovića, UaZeCi Id
+Đukanovića,
 pravu o svim lokalnim, republičkim
 i saveznim Dproblemima.
 Đukanović je rekao
@@ -764,18 +672,14 @@ SNP voli kampaniju s Bellinja
 
 Milo Đukanović je izneo uverenje da se „pored fronta
 sa Dedinja“ Crna Gora mora boriti i protiv „unutaršnjeg
-fronta“ iza kojeg stoji jedan deo tradicionalne i konzerva-
-
-tivne Crne Gore.
+fronta“ iza kojeg stoji jedan deo tradicionalne i konzervativne Crne Gore.
 
 „To je ona Crna Gora koja još uvek dozvoljava da bude
 izmanipulisana lažima dedinjske diktature, koja nesrećnom
 narodu nameće vlast jednog čoveka i jedne žene“,
 rekao je Đukanović. On je naglasio da je koalicija „Za Jugoslaviju-Momir
 Bulatović“, koju je formirala Socijalistička
-narodna partija, izbornu kampanju počela iz Be-
-
-ograda.
+narodna partija, izbornu kampanju počela iz Beograda.
 
 je koalicije, prethodno morao
 da „odradi“ duel sa kandidatom
@@ -807,21 +711,16 @@ zatim mora da izađe i
 na politički dvoboj sa koalicionim
 partnerom, liderom
 „Srpske radikalne
-stranke Vojislavom Seše-
-
-'ljem.(Beta)
-
+stranke Vojislavom Sešeljem.(Beta)
+</div>
+<div id="vesti">
 Na Surčinu juče uhapšeno obezbeđenje lidera SPO
 
 Drašković: Ljuti zimu: Moasi(UE
 
 Beograd - Predsednik Srpskog pokreta
 
-stranke Srbije Zoranom Đinđićem i Vojisla-
-
-četvrtak, 1. jun 2000.
-
-3
+stranke Srbije Zoranom Đinđićem i Vojisla
 
 Požarevac – Istražni sudija
 Okružnog suda u Požarevcu
@@ -863,10 +762,9 @@ Nalić, Igor Olujić, Mila
 Juče u Požarevcu saslušanje svedoka povodom
 incidenta ispred kafića „Pasaž“
 
-Saslušanje he?
+Saslušanje
 ključnih svedoka
 
-O
 
 predložila da se sasluša još
 dvadesetak svedoka, ali istražni
@@ -875,9 +773,7 @@ zakazao novo saslušanje.
 Advokati odbrane su ponovili
 zahtev da se uhapšenim
 pripadnicima Otpora
-Momčilu Veljkoviću ı Ra-
-
-“dojku Lukoviću, kao i da se
+Momčilu Veljkoviću Radojku Lukoviću, kao i da se
 
 obustavi potraga za NeboJjšom
 Sokolovićem, ukine
@@ -886,14 +782,7 @@ oodlučivano.
 
 Podsetimo vanparnično
 veće Okružnog suda u PoŽarevcu,
-u sastavu Slobo-
-
-ad
-ec
-
-SRĐAN STEVANOVIĆ
-
-dan Cogurić, Milica Arizanović
+u sastavu Slobodan Cogurić, Milica Arizanović
 i Vesna Mitrović, je
 donelo odluku o određivanju
 pritvora do 30 dana, posle
@@ -948,12 +837,12 @@ Istnana se nastavlja,
 Bitvon pnotdu?en
 
 Novinari OBZUHUH medija goli propagatori: Gordana Suša, predsednica SLUCI S
+</div>
+<div id="vesti">
+NUNS predstavio Dosije o represiji nad medijima Za mart i april
 
-NUNS predstavio Dosije o represiji nad medijima Za mart ıL april
+Permanentni pritisak režima
 
-Pepmanentii ppitisak nežima
-
-Nastavak sa 1. strane
 
 Predsednica NUNS Je najavila
 da će to udruženje
@@ -977,7 +866,7 @@ NUNS, navela je da se oni
 koja u nekim glasilima
 provodi dane, tržišne inspekcije,
 štamaprija i distribucije,
-kao i ucenjivanja {irmi
+kao i ucenjivanja firmi
 koje se oglašavaju u nezavisnim
 me1djima.
 
@@ -993,15 +882,8 @@ da se „direktno umešao u
 represiju“.
 
 Prema njenim rečima
-samo u jednom danu Po-
-
-· litika je objavila 25 na-
-
-slova koji su u sebi imali
-TeČ leroliZzam ili [erorlsta.
-T.K:
-
-Nastavak sa 1. strane
+samo u jednom danu Politika je objavila 25 naslova koji su u sebi imali
+reč terorizam ili terorista.
 
 Filipovićevi branioci advokati Goran Draganić
 i Zoran Ateljević podneli su prošle
@@ -1092,7 +974,7 @@ pravnog zastupnika bi otišla
 u stanicu MUP ili nadležnu
 republičku ili saveznu
 
-qTntegralni tekst Otpora upućen Draganu Veselinovu,
+integralni tekst Otpora upućen Draganu Veselinovu,
 predsedavajućem demokratske Opozicije
 
 Stnatenija napotine Oihipang
@@ -1102,7 +984,7 @@ dva sata. Javni poziv gradanima
 bio bi upućen u roku
 od 24 časa, kako bi se organizovao
 pritisak na nadležni
-organ. Najavio bi se ı
+organ. Najavio bi se i
 štrajk glađu odbornika i rukovodstva
 SO najkasnije 36
 sati od prijema informacije
@@ -1126,7 +1008,7 @@ pepiotia Bivše Jugoslavije?
 
 Beograd – Čestitamo Vladi na dosetci da
 privremeni montažno – demontažni most
-prefarba ı prikaže ga kao najvnovije čudo
+prefarba i prikaže ga kao najvnovije čudo
 tehnologije – izjavio je na jučerašnjoj konferenciji
 za novinare Dušan Mihajlović, predsednik
 Nove demokratije i kopredsednik koalicije
@@ -1144,7 +1026,7 @@ odgovarajuće rezerve.
 Mihajlović je rekao da taj
 most nije mogao trenutno da
 bude napravljen ni u jednoj železari
-u SRJ ı da ne može biti
+u SRJ i da ne može biti
 uspeh ovdašnje industrije „Jer
 
 šavanje problema u Srbiji u ustavnim okvirima“.
@@ -1193,11 +1075,7 @@ Lilićevom mišljenju na fakultetima je
 „de facto uvedeno vanredno stanje, ali je
 dobra strana što se to ne poštuje u celosti“.
 
-FK
-
 Mihajlo Mihajlov na tribini Foruma za etničke odnose
-
-izglac
 
 Beograd – Od 1991. godine
 i početka Jugoslovenske krize
@@ -1218,12 +1096,8 @@ i nedavna nastojanja
 Kongresa da izglasa rezoluciJu
 o povratku američkih trupa
 
-sa Kosova – istakao jejuče Mi-_
-
-hajlo Mihajlov, ugledni politički
+sa Kosova – istakao je juče Mhajlo Mihajlov, ugledni politički
 analitičar, predavač na
-
-Zaječar – Jed
 
 u pritvoru, rečeno Je agenciji
 
@@ -1304,10 +1178,6 @@ njih u kragujevačkom MUP ima dete sa
 rezultatima kakve ima moj sin. Ništa mi.
 nije odgovorila“, kaže Nena Bogdanović.
 
-ignika iIzmeilli
-
-ije i intenvencije
-
 vanja stidi što je Amerikanac“,
 a njega podržava i srpska dijaspora.
 Majkl Novak, politički
@@ -1334,7 +1204,6 @@ Majka maloletnog „Ootporaša“
 Dušana Bogdanovića
 
 Moj sin je
-ppimenno tigie
 
 Kragujevac – „U policiji su me jutros pitali
 kakve su moralne i druge karakteristike
@@ -1359,7 +1228,7 @@ Z.R
 
 Momčilo Perišić, Pokret za demokratsku Srbiju
 
-Poseta Moskvi poptmuni fijaskga
+Poseta Moskvi potpuni fijasko
 
 Beograd- Nivo posete tri
 opoziciona lidera Moskvi je
@@ -1367,7 +1236,7 @@ ispod onoga koji je obećan
 
 Tađanima. Danas pojedini
 Ideri opozicije čine istu grešku
-kaoi Oo0ud režim, koji
+kao i ovaj režim, koji
 je radi opstanka na vlasti
 puzio ka zapadu do RambuJea,
 a posle toga ka istoku –
@@ -1399,8 +1268,6 @@ Komentarišući ultimatum
 pokreta Otpor liderima udružene
 opozicije, Perišić je uka-
 
-____Se
-
 Beograd – Studenti na beogradskim
 fakultetima juče
 nisu organizovali protesne
@@ -1424,7 +1291,7 @@ Arhitekturi, Građevini
 održani zborovi.
 
 Jedino je postavljeno novo
-obezbeđenje „Sıgurnost
+obezbeđenje „Sigurnost
 Beograd“ na sporedan ulaz
 zgrade kod Kluba studenata
 tehnike, kojim se od juče
@@ -1484,13 +1351,8 @@ SRJ“ ı zaključio da je to
 odraz disproporcije u vladajućem
 režimu „koji to prikriva
 upotrebom sile“. S 1.
-
-ZDOPUIK „PIOUOĆČ
-promena”
-
-Bemgalnaiski
-putokaz
-
+</div>
+<div id="kultura">
 Beograd – Knjiga predstavlja
 ohrabrenje zbog toga što
 suočava sa Otvorenim
@@ -1569,10 +1431,11 @@ Građevinskog i Elektrotehničkog
 fakulteta, navodi se,
 između ostalog, u RakitićeVOJ
 izjavi dostavljenoj juče
-našoj redakciji.+
-:..
+našoj redakciji.
+</div>
 
-OBAVEŠTENJE CITAOLIMA
+<div id="vesti">
+OBAVEŠTENJE CITAOcIMA
 Stop nasilju
 
 Direktori i glavni urednici najvećih privatnih i nezavisnih
@@ -1585,13 +1448,13 @@ Srpske radikalne stranke Vojislava Šešelja hapšenjem i
 likvidacijom novinara. Zahtevamo da država, primenjujući
 zakon, spreči izazivanje nasilja, širenje mržnje i
 svake vrste netrpeljivosti. Pozivamo i druge medije da
-nam se pridruže. - |
+nam se pridruže.
 
 Nezavisno udruženje novinara Srbije, Blic, Beta, B2-92,
 · Danas, Studio B, FoNet, Glas Javnosti, Radio Indeks, TV
 Mreža, NIN, TV produkcija VIN, Vreme, Republika.
 
-Protestu su se priključili i: |___
+Protestu su se priključili i:
 
 Radio Aleksinac, Radio Bajina Bašta, Radio BOOM
 93, Požarevac, JP „Cačanski glas“ (radio, TV i lokalni
@@ -1614,37 +1477,10 @@ uvine, Magazin Has, Pečat, Žig, Tibiskas, Kolubara, Porodični
 krug, Bajinobaštanske novine, Moj Kovin, Sednu-
 
 mozaik, Kikindske novine, Timočke novine,
-
-__ AIU AM TRI | ahtevaće reviziju
-| | D [
-1 0 T ih BIUU O72iCi al (GTA: 1JOJC OP) 2 O
-
-___ Onaj ko posegne za ovim represivnim zakonom frebulo bi dase za
+Onaj ko posegne za ovim represivnim zakonom frebulo bi dase za
 ličnoj odgovornosti kad suira u demokratskoj Srbiji nastupi vladavina |
-
-| ikad bude gdgovamo za pošluke TOO OI
-
-Ukupng dosadaši dostigle-su 28,844.000 dina
-nam se ofelo PO GLH) a {7 i - i
-
-Ivica (Ivan) Ivanović,
-vojnik VJ u rezervi, dobrovoljac.
-Rođen 12. januara
-1955. u Selu Bački BregB,
-Sombor. Na Kosovu i Metohiji
-bio u sastavu 125. motorizovane
-brigade. Poginuo
-16. aprila 1999. u rejonu Karaule
-„Košare“, Đakovica.
-Porodica: sinovi Rajko i
-Ivan. Odlikovan Ordenom
-za zasluge u oblastima odbrane
-ı bezbednosti prvog
-stepena.
-
-Đorđe (Milan) Dunjić,
-rezervni potporučnik VJ.
-
+</div>
+<div id="magazin">
 hiji Dio u sastavu 37. motorizovane
 brigade kao komandir
 voda. Poginuo 29. aprila
@@ -1665,12 +1501,9 @@ kod Peći. Odlikovan Je MeRođen
 Na Kosovu i Meto- ma odbrane i bezbednosti.
 
 Napomena: Podaci preuzeti iz knjige „Junaci otadžbine“
-
-KITVIIITTKI3TJ
-
-DOGODILO SE NADANAŠNJI
-
-LI
+</div>
+<div id="magazin">
+DOGODILO SE NA DANAŠNJI DAN
 
 U Podgorici je danas održana konferencija Saveza komunista
 – pokret za Jugoslaviju u Crnoj Gori, organizacije koja,
@@ -1689,15 +1522,12 @@ protiv „otimanja onog što su radnici decenijama stvarali“.
 Predsednik SK – PJ Ratko Krsmanović Je rekao da su „komunisti
 danas pred novim izazovom i da oni imaju istorijsku
 ulogu za ohrabrenje i objedinjavanje svega što je lijeve
-orijentacije.“ | .
-
-IMRE SABO
-
-četvrtak, 1. iun 2000.
-
+orijentacije.“
+</div>
+<div id="ekonomija">
 Tomislav Milisavljević, Institut za tržišna istraživanja
 
-Snhiji pnpti nestašica hpane
+Srbiji preti nestašica hrane
 
 Beograd – Ukoliko se ispune svi uslovi,
 maksimalan ovogodišnji rod pšenice
@@ -1730,9 +1560,7 @@ primanja stanovništva (nominalno
 za 6,7, a realno tri odsto), u uslovima kada
 naplata javnih prihoda beleži pad,
 uzrokovano je povećanjem novčane mase,
-mada tačnih podataka o njenom izno-
-
-su nema.
+mada tačnih podataka o njenom iznosu nema.
 
 Od zvaničnog opredeljenja nulte inflacije,
 očigledno nema ništa, s obzirom
@@ -1746,10 +1574,10 @@ dve godine (44-50 odsto), ali da će
 stvarni rast biti mno
 ju i podaci prema
 
-Katastro}alno staruje
+Katastrofalno staruje
 u farmaceutskoj industriji
 
-Apoteke lez lek0va
+Apoteke lez lekova
 
 Beograd – Radi zaštite farmaceutske
 industrije, od nadležnih
@@ -1787,11 +1615,7 @@ više od 264 miliona dinara
 (ili 10,56 miliona DEM).
 
 U takvim uslovima jedini
-prosperitet beleži uvoz leko-
-
-•
-
-va. Tako je 1995. ukupna prodaja
+prosperitet beleži uvoz lekova. Tako je 1995. ukupna prodaja
 lekova domaćih DproIzvOđača
 iznosila 1,5 milijardi dinara
 ili po tada važećem kursu
@@ -1818,9 +1642,7 @@ tako u proseku poskupeli
 skoro 20 odsto, ali je mereno
 rastom cena na malo april
 
-1996 – decembar 1999. godi-
-
-ne taj rast bi trebao da iznosi
+1996 – decembar 1999. godine taj rast bi trebao da iznosi
 296 odsto. Cak ı ako bi se zanemarili
 statistički podaci,
 rast inputa rečito EOVOTI O neophodnosti
@@ -1853,12 +1675,13 @@ nepostojanje iržišla akcija, neobaveznost procesa i ne-
 
 pravni problemi. Zbog toga bi prema Jovanu Todorovi-
 
-bio | O IC U •s, ali i omogućiti bržu prodaju
+ali i omogućiti bržu prodaju
 
 Monografija „Deca optužuju“
 Dečji IVO
 najskuporeniji
-
+</div>
+<div id="kultura">
 Beograd – U Arhivu Jugoslavije Juče je predstavljena
 monografija „Deca optužuju“, kao svojevrstan dokument o
 deci – žrtvama prošlogodišnjeg NATO bombardovanja naše
@@ -1871,49 +1694,32 @@ istakao je savezni ministar za međunarodnu naučnu
 i kulturnu saradnju Čedomir Mirković. Osim njega, govorili
 su i pesnikinja Mira Alečković, Margit Savović, savezna
 
-· ministarka i predsednik Jugoslovenske komisije za sarad-
-
-nju sa UNICEF-om i za unapređenje položaja žena, priredi
+ministarka i predsednik Jugoslovenske komisije za saradnju sa UNICEF-om i za unapređenje položaja žena, priredi
 vač knjige dr Ilija Simić, kao i zamenik saveznog ministra
 za inostrane poslove Zoran Novaković, koji je naglasio da
 je ova knjiga „teška i neoboriva optužnica protiv lidera zemalja
 agresora“. Margit Savović je istakla da je „dečji Život
-najskupoceniji“. BM IJ
-
-:oO
-=
-<
-[ci
-=
-
-S
-
+najskupoceniji“.
+</div>
+<div id="ekonomija">
 - Generalni sekretar UBJ Mileta Babović
 
 - Ta livin šitinju
 
 1,8 milijanilu tlinana
 
-Beograd – Generalni sekretar Udruženja banaka Ju-
+Beograd – Generalni sekretar Udruženja banaka Jugoslavije Mileta Babović rekao je juče da za isplatu pyve
+rate devizne štednje od 150 maraka po štediši bankarski
+sektor mora da obezbedi 1,3 milijardu dinara.
 
-_ goslavije Mileta Babović rekao je juče da za isplatu pyve
-- rate devizne štednje od 150 maraka po štediši bankarski
-_ sekior mora da obezbedi 1,3 milijardu dinara.
-
-___On jena sednici Upravnog odbora UBJ dodao da {o ni__je
+On je na sednici Upravnog odbora UBJ dodao da to nije
 siguran podatak, ali je naglasio da najavljena isplata
-- stare devizne štednje predstavlja početak vraćanje pove-
-
-_ renja u banke. Ove godine bi za isplatu prve rate devizne
+stare devizne štednje predstavlja početak vraćanje poverenja u banke. Ove godine bi za isplatu prve rate devizne
 
 štednje trebalo obezbediti oko 183 miliona maraka. od
-te sume 73 miliona bi trebalo da obezbedi Savezna vla-
-
-_ da, a po 55 miliona Narodna banka Jugoslavije i poslov___Generalni
+te sume 73 miliona bi trebalo da obezbedi Savezna vlada, a po 55 miliona Narodna banka Jugoslavije i poslov___Generalni
 direktor Jubanke Marko Steljić kazao je da
-_ se stalno govori o vraćanju štednje, a niko ne pominje Za-
-
-_ jam za privredni preporod Srbije. On je pozvao Borku
+_ se stalno govori o vraćanju štednje, a niko ne pominje Zajam za privredni preporod Srbije. On je pozvao Borku
 - Vučić da nešto učini po tom pitanju. Generalni direktor
 
 Beogradske banke Borka Vučić rekla je da je vraćen najveći
@@ -1921,11 +1727,12 @@ deo zajma plasiran u poljoprivredu, a da su modaliteti
 isplate preostalog duga u nadležnosti republičkih organa
 vlasti. „Kamate na zajam su od I2 do 17 odsto, ali
 postoji veliki broj zainteresovanih zajmodavaca Za dinare
-i imovinu“ rekla je Borka Vučić. (Beta) ; ;
+i imovinu“ rekla je Borka Vučić. (Beta)
 
 _ Aktivisti Otpora dele letke građanima
-| koji žure u red za ulje: Beograd juče6 četvrtak, 1. jun 2000.
-
+koji žure u red za ulje: Beograd juče
+</div>
+<div id="kolumna">
 U redakciji Danasa juče u 13
 sati održana je komemoracija
 Nikoli Burzanu, istaknutom jugoslovenskom
@@ -1959,14 +1766,8 @@ uzbudljivom i surovom poslu.
 Već devet utoraka zaredom,
 mnogi su čitaoci Danasa otvarali
 sedmu stranicu našeg lista,
-tražeći ono ZDog čega su ga ne-
-
-_ (0
-
-ki ı kupovali, Nikolinu kolum
-
-nu „Sezame, otvori se“. ili
-su to ı neki od nas, iako su znali
+tražeći ono ZDog čega su ga neki i kupovali, Nikolinu kolumnu „Sezame, otvori se“. ili
+su to i neki od nas, iako su znali
 s kakvim se strašnim protivnikom
 odavno bio uhvatio u
 koštac. Očekivali smo čudo, Verovali
@@ -2016,10 +1817,10 @@ staje njegova ca
 porodica CU EVO
 ION uvažavanjem čuvati svešto”
 
-O naučila i | nasledila. OC O
+O naučila i nasledila.
 
 U Oe novinarskoj biografiji
-prelamaju se sva ii
+prelamaju se sva i
 šenja kroz koja je prolazilo
 OOMDINO u O zemlji, pa i
 društvo u celini. Ali, ono Što je
@@ -2028,15 +1829,12 @@ i urednika, izdvajalo od veći|
 - ih bilo je stalno nasto-
 
 a u svim političkim
-ORO Lil OtVOIL maksimum
+maksimum
 prostora za slobodu jav-
 
-Hvala ti na svemu: Cerka i OSE MER ORO
-l LCM u skupu u redakciji O
+Hvala ti na svemu: Cerka u skupu u redakciji
 
 Komemoracija bardu Jugoslovenskog novinarstva
-
-Ona? 1a RIJUĆam
 
 ne reči, da ne dozvoli da novinarska
 profesija bude zloupotrebljena
@@ -2280,9 +2078,8 @@ saputnicima i sapatnicima, ipak
 ostaje zadovoljstvo da smo toliko dugo
 bili na istom brodu. I što je ostavio tako
 dubok trag. Ivan Torov
-
-peh IDE PaYR AL,četvrtak, 1. jun 2000.
-
+</div>
+<div id="vesti">
 Policija je bila korektna i 140 Juče privederuh lica ruje tukla, ruti na bilo koji
 drugi način zlostavljala. Privederu su uredno otpušteru bez vidljivih rana
 i obrazloženja zašto su zadržani dva, tri, osam ili 24 sata, il: više dana
@@ -2297,7 +2094,7 @@ uhvati), malo ih ispituje, a onda uglavnom pusti.
 Isvi odahna - nije bilo nasilja. Ili, kako bi rekli lepo vaspitaru, „policija Je
 bila korekina“.
 
-Nasuprot njima pravruci taksativrio TLIOgU nabrojati sve članove ustava
+Nasuprot njima pravruci taksativrio  nabrojati sve članove ustava
 (saveznog 1 srpskog), krivičnog zakona, kao i propisa o radu tzv. službe
 inutrašnjih dela, koji se pri ovim injormatvTurm privođenjima krše. U
 suakom iole uređenom društvu svaki privederu bi presavio tabak i dobio
@@ -2312,13 +2109,13 @@ glasila da su svi privedeni članovi „terorističke orgaruzacije“ Otpor ili 
 opozicione stanke ili, pak, novinar nezavisnih listova, te da kao takui
 dokazaru izdajnici mogu ili imaju veze sa nedavrum ateruatorm na
 SPS-funkcionera Boška Peroševića.
-
+</div>
 Pre javnog ubistva Peroševića privođenja
 zlagana.
 
 su bila „manje ubedljivo“ obm-
 
-Baš me razgalila vest (iz MOoskve}
+Baš me razgalila vest (iz MOoskve
 da je Milutin Stojković [u
 Beogradu) optužio šela ruske
 diplomatije Ivanova za „ulizivanje”

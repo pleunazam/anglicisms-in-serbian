@@ -2,24 +2,19 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>The shortest TEI Document Imaginable</title>
+    <title>Danas 1998-7-3</title>
    </titleStmt>
    <publicationStmt>
-    <p>First published as part of TEI P2, this is the P5
-         version using a namespace.</p>
+    <p></p>
    </publicationStmt>
    <sourceDesc>
-    <p>No source: this is an original work.</p>
+    <p></p>
    </sourceDesc>
   </fileDesc>
- </teiHeader>
- <text>
-  <body>
-   <p>This is about the shortest TEI document imaginable.</p>
-  </body>
- </text>
+</teiHeader>
   <text>
   <body>
+    <div id="vesti">
 Redovi za benzin na tropskoj
 žegi
 
@@ -75,9 +70,7 @@ EU i Poljske koja je predsedavajući
 OEBS.
 Prva patrola kosovske posmatračke
 misije kreće u 11
-sati iz Američkog informa-
-
-tivnog centra u Prištini, ali
+sati iz Američkog informativnog centra u Prištini, ali
 put kojim će se kretati neće
 biti unapred saopšten iz, kako
 se navodi, bezbednosnih
@@ -174,65 +167,6 @@ sadašnji dolazak u Jugoslaviju;
 To je deo procesa“,
 naglasio je Holbruk. R. L.
 
-
-
-No pmetumm broju strano
-Kompletne dnevne novine,
-plus nedelimk :
-Momčilo Trajković, uoći dolaska Srba
-sa Kosova i Metohije u Beograd
-Kontakti Holbruka i OVK
-su dogovoreni sa Miloševićem
-Godina velikih iskušenja za Haški tribunal
-Medimarodna pravda
-i dug efikasnosti
-Gost urednik
-Urbazona Miomira Grujića Fleke
-
-Q
-CC
-(D
-o
-o
-n
-■
-cc
-X
-CNI
-■
-z
-uu
-□
-o
-ca
-■
-co
-o
-cn
-■
-<
-o
-CNI
-■
-S
-LU
-Q
-CM
-
-Nakon šest godina
-BESPLATAN OGLASNI PROSTOR
-Sti.uia 19
-
-panas na mtemetu
-http://www.danas.co.vu
-
-OGLASAVAJTE
-SE U LISTU
-X>anas
-MARKETING
-tel/fax 438-991Nasilje na Kosovu nije
-„unutrašnja stvar“
-
 Anan preispituje Povelju UN
 
 Prag - Generalni sekretar
@@ -270,9 +204,7 @@ odvija, ukoliko je
 unutar granica jedne države.
 „Povelja brani suverenitet
 naroda ali nikada
-nije mogla da bude tuma-
-
-čena kao licenca za vlade
+nije mogla da bude tumačena kao licenca za vlade
 da gaze Ijudska prava i
 Ijudsko dostojanstvo.
 Činjenica da je jedan
@@ -310,7 +242,8 @@ je generalni sekretar
 UN. (Beta)
 
 FOTO: FONET/AP
-
+    </div>
+    <div id="politika">
 Posle okršaja: Ostavljeno oružje pripadnika
 Oslobodilačke vojske Kosova kod sela Ade
 
@@ -394,11 +327,7 @@ koje zastupaju tezu da je neophodno
 osnivanje nacionalnog
 veća žele da obezbede političku
 snagu koju nemaju.
-- Naprotiv, ove političke par-
-
-Vojni analitičar Ljubodmg Stojadinović o priznavanju OVK
-
-tije imaju realno veoma veliku
+- Naprotiv, ove političke partije imaju realno veoma veliku
 snagu, samo što smo smatrali
 da se na izbore 22. marta nije
 moralno izaći u vreme kada se
@@ -503,19 +432,7 @@ za nas gubitak.
 
 G. Brkić
 
-dnevnik, Izdaje preduzeće za novinsko-izdavačku delatnost, DAN GRAF d.0.0, Redakcija; Vatroslava Jagića 3.
-Beograd, e-mail: danas@eunet.yu, fax. 451-442, glavni urednik 452-176, dnevna redakcija i prelom 456-895, unutrašnja
-452-162 i 437-019, spoljna 344-1999, kultura 344-2177, foto 344-1459, Beograd i sport 344-1591, direkcija 452-153,
-marketing 438-991. Predsednik Upravnog odbora: Radomir Ličina. V. d. direktora DAN GRAFA: Dušan Mitrović.
-Direktor lista; Dušan Simić. Glavni i odgovorni urednik: Grujica Spasović, Redakcijski kolegijum: Božidar Andrejić (zamenik glavnog i odgovornog
-urednika), Nikola Burzan, Petar Cvijić (Beograd, sport), Ludwik Wincenty Gadomski (ilustracije), Zdravko Huber (zamenik glavnog i odgovornog
-urednika), Milovan Jauković (desk), Jelka Jovanović, Radomir Ličina (svet), Gordana Logar, Zagorka Milošević, Aleksandar Nikašinović, Vesna
-Ninković-Džafo, Rade Radovanović (kultura), Imre Sabo (foto), Dušan Simić, Prodaja: Slavenka Đurović, Milorad Đurović, tel. 452-163,
-Ziro-računi 40816-603-5-3045538 i 40816-603-8-4045538, Štampa DP štamparija “Borba”, ISSN 1450-538X
-
-2
-
-Petak, 3. jul 1998,Milošević: Za nastavak
+Milošević: Za nastavak
 suštinsskog dijaloga
 
 Beograd - Predsednik SR Jugoslavije
@@ -546,9 +463,7 @@ jugoslovenski parlametarci,
 interesuju za stanje na Kosovu
 i Metohiji, MUošević je naglasio
 značaj argumentovanog i
-uverljivog prezentiranja činjeni-
-
-ca koje se tiču uzroka problema
+uverljivog prezentiranja činjenica koje se tiču uzroka problema
 na Kosovu i Metohiji, koji leže,
 pre svega, u separatizmu i terorizmu,
 navodi se u saopštenju s
@@ -625,7 +540,8 @@ može se naći u situaciji da
 i da Srbi na Košovu dožive
 istu sudbinu kao i u Hrvatskoj
 i Bosni. (FoNet)
-
+    </div>
+    <div id="vesti">
 Zahtev Sindikata EPS Vladi Srbije
 Obezbedite
 sigurnost radnika
@@ -732,7 +648,7 @@ nelikoko puta među njima bilo
 se, zadržani kao taoci.
 Uprkos tvrdnji da prenos
 oružja više nije tako težak zadatak,
-ono se ipak ne može na-
+ono se ipak ne može
 
 Ponovo uspostavljena kontrola: PolLcijska patrola u selu Ađe
 
@@ -747,7 +663,7 @@ u opštini Klina u potkolenicu ranjen policajac Mića Mikić.
 Policajci su prebačeni u bolnicu u Peći gde su operisani. Lekari
 tvrde da im život nije u opasnosti. N. D.
 
-laze se sela Šipitula i Grabovac,
+nalaze se sela Šipitula i Grabovac,
 nastanjena pretežno Albancima.
 Novinari koji su prekjuče
 obišli Ade, odakle ni policija ne
@@ -809,9 +725,7 @@ Selo Drenovac kod Kline, nastanjeno
 Albancima, već danima
 je pod neprekidnom paljbom.
 Prištinski odbor za Ijudska
-prava saopštio je da je u gra-
-
-baviti u količinama koje bi bila
+prava saopštio je da je u grabaviti u količinama koje bi bila
 dovoljne da se naoružaju svi
 oni koji se priključuju OVK,
 tvrde njihovi izvori. Dosadašnje
@@ -823,10 +737,9 @@ broj građana iz Prištine, Đakovice
 i Prizrena.
 
 S. Tabaku
-
-Petak, 3. jul 1998,
-
-3Đukanović i Milošević
+    </div>
+    <div id="kolumna">
+Đukanović i Milošević
 vladaju na isti način
 
 Slavko Perović, bivši lider crnogorskih liherala
@@ -880,7 +793,7 @@ krvi koßko mu je dosta za
 nastavak svoje vladavine", a
 da je Bulatović poveden u
 Beograd da uzvikne i potpiše
-‘Kosovo - republika!’“.
+Kosovo - republika!“.
 Slavko Perović je, takođe,
 upozorio na da „Đukanović
 u Crnoj Gori, a Milošević u
@@ -903,7 +816,8 @@ Milana Panića da su alternativa
 Miloševiću, on, Milo
 Đukanović i Milorad Dodik.
 (Montena-fax)
-
+    </div>
+    <div id="politika">
 LSCG nastavlja starim putem
 
 Podgorica - Mali kabinet Liberalnog saveza Crne Gore,
@@ -923,8 +837,9 @@ Goru“.
 spoljnu politiku, kao njen poslanik u Skupštini Crne
 Gore i pptpredsjednik Socijalističke internacionale" kazao
 je Živković.
-
-Uoči proslave Dana nstanka Crne Gore
+    </div>
+    <div id="ekonomija">
+Uoči proslave Dana nastanka Crne Gore
 
 Crnogorske
 devize još u Srbiji
@@ -954,7 +869,8 @@ Jugoslavije, nepobitno je dokazano
 da se radi o legalnom
 i zakonitom poslu“, zaključio
 je Babić. (Montena-fax)
-
+    </div>
+    <div id="vesti">
 SUBNOR se neće izviniti
 zbog dubrovačkog rata
 
@@ -1004,8 +920,8 @@ ali je sa najvišeg mjesta SUBNOR-a
 Crne Gore odgovoreno
 da se oni neće nikome izvinjavati
 jer - kako je rečeno
-- ‘oni nijesu organizatori brigade
-‘Sava Kovačević’, već je
+- oni nijesu organizatori brigade
+Sava Kovačević’, već je
 to bila nadležnost Teritorijalne
 odbrane Crne Gore“ - rekao
 je, uz ostalo, general Vukosavović,
@@ -1137,9 +1053,7 @@ je napao i nožem povredio
 Stojadina Mihajlovića
 i Dušana Minića, a potom
 zapalio njihove vikendice.
-Insinuacije i tvrdnje o in-
-
-sceniranom zločinu zlonamerne
+Insinuacije i tvrdnje o isceniranom zločinu zlonamerne
 su i tendenciozne,
 očigledno sa političkom
 pozadinom“, kazao
@@ -1162,11 +1076,7 @@ SUP-a, osnovano se
 sumnja da je odbegli vojnik
 übio Lazara Miličića
 (74). (Beta)
-
-4
-
-Petak, 3. jul 1998
-C Kc L i-J vz . > ;Uvećana borbena gotovost
+Uvećana borbena gotovost
 makedonske vojske
 
 Gligorov obišao granicu sa SRJ i Albanijom
@@ -1205,7 +1115,7 @@ rešavaju putem dogovora i tolerandje
 da bi se stvorili uslovi za dobru saradnju na
 Balkanu", rekao je Gligorov. (Beta)
 
-Eksplozija u centrn Budimpešte
+Eksplozija u centru Budimpešte
 Usmrćene četiri osobe
 
 Budimpešta - U eksploziji
@@ -1243,12 +1153,8 @@ posledica obračuna
 između arapskih i turskih biznismena,
 uključenih u nelegalne
 poslove u Mađarskoj.
-Mađarska policija po-
-
-nudila je pet miliona forinti
-(oko 23 hiljade dolara] ono-
-
-me ko pruži informacije o
+Mađarska policija ponudila je pet miliona forinti
+(oko 23 hiljade dolara] onome ko pruži informacije o
 počiniocima zločina. (Beta)
 
 Obračun u podzemlju?: Posle eksplozije u ulici Aranjkez
@@ -1280,9 +1186,7 @@ se smatra istorijskim.
 Međutim, njegovi rezultati
 već su pali u senku posle vesti
 da je u noći između četvrtka
-i petka oštećeno osam ka-
-
-toličkih zdanja širom Severne
+i petka oštećeno osam katoličkih zdanja širom Severne
 Irske. Policija je saopštila
 da su crkve oštećene u podmetnutim
 požarima i da još
@@ -1330,9 +1234,7 @@ jedan u Kini", rekao je američki
 predsednik. On je saopštio
 da će američka Eksim
 banka obezbediti kredit od 50
-miliona dolara za projekte či-
-
-ste energije, kao i da će SAD
+miliona dolara za projekte čiste energije, kao i da će SAD
 pomoći kinesku mrežu za
 kontrolu kvaliteta vazduha u
 celoj zemlji. SAD će takođe
@@ -1374,13 +1276,7 @@ etničkog čišćenja. Sve te optužbe su bez osnova, naglasio
 je general, jer je turska vojska ~po načinu na koji radi
 u mnogo čemu naprednija i demokratskija od večine
 vojski evropskih zemalja koje kritikuju Tursku“. (Beta)
-
-PetaJk, 3. jui 1998,
-
-T>anas
-Nje gazete e mire mjafton
-
-5
+    </div>
 
 Prvi put posle rata u Bosni u Jugoslaviji
 možete da kupite sarajevski nedeljnik
@@ -1405,8 +1301,8 @@ GOVOREĆI BOSANSKI
 Bauk Euroslavije
 POLA STOUEĆA PRIJEDirektor Tanjuga Dušan
 Đorđević, dinar psihološki luta
-
-Posle jiičemšnje sednice Savezne vlade
+<div id="politika">
+Posle jučerašnje sednice Savezne vlade
 
 Beograd - Jugoslovenska
 vlada razrešila je vršioca dužnosti
@@ -1436,9 +1332,7 @@ odbrane Pavle Bulatović.
 Vlada je saopštila takođe
 da su nagađanja o devalvaciji
 dinara potpuno neosnovana.
-Vlada je na sednici ~kon
-
-statovala da nema ekonomskih
+Vlada je na sednici konstatovala da nema ekonomskih
 osnova za pomeranje
 kursa dinara i da su monetarna
 kretanja na paralelnom
@@ -1469,7 +1363,8 @@ sa jučerašnje sednice Savežne
 vlade. (Beta)
 
 ALEKSANDAR BTANKOVJĆ
-
+</div>
+<div id="ekonomija">
 Ustaljen cmi kurs
 Beograd - Dinar na cmom tržiltu
 juče je uglavnom mirovao.
@@ -1537,9 +1432,7 @@ teroristi
 Beograd - Zamenik predsednika
 Direkcije Jugoslovenske levice
 Ivan Marković ocenio je da nezavisni
-mediji „nastavljaju svoj ne-
-
-častan posao“, javljaju beogradski
+mediji „nastavljaju svoj nečastan posao“, javljaju beogradski
 mediji.
 Marković je dodao da „oni koji su
 najavljivali bombardovanje Srbije za
@@ -1612,7 +1505,8 @@ stanja u visokoškolskom obrazovanju.
 U pripremi su i zakoni o lokalnoj
 samoupravi i informisanju - obavestio
 je Šešelj. Z. P.
-
+</div>
+<div id="politika">
 ĐINĐIĆ: Vlada
 ne zaslužuje još
 jednu šansu
@@ -1696,14 +1590,10 @@ jedni drugima preko njihovog ramena.
 Javno se bave saradnjom, a tajno poturaju
 jedni drugima afere u novinama zaključio
 je Jokanović. N. K.
-
-6
-
-Petak, 3. jul 1998Stotinak demonstranata protestvuje zbog pritiska NATO na Srbiju
-
-Kako braniti branioce IjudsMb prava
-
-FOmFONET/AP
+Stotinak demonstranata protestvuje zbog pritiska NATO na Srbiju
+</div>
+<div id="vesti">
+Kako braniti branioce ljudskih prava
 
 Moskva, 1. jul:
 
@@ -1860,8 +1750,9 @@ ka izradi Deklaracije kojom bi
 se države štitile od branilaca
 Ijudskih prava, a ne obrnuto.
 Nastavlja se
-
-Bogđanlvanišević
+</div>
+<div id="kolumna">
+Bogdan lvanišević
 
 Stižu patrole
 
@@ -1893,7 +1784,8 @@ Ukoliko se još ova inicijativa i prihvati, mcže to
 da bude i dobar znak ako ne popuštanja, ono bar kooperativnosti
 rezima kakvu je retko bio spreman da pokaže.
 U svetlu dosadašnje rigidnosti, ni to ne bi bilo malo.
-
+</div>
+<div id="politika">
 NIKITA MIHALKOV
 Režiser za Kremlj
 
@@ -1951,7 +1843,8 @@ svetu, mogao bi biti onaj Rus
 koga Kremlj dugo očekuje.
 
 Nataša B. Odalović
-
+</div>
+<div id="magazin">
 VIC
 
 Bgg stvorio Svajcarca i pitao ga:
@@ -1967,13 +1860,9 @@ Bog pristade da proba. Švajcarac napuni čašu mlekom i pružije
 bogu. Dobri bog uze čašu, ispije do dna, pa reče:
 „Mleko je zaista vrlo dobro. I šta sad hočeš još?"
 „Franak i dvadeset za čašu mleka", reče Švajcarac.
-
-Petak, 3. jul 1998.
-
-Danas
-Jedne dobre novine su sasvtm dovoljne
-
-7Osiguranje za novinare
+</div>
+<div id="ekonomija">
+Osiguranje za novinare
 
 Kompanija „Danav osigamnje“a okvira Evmpske anije
 
@@ -2000,9 +1889,7 @@ i zaštitne institucije koje
 posluju isključivo u interesu
 građana.
 Kompanija „Dunav osiguranje“,
-pored postojećih osigu-
-
-ranja (osiguranje stanova, osiguranje
+pored postojećih osiguranja (osiguranje stanova, osiguranje
 motornihvozila...),
 uveliko radi na uvođenju novih
 vrsta osiguranja.
@@ -2034,7 +1921,8 @@ objekti sa ugrađenim
 instalacijama, oprema, zalihe,
 kao i odgovornost iz delatnosti.
 Zlatija Kneževič
-
+</div>
+<div id="kolumna">
 Ćuraii i uskršnje
 bombe 1944.
 
@@ -2151,7 +2039,8 @@ sa visokim partizanskim
 oficirom.
 
 G. Brkić
-
+</div>
+<div id="vesti">
 Prezaposlena
 hitna pomoć
 
@@ -2212,7 +2101,8 @@ su spremni da im pomognu,
 materijalno ili novčano. Ziro
 račun Jazas-a je 40802-678-696906.
 V. D.
-
+</div>
+<div id="ekonomija">
 U prodavnicama Pekabete
 Meso skuplje,
 sladoled jeftiniji
@@ -2240,9 +2130,7 @@ dok kilogram gostinjske šunke
 košta 154 umesto 119 dinara.
 Pileće i jagnjeće meso je
 zadržalo svoje stare cene.
-- Svi proizvođači su poveća-
-
-li cene, osim mesare „Biomes“
+- Svi proizvođači su povećali cene, osim mesare „Biomes“
 - saznajemo u prodavnicama
 „Pekabete“.
 Poskupeli su i sokovi, te tako
@@ -2267,7 +2155,8 @@ dinar, pre svega ~Mega“ i sladoledi
 u kornetu.
 
 K. Stoiljković
-
+</div>
+<div id="nauka">
 Zbog visokih temperatura
 Više bakterija u mleku
 
@@ -2297,9 +2186,7 @@ patogena, a sterilizovano
 mleko miekare ~Impaz“ iz Zaječara
 ima znatno manji procenat
 suve materije bez masti.
-U zoni ekstra kvaliteta nala-
-
-ze se: sterilizovano mleko PKB
+U zoni ekstra kvaliteta nalaze se: sterilizovano mleko PKB
 „ Imlek" i delimično obrano
 mleko mlekare ~Šabac“, kao i
 pasterizovano mleko mlekare
@@ -2327,16 +2214,16 @@ da po ovoj ceni prodaju mleko,
 kažu u Pokretu ponošača.
 
 K. Štoiljković
-
+</div>
+<div id="magazin">
 GRADSKA RAZGLEDNICA
 
 Najmlađi su našli spas od tropske vrućine, a stariji su
 uglavnom padali po urelom asfaltu, pa su ekipe Hitne
 pomoći imale pune ruke posla.
-
-8
-
-Petak, 3 jul 1998."FANTAZIJA" na Art kanalu
+</div>
+<div id="kultura">
+"FANTAZIJA" na Art kanalu
 
 Emisija “Fant ija”, koja se emituje na Art kanalu pune četiri
 godine, stiče sve veću populamost kod gledalaca. Pre
@@ -2367,30 +2254,18 @@ Milenković, a učešće je potvrdio i Eduard fle, direktor “Jugokoncerta”,
 koji će govoriti o planovima za ovogodišnji BEMUS.
 Emisija je na programu Art kanala utorkom u 20.10 sa reprizom,
 sredom tačno u podne. D. L.
-
+</div>
+<div id="sport">
 Peta nedelja Mondijala
 
 UTAKMICE
 ČETVRTINE
 FINALA
-
-Petak, 3. juL
-' (A) Italija - Francuska 16,30
-(B) Brazij - Danska 21.00
-Subota, 4, juL
-(C) Nemačka - Hrvatska
-16.30
-(Đ) Holanđija - Argenlina
-21,00
-UTAKMICE POLUFINALA
-Utorak,7.jul
-Pobednik (B) - pobeđnik (D) 21.00
-Sreda,B.jul
-Pobednik (A) -pobednilr (C) 21,00
-
+</div>
+<div id="kultura">
 FILM SEDMICE
 
-Ulicestraha
+Ulice straha
 
 Uspešna komična drama, koncipirana u vidu čiste
 američke folklorne mitologije sa obiljem apsurdnih i
@@ -2436,10 +2311,6 @@ Režija: Alen Rudolf. Uloge: Kris Kristiferson, Kit Karadajn,
 Lori Singer, Ženevjev Bužold, Džordž Kirbi i Džo
 Morton, ( subota 04. jul 00.35 TV Politika)
 
-Petak, 3. jul 1998,
-
-9
-
 Uskoro u prodaji knjiga
 KAKO REŠITI
 PROBLEM
@@ -2468,10 +2339,10 @@ Napomena izdavača:
 - cena knjige u redovnoj prodaji če bili 119 dinara
 -za dodalne informacije pozovile lelefon-faks EROX- Beograd:
 011/33 41 388 ili 22 25 993
+</div>
 
-p,
 Petar Cvijić i Sfvetlana Kapošvarac
-Filmske najave: SlobodaaAranđelovie7 TV DANA
+Filmske najave: TV DANA
 
 06.30 Amerika zove Srbiju
 07.15 Oko sveta
@@ -2536,16 +2407,16 @@ Put na Bali
 23.25 24 časa u svetu
 23.55 Vesti
 00.00 Teveteka
-
+<div id="magazin">
 Gejbl i Lombard
-TipiČĐO hotivudska biografska melodrama o zajeđoičkcm
+TipiČnO hotivudska biografska melodrama o zajeđoičkcm
 životu, braku i velikoj Ijufaavi dve superzvezđe velikog
 ekrana KJarka Gejbla i Keroi Lombard realizovana je
-u \adu sećanja Gejbla na svoju suprugu posle njene tragićne
+u nadu sećanja Gejbla na svoju suprugu posle njene tragićne
 smrti u avionskoj nesreći. Neobično ioša mešavina
 melodrame, kiča i razvođnjene limunade đeiuju vulgarno
 i neubeđljivo. Povremeno, čak, i đosadno!
-
+</div>
 08.00 Ipak se okreće
 09.05 Serija; Kuća Eliot
 10.00 Pravi poduhvati 20. veka
@@ -2655,15 +2526,14 @@ Dani džeza
 Smrtonasna ođbrana
 01.15 Film; Slatka osveta
 02.45 Film: Blago Makube
-
+<div id="magazin">
 Režija; Sindi Fjuri. Uloge; Džejms Brolin, Džil Klejberg
 [na fotografiji), Alen Gerfiid, Red Batons i Džoan
 linvil. (23.00 TV Palma)
-PutnaßaJi
-Jedan od lošiiih filmova iz saije ostvarenja Boba Houpa i
+Jedan od lošijih filmova iz serije ostvarenja Boba Houpa i
 Bipga Krozbija pođ zajedničkim naslovom “PuL..” deluje repetitivno
-i nategnuto u odnosu na predhodna ostvarenja istog tima'kpmičaia.
-lna&, osim što je bio jetiini film u bojiupomenutoj
+i nategnuto u odnosu na predhodna ostvarenja istog tima komičara.
+lna, osim što je bio jetiini film u bojiupomenutoj
 seriji u njemu se u blic rolama ppjavijuiu brojne holivudske
 zvezde s počeika pedesetih. Dobronamema koraedija
 može još uvek da zasmeje i razgali ali ne treba očekivati previše.
@@ -2677,8 +2547,8 @@ ekipu. Inteligentan dijalog, seksepil dua vodećih
 junaka i obilje duhovitosti garantuju izvrstan provod ispređ
 malih ekrana. Posebno Ijubiteljima sporta i seksa.
 Režija; Ron Šelton. Uloge: Suzan Serendon, Kevin Kostner,
-Tim Robins, Trej VHson i Robert VuL (01.00 RT\ 7 Pink)
-
+Tim Robins, Trej Vilson i Robert VuL (01.00 RT\ 7 Pink)
+</div>
 10.00 Rok blok
 11.10 Serija:
 Devet meseci
@@ -2830,10 +2700,7 @@ F kanal, RTV Dević, Sky Sat,
 Media plus, TV Kuršumlija.
 21.30 Grace Under Fire
 22.00 Celebrity Profile
-
-10
-
-■ - jul 199806.30 Amerika zove Srbiju (r)
+06.30 Amerika zove Srbiju (r)
 07.15 Oko sveta
 07.30 Beograde, dobro jutro
 10.00 Vesti u 10
@@ -3002,7 +2869,7 @@ toplomer
 23.05 Galerija tajni
 00.35 Film:
 Ulice straha
-
+<div id="magazin">
 Ne tupi, Frede
 Neuksuna i nepotrebna komedija bez duha, ideia i
 bilo kakvog humora slavi mentalnu reterdiranost na
@@ -3025,7 +2892,7 @@ i slobodoumnijih gledaiaca.
 Režija: Luis Tig. Uloge; Rutger Hauer, Mimi
 Rodžers, Džejms Remar i Džoan Čen. (24.00 RTV
 Pink)
-
+</div>
 10.00 40 godina televizije:
 Šou sedmorice mladih
 11.00 Rokblok
@@ -3122,7 +2989,7 @@ Totalni opoziv
 Glasovi u noći
 03.00 Film:
 FX 3 lluzija
-
+<div id="kultura">
 Poslednja verzija Bo Zesta
 Gromoglasno najavljivana sloganom “Drugačija
 Ijubavna priča!” ova smušena romantična komeđija
@@ -3143,9 +3010,11 @@ Uloge; Monti
 Felđman [na fotografiji),
 Majkl Jork, EnMargret,
 Fiter Justinov,
-Trevor Hauarđ i
-Teri-Tomas. [20.30 TV
-Palma)
+Trevor Hauard
+Teri-Tomas. 
+</div>
+20.30 TV
+Palma
 
 07.00 Jutarnji
 program
@@ -3192,9 +3061,7 @@ Kuršumlija
 21.30 Film:
 Down, Out, Dangerous
 
-Petak, 3. jul 1998
-
-1108.00 Vesti
+08.00 Vesti
 08.05 Dečje nedeljno
 prepodne:
 Peđolino
@@ -3267,7 +3134,7 @@ Zakon granice
 11.00 Jugoslavija danas
 12.00 Srbija danas
 13.00 Muzički program
-13.30 Festival deteta; Kotor ‘9B
+13.30 Festival deteta; Kotor 9B
 14.00 Crtani: Blinki Bili
 14.30 Serija; Priče iz predgrađa
 15.00 Izaberite najbolje
@@ -3360,7 +3227,7 @@ Kako je sniman film,
 23.05 Meč lopta specijal
 00.00 Vesti
 00.30 TV šop
-
+<div id="kultura">
 Nel
 Zanimljiva premisa zapleta upropašćena je lošim dramatiirškim
 rešenjima, neubeđljivom motivacijom likova
@@ -3381,8 +3248,7 @@ vrefneno zaista lucidan dijaiog, smešne situacije u koje zapadaju
 glavni likovi i izvanredna gluma proverenih komičara
 Meg Rajen i Kevina Klajna dopunjeni su izvrsnom muzikom
 slavnog Tulsa Tilemansa na usnoj harmonici.
-Režija: Locens
-tiHatepŽanßaio,RnnsoaKluzieiSjzanAnbe. (2030hSKus)
+</div>
 
 10.00 40 godina televizije:
 Šou sedmorice mladih
@@ -3452,7 +3318,7 @@ u fudbalu
 21.00 Dijalog (r)
 22.30 Francuska ‘9B
 23.00 Serija:
-Kenan & Kel
+Kenan and Kel
 23.30 Serija:
 Kobra
 00.30 Francuska ‘9B
@@ -3505,7 +3371,7 @@ Povratak u Idn
 00.00 Film:
 Sicilijanac
 02.00 Noćni program
-
+<div id="kultura">
 Sicilijanac
 Istoimcni roman Marija Puze poslužio je za biografsku
 priču o kontroverznom sicilijanskom odmetniku Salvatoreu
@@ -3516,7 +3382,7 @@ Frančesko Rozi dajući naslovnom liku epske dimenzije.
 Režija: Majkl Ćimino. Uloge: Krisofer Lamber (na
 fotografiji), Terens Stemp, Džos Akland, Džon Turturo,
 Barbara Sukova i Ričard Bauer. (24.00 RTV Pink)
-
+</div>
 10.15 Noćni program (r)
 13.30 Sportsko popodne
 17.30 Nedeljni mozaik
@@ -3538,10 +3404,7 @@ Sky Sat, Media plus, TV
 Kuršumlija
 21.30 Grace Under Fire
 22.00 E News!
-
-12
-
-Petak, 3. jul 1998.07.15 Oko sveta
+07.15 Oko sveta
 07.30 Beograde, dobro jutro
 10.15 Oko sveta
 10.30 Telešop
@@ -3714,7 +3577,7 @@ Bokseri idu u raj
 00.05 Sport
 00.10 Paket aranžman
 01.30 Rez
-
+<div id="kultura">
 Čelična cmina
 Depresivna i morbidna stuđija alkoholizma nastala je po
 istoimenom romanu Viiijerna Keneđija, nagrađenog pre- J
@@ -3736,7 +3599,7 @@ Dim
 Roman “Božićna basna” Poia Ostera ekranizovan je
 kao briljantan fiimski esej u kome centralno mesto u zapletu
 zauzimaju stalne muaerije jedne prodavnice đuva-
-
+</div>
 10.00 Rok blok
 11.10 Serija;
 Devet meseci
@@ -3786,7 +3649,7 @@ Vesela trojka
 07.30 Serija:
 Kobra
 08.30 Serija;
-Kenan & Kel
+Kenan and Kel
 
 09.00 Pop Telešop
 09.15 Francuska '9B
@@ -3797,7 +3660,7 @@ Zabranjena Ijubav
 12.00 Mikser
 13.00 Pregled SP u fudbalu
 14.00 Nešto što ja volim(r)
-15.00 Serija: Kenan & Kel
+15.00 Serija: Kenan and Kel
 16.00 Serija: Kobra
 17.00 Francuska '9B
 
@@ -3808,7 +3671,7 @@ Zabranjena Ijubav
 20.00 Serija: Zaliv Akapulko
 21.00 Sportplus
 22.30 Svetske vesti
-23.00 Serija: Kenan & Kel
+23.00 Serija: Kenan and Kel
 23.30 Serija: Kobra
 00.30 Mikser
 02.00 Erotski film
@@ -3851,7 +3714,7 @@ Ijubavi i saosečanju prema nedaćama i boiu svojih
 najbhžih na fascinantan način đrži pažnju gledalar:.. Remek-đelo
 savremenog autorskog lilma prava je pt astica
 za Ijubltelje sedme umetnosti.
-Reaja; Vejn Vhng. Uioge; Harvi Kattel (na fotognjfiji}., 'ijem
+Reaja; Vejn Vhng. Uioge; Harvi Kattel na fotografiji., 'ijem
 Hari, Forst Vitaker, Stokrrđoening i ESit Džađ, (23.15 TVSuaiioß)
 
 07.00 Jutarnji program
@@ -3899,9 +3762,8 @@ Media plus, TV Kuršumlija.
 21.30 Grace Under Fire
 22.00 The Untouchables
 
-Petak, 3. jul 1998.
 
-1306.30 Amerika zove Srbiju
+16.30 Amerika zove Srbiju
 07.15 Oko sveta
 07.30 Beograde, dobro jutro
 10.00 Vesti u 10
@@ -3964,7 +3826,7 @@ hronika
 23.25 24 časa u svetu
 23.55 Vesti
 00.00 Teveteka
-
+<div id="kultura">
 Bez Maza
 Vdo dobar i inspiritivart rimejk kultog oslvarenja “Velikl
 sal” osivaren je u brzom riunu i sa đosta erotičnih
@@ -3973,9 +3835,9 @@ složenih likova uzvratili su odličnom rolama a struktura
 političkog trilera dovedenog do usijanja u završnici priče
 kubninirala je neočekivanim obrtom.
 Režija: Rodžer Donalđson. Uloge; Kevin Kostner
-{na fotograiiji), Džin Hekmen, Šon Jang, Vil Paton,
+(na fotografiji), Džin Hekmen, Šon Jang, Vil Paton,
 Hauarđ Daf i Džordž Dzundza. (01.00 RTV Pink)
-
+</div>
 08.00 Garaža
 09.00 Serija;
 Kuća Eliot
@@ -4085,7 +3947,7 @@ programa
 22.55 Apostrof
 23.10 MTS
 02.20 Rez
-
+<div id="kultura">
 Zlatno doba
 Nagrađen "Oskarom” kao najbolji inostrani film, ovaj
 ležerni i zabavni španski kaieidoskop bavi se sudbinom
@@ -4108,7 +3970,7 @@ Amerikanca.
 Režija: Vudi Alen. Uloge: Mia Ferou (na fotografiji),
 Dajen Vist, Volas Šon, Majkl Taker, Set Grin i Džoš
 Mostel. (21.00 RTVPink)
-
+</div>
 10.00 Rok blok
 11.10 Serija:
 Devet meseci
@@ -4168,7 +4030,7 @@ Zabranjena Ijubav
 15.15 Pop telešop
 15.35 Mikser
 16.00 Serija:
-Kenan & Kel
+Kenan and Kel
 16.30 Serija: Kobra
 18.00 Serija:
 Zabranjena Ijubav
@@ -4179,7 +4041,7 @@ Zabranjena Ijubav
 nešto lično
 22.00 U petoj brzini
 23.00 Serija:
-Kenan & Kel
+Kenan and Kel
 23.30 Serija:
 Kobra
 01.00 Mikser
@@ -4263,9 +4125,7 @@ F kanal, RTV Dević. SkySat,
 Media plus, TV Kuršumlija.
 21.30 Grace Under Fire
 
-14
-
-Petak, 3. jul 199806.30 Amerika zove Srbiju
+06.30 Amerika zove Srbiju
 07.15 Oko sveta
 07.30 Beograde, dobro jutro
 08.30 Reč dana
@@ -4438,7 +4298,7 @@ programa
 23.10 M.T.S. segmenti
 23.40 Rikošet
 00.05 Sport
-
+<div id="kultura">
 Cnvar grada
 Vrlo dobar savremeni polidjski trOer iz urbanog miIjea
 začinjen je izvrsnom karakterizacijom likova, posebno
@@ -4461,7 +4321,7 @@ u serijai.
 Režija: Endi Morahen. Uloge: Kristofer Lamber, Mario
 Van Pibls, Debora Unger, Mako i Paul Truitiljo.
 (02.30 RTV Pink)
-
+</div>
 10.00 Rok blok
 11.10 Serija;
 Devet meseci
@@ -4517,11 +4377,11 @@ Zabranjena ijubav
 11.00 Svetskevesti
 11.30 Hitdana
 12.00 Mikser
-14.30 Nešto što ja volim (r]
+14.30 Nešto što ja volim r
 15.05 Mikser
 15.30 Pop telešop
 16.00 Serija;
-Kenan & Kel
+Kenan and Kel
 16.30 Serija:
 Kobra
 18.00 Serija:
@@ -4570,15 +4430,14 @@ Cma guja
 Übistvo u mislima
 02.30 Film:
 Gorštak 3
-
+<div id="kultura">
 Amos
-Zanimijiv tdcvizijski filrn isuviše mnog podseća na
-kultno ostvarenje Miloša Fbrmana "Let iznad kukavičjeg
+Zanimijiv televizijski film isuviše mnogo podseća na
+kultno ostvarenje Miloša Formana "Let iznad kukavičjeg
 gnezđa” a pružio jemdgućnost odličtto odabranom
 Kirku Đaglasu da ostvari inspirativan lik osmrelog
-sportskog trenera smeštenog u, štarački đom.
-Režija; Majid'lhkna: Sizabet MaflgaiKil
-DorodNM<G^mMfa&iß£|VMm{23JsWairi»B}
+sportskog trenera smeštenog u starački đom.
+</div>
 
 07.00 Jutarnji
 program
@@ -4800,7 +4659,7 @@ Gospođica
 22.55 Apostrof
 23.10 Stop,vremejezarokipop
 00.40 Rez
-
+<div id="kultura">
 Melo
 Komad Anrija Bernstajna ekranizovan je na krajnje
 efeklan i zanimljiv način i zadižavajući namerno pozorišni
@@ -4822,7 +4681,7 @@ koje je pravljeno za jednokratnu upotrebu.
 Režija: Vilijem Bajron Hilman. Uloge: Majkl Kalan,
 Džoana Pelit, Džejms Stejsi, Pamela Hensli i Simur
 Kasel (22.30 TVArt)
-
+</div>
 10.00 Rokblok
 11.10 Serija:
 Devet meseci
@@ -4930,7 +4789,7 @@ Pile telešop
 Predmet mržnje
 02.30 Film:
 Krvavi mesec
-
+<div id="kultura">
 Cetiri sobe
 Omnibus od četiri besmislene, nepotrebne i povremeno
 idiotske komedije povezane su “radom” noćnog portira
@@ -4943,7 +4802,7 @@ Režija: Kventin Tarantino, Aleksandar Rokvel, Robert
 Rodrigez i Alison Enders. Uloge: Madona, Tim Rot, Antonio
 Banderas, Mariza Tomei, Kventin Tarantino,
 Dženifer Bils i Valerija Golino. (23.15 TV Studio B)
-
+</div>
 07.00 Jutarnji program
 10.00 SOS kanal
 17.05 Serija:
@@ -4987,10 +4846,8 @@ RTV Pirot, RTV Pančevo, TV 5,
 F kanal, RTV Dević, Sky Sat,
 Media plus, TV Kuršumlija.
 21.30 Grace Under Fire
-
-16
-
-Petak, 3. jul 1998Povucite
+<div id="kolumna">
+Povucite
 Zakon koji
 ukida
 autonomiju
@@ -5052,7 +4909,8 @@ parlamenta. L. J.
 
 Apel 42 mednika
 evropskih časopisa
-
+</div>
+<div id="magazin">
 Danas
 Kongres
 nezavisnih
@@ -5079,7 +4937,7 @@ S. Lnkovit
 
 Posle žetve marka - 6,5
 
-Objašnjenje Grnpe 17 nezavisnih ekonomista
+Objašnjenje Grupe 17 nezavisnih ekonomista
 
 Pare nisu štampane, nema mesta panici,
 sve je državni scenario
@@ -5111,7 +4969,8 @@ ni ličnu korist političkog
 establišmenta - tvrdi Dinkić,
 koji smatra da je devizni udar
 pri kraju i da se početkom ne-
-
+</div>
+<div id="ekonomija">
 Cmogorci će morati da uvedu
 konvertibilni perper
 
@@ -5140,9 +4999,7 @@ posledica biće poskupljenje
 uvoznih proizvoda, za taj
 procenat opašće realna kupovna
 moć građana,
-Dinkić je ponudio dva obra-
-
-zloženja, a manje verovatna mogućnost
+Dinkić je ponudio dva obrazloženja, a manje verovatna mogućnost
 je da su u opdcaj pušteni
 dinari iz Republike Srpske, jer
 je „Centralna banka RS, položila
@@ -5162,7 +5019,7 @@ FOTO: ROJTERS
 dinara manje nego krajem maja.
 Došlo je do promene strukture
 novčane mase, u kojoj gotov novac
-sada u&stvuje sa 47, umesto
+sada učestvuje sa 47, umesto
 ranijih 45 odsto, tako da je,
 prema mišljenju G-17, razlika u
 ~kešu“ od 200 miliona dinara,
@@ -5230,7 +5087,7 @@ akdjom Ijudi koji su na čelu veliMli državnih firmi i poslovnih banaka,
 kako bi namjemim promjenama kursa stekh dobit Bio bih
 zadovoljan da je tako, jer bi to značilo da se radi 0 ekscesu i kurs
 bi se brzo vratio“ - odjenip je Vujović, dodajući da se ovđje dešava
-nešto dmgo. M. D.
+nešto drugo. M. D.
 
 Usmeni nalog zbog Kosova i sukcesije
 
@@ -5297,17 +5154,8 @@ izrazio je sumnju da je o zabrani uvoza
 slovenačke robe doneta zvanična odluka, i
 izneo pretpostavku da je to „verovatno bio
 usmeni nalog". M.S.
+</div>
 
-Petak, 3. jul 1998
-ouol ljJ(_ .o 1
-
-1718
-
-Petak, 3. jul 1998.
-
-&
-F
-JK
 za sve koji traže i nude posao
 BESPLATAN OGLASNI PROSTOR
 Tel: 438-991 od 9.00 do 16.00
@@ -5336,18 +5184,7 @@ ZARADA 100%.
 TELOI9/743-391 (POSLEIS SATI)
 POTREBNA PRODAVAČICA SA RADNIM ISKUSTVOM. MINIMARKET
 NOVI BEOGRAD.
-TEL: 164-315, 063/205-413.
 
->
-ć.
-*
-o
-o
-X
-<0
-&
-(/
-*VO
 Omladinska zadruga Beograd ima
 mogućnosti da svoje članove uputi na
 sledeće poslove: - spremačice, servirke,
@@ -5361,7 +5198,7 @@ Vi koji hoćete da radite privremeno povremene
 poslove, dođite i učlanite se.
 
 684- lok 315
-685- i0k325
+685- lok 325
 Omladinskoj zadruzi TIM potrebni mladići i devojke
 za poslove konduktera-kontrolora i obezbeđenja
 
@@ -5396,28 +5233,8 @@ Uplatu izvrsiti na ž.r. 40816-603-5-3045538. Narudžbenicu i dokaz o uplati po�
 Dangraf d.o. Jagičeva 3,11000 Beograd
 Dopunske informacije možete dobrti na telefon 011/452-153 ili tel/fax 011/438-991.
 
-0
-BHJJKC
-OffIAdAHHCM 9MPVr&
-?HH(\SKC
-beor p a a
-Byf\eaAp lipaen? 53
-TSA.: 0
-<®4HC: 011/458-081
-HiHPO PM: 4C605-601-H90797. B^OrPAA
-
-DNEVNOMLISTU
-FOTREBNI
-KOLFOBIEBI
-IFBODUCENH
-UMABKEM6U.
-BADMFROCENAT.
-pozovite: 435"991
-
-
 
 OMLADINSKA ZADRUGA
-u
 Beograd, Franca Rozmana 22
 Potreban veći broj
 momaka sa IV stepenom
@@ -5427,37 +5244,13 @@ i vatrogasaca.
 tel: 344 - 1952, 344 - 3622
 ~DIS
 
-Malioglasi
-PRODAJEM ĐVAPLACA
-kod Planinarskog đoma na
-Divčibarama, Imaju vodu i
-struju tel. 011\318-61-71
-CITROEN „Visa - SUPER
-E“, sređena, prodajem ili
-menjam za veči (3.200)
-tel. 3613-751, lokal 22-764
-ffITNO POKLANJAM štenad
-mešance. tel. 428-085
-ČASOVI španskog jezika,
-zvati posle 16 h teL 144-155
-ffITNO potreban radni prostor
-za atelje zvati od 8 do 10
-časova tel. 638-158
-PRODAJEM „Reno
-ekpres", '9O, dizel, odiičan
-(prešao 33,000]
-tel. 3911-798 ili 430-304
-IZRAĐUJEMO obuću po
-raeri. Izuzetno kvalitetno i
-povoljno vršimo popravke.
-tel. 44611-77Ispred zidina Starog grada startovao 12. festival Grad teatar Budva
-
-Gtno CIBEUS, izložba
+<div id="kultura">
+CIBEUS, izložba
 i dva bubnjara
 
 Zavese najdužeg i najozbiljnijeg
 letnjeg jugoslovensKog festivala, 12.
-put (1. jula], pod Njegoševim naslovom
+put (1. jula), pod Njegoševim naslovom
 “Svijet je pozorište smiješno”,
 podigla su tri kultuma programa - ispred
 zidina Starog grada: Grupa Torpedo
@@ -5500,7 +5293,7 @@ ovacije ne pripadaju nama, nego budvanskoj
 publici. Gr. T
 
 Novi prostori
-Ambijent ovogodišnjegGrada teatra
+Ambijent ovogodišnjeg Grada teatra
 proširiće se i na prostore izvan Starog
 grada, na one prirodne pozornice
 na koje računaju reditelji novih projekata.
@@ -5513,7 +5306,8 @@ imati upravo na ovom testivalu.
 Jovana Ivanovića otvorio je crnogorski
 književnik Čedo Vuković.
 Hepening za pamćenje, koncert
-
+</div>
+<div id="kolumna">
 Priče iz knjižare 3
 
 PIŠE:
@@ -5542,7 +5336,8 @@ knjige još uvek nema.
 Izlazeći iz knjižare, prijateljski me je lupio po ramenu
 i opet pozdravio sa “brate”, pri čemu se ono
 “r” stvamo i ne čuje najbolje.
-
+</div>
+<div id="kultura">
 ZOOM
 
 LOS ANĐELES, 2. JUL - Ringo Star realizovao je novi album I
@@ -5682,7 +5477,7 @@ Zorica Kojić
 ARTičoke
 
 BIOSKOP REX - PETAK:
-TROTO 5 (5 godina URBAZONE]
+TROTO 5 (5 godina URBAZONE)
 - projekcija video radova
 + izložba. Večeras od 20 do 22
 sata.
@@ -5711,12 +5506,11 @@ kao i na crkveno religiozne pesničke kanone, Baćević peva samosvojno,
 jednostavno i toplo. (0. S.)
 DANGA - satiričnik, julski broj donosi, između ostalog, i
 intervju sa Milosavom Tešićem. Ako ste željni smeha onda
-obavezno pročitajle i(li] pogledajte karikature: Miljenka Žuborskog,
+obavezno pročitajle i(li) pogledajte karikature: Miljenka Žuborskog,
 Rastka Zakića, Ranka Guzine, Toše Borkovića...
-
-Petak, 3. jul 1998,
-
-19Prva "prava" poslastica
+</div>
+<div id="sport">
+Prva "prava" poslastica
 
 Domaćin Mondijala, selekcija
 Francuske, gaji velike nade u pogledu
@@ -5840,9 +5634,7 @@ njihova pobeda nije dolazila
 u pitanje. Danska u ovaj
 meč ulazi bez psihološkog
 pritiska, što se ne može reći i za njihove
-suparnike koji su glavni favori-
-
-ti za naslov najbolje svetske selekcije.
+suparnike koji su glavni favoriti za naslov najbolje svetske selekcije.
 Upravo na tu kartu najviše igraju
 „vikinzi" a najbolji igrač Mihael Laudrup
 ističe da je i sam ulazak među
@@ -5892,28 +5684,7 @@ svrhe, dodaje Kuper.
 
 Lista strelaca
 
-5 GOLOVA: Vijeri (Italija), Batistuta (Argentina).
-4 GOLA: Salas (Čile), Ernandez (Meksiko).
-3 GOLA: Anri (Francuska), Cezar Sampajo, Ronaldo (Brazil), Klinsman, Birof
-(Nemačka), Šuker (Hrvatska).
-2 GOLA: Vilmots (Belgiia), Ortega (Argentina), R. Bađo (Italija), Bebeto (Brazil),
-Bašir, Hada (Maroko), Bartlet (J. Afrika), Jero, Morientes, Kiko (Spaniia),
-Koku, R. De Bur, Bergkamp (Holandija), Moldovan (Rumunija) Peiez (Meksiko)
-Vitmor (Jamajka), Komljenovič (Jugoslavija), Širer, Oven (Engleska).
-
-Kartoni
-
-CRVENI KARTON: Bekam (Engleska)
-ŽUTI KARTONI: Moriero, Di Bjađo, Maldini (ItalijaJ, H. Flo, Rekdal (Norveška),
-Leonardo, Kafu (Brazil), Fuentes, Tapija (Čile), Čilavert, Benitez, Ensiso,
-Arse, Akuna (Paragvaj), Riper (Danska), Okoča (Nigerija), Babel, Mateus, Tarnat,
-Haman (Nemačka), Davino, Blanko (Meksiko), Mirković, Stoiković, Đorovič
-(Jugoslavija), Ge, Popesku, Petresku (Rumunija), Boban, Bilić (Hrvatska), Veron,
-Almeida, Simeone, Roa (Argentina), Simen, Ins (Engleska).
-
-20
-
-Petak, 3. jul 1998,Blažević protiv
+Blažević protiv
 nemačkih medija
 
 Uoči dnela Hrvatska - Nemačka
@@ -5966,9 +5737,8 @@ rekao je Blažević.
 (FoNet)
 
 FOTO: ROJTERS
-
-„Pričljiva osoba“: Miroslav Blažević i Zvonimir Boban
-
+</div>
+<div id="moda">
 "Vonderbra"
 za Francusku
 
@@ -5988,7 +5758,8 @@ na modnoj reviji Iv Sen
 Lorana koja će biti održana
 12. jula, neposredno pre finalnog
 meča Svetskog prvenstva.
-
+</div>
+<div id="magazin">
 Čamotova
 "alpska veza"
 
@@ -6027,7 +5798,8 @@ igrali više od 70 minuta, jer je bilo i produžetaka, da bi potom
 izgubili na penale. Njegova verenica Viktorija Adamas sedela
 je na tribinama. U štampi se mnogi msu ustručavali da Bekama
 prozovu kao krivca za eliminaciju Engleske sa Mondijala.
-
+</div>
+<div id="sport">
 Zvezda u grupi B
 
 UEFA odrediLa grupe za Kup UEFA
@@ -6039,7 +5811,7 @@ za Kup UEFA, našem
 predstavniku Crvenoj
 Zvezdi, protivnici
 mogu biti: Polonija
-Varšava (Poljska],
+Varšava (Poljska),
 Inter Bratislava (Slovačka),
 Kolketi 1913
 (Gruzija) ili Finairin
@@ -6071,102 +5843,8 @@ bivših igrača crveno - belih: Mihajlovića, Jugovića
 i Stankovića. Upravo zbog ovog poslednjeg velike su
 šanse da ekipa Serđa Kranjotija istrči na teren našeg
 najvećeg stadiona.
+</div>
 
-Petak;, 3. jul 1998.
-
-21
-
-CpncKa npecTOHHpa
-.beorpaflCKa npocnaßa ocaMcroroflHmitHpe
-oa 18. jyHa flo 15. jyjfa
-FlporpaM aa cpe«y, 1. jyjx,
-HeTBpTaK, 2. jyji n neTaK, 3. jyji
-Cpena, 1, jyji, 21 nac
-J3,BopnmTe Kane Tae Mimjnnor snaita
-XHJIAH#APCKA 3BOHA
-FlpojeKunje n pasroßop o Miicnjn upKße
-y caßpeMemiM MeAnjiiMa
-yHecuHU,n: jepoMoaax Joßan TivjihSpk,
-HOBiinap HBnpa BnAaHOßnh, peflHTejt CHHHUia
-flnMHTpnjeßnh, 3BonojiHßap JeßpeM JlonoßHh, HeGojiua
-Joßanoßiih,
-BOjjHTejb tjaKOH Heaafl Hniih
-HeTBpTaK, 2. jyji, 21 uac
-CBeuana cajia CKynuiTHHe rpajja
-HCOH
-KoHpepT noja i iKHX rpyna
-HHCHIipHCaHHX BH3aHTIIjCKOM My3HHKOM TpaAHUlijOM
-Vhcchhuh: neßiiiiu,a xopa „Cbcth Josan j],aMacKHH“,
-xop „Mojcej HeTpoßnh“
-HeraK, 3. jyji, 21 uac
-ETiiorpacjiCKH My3ej
-<DHJAJIA
-KoHpepT caßpeMene My3HKe
-Hiicnupncane BHsairmjcKOM TpaflunujoM
-Y mcchhhh: My3H'iKa rpyna ~JepycajiHM“
-JJoKpoßHTejb npocjiaße; CKynuiTnna rpafla Beorpafla
-HsßpuiHH npoflyu,eiiT:
-3ajefliiHU,a My3HUKHX n 6ajieTCKH.x uiKOJia Cpsnje
-CueHapno h peajiH3au,uja: 3AjJ[POyrA
-MncjiopMaiflHje o nporpaMy: 3ajefliinpa My3HUKux h 6aJierckhx
-uiKOJia CpSnje, reji; 444 9796, B, Afl>Knje 21,
-\vww.bg-online.co,yuyhilandar
-MefliijcKH cnon3opn: PTB riojiitTHKa, PTB OryflHo B, BK
-TejieKOM, Apr Kanaji, Hama 6op6a, flanac, Paflno HufleKC,
-Pafliio 892, Pafliio TJJ.H, PaflHO Fojicli, Chth pafliio
-Bnfleo npojeKunje h cnajflOßH y3 My3HKy
-Yjias cjioSoflaa22
-
-Petak, 3. jul 1998.
-
-&
-DUAGNOSTIČKI CENTAR
-PUIMOMAL
-Gospodar Jovanova br 5.
-182-232
-** 639-188
-■ Rendgen lsva snimanja/
-Kompletna pulmološka obrada
-■ Kompletna kardiološka ohrada
-Ultrazvučna dijagnostika
-Alergološka testiranja
-Inhalaciona i infuzna terapija
-u ordinaciji i kućnim uslovima
-■ Kućne posete
-Konsultativni pregledi lekara
-svih specijalnosti
-m
-101
-8
-ii
-m
-
-“ HHH JK BAIOA TFAHHHHJA f
-Cser h Cp6n
-KOCOBO, FIOHETAK KPAJA
-fla nn -he HATO rohobo Ha cpncKOM
-npocTopy SoMčaMa ca ocnpoMameHHM ypanoM?
-3aKOH O VHHBep3HT6TV
-KO CY HOBM PEKTOPM?
-3a načop pyKOßOflnnapa bmcokolukojtckmx
-ycraHOßa nonnTHMKa nofločnocT hohobo je
-Hajßa>KHHjM KpMTepnjyM
-npnaaTH3aL\nia n nponncn
-KOHOVSMJA V HACTABI4MMA
-flp>Kaea ce nepaflo Oflpnne noTnyne KOHTpone
-nafl npnßpeflOM m CTanHO Mei-ba nponnce
-O BTiaCHMHKOj TpaHCCjDOpMapnjH
-CeeTCKO npBBHCTBO
-nVK’O OVfIBAJI
-3aiuTO je jyrocnoßencKa penpeaeHTapnja
-naačpana flec£iaH3MßHy Konpenpnj^
-MCTODHjCKH sannc
-fIOBPM KOhbM HECPETiHMX BJIAfIAPA
-Kbko cy BpaHpn m flopa™ HajaßTbHßann
-Tpareflnje na cpncKOM npecTony
-
-Novo
-itUDO 0
 donosi
 flmcrićko otkrićs milenijama
 Rak sc rekom kči
@@ -6204,166 +5882,10 @@ Institut za film
 Medijski sponzori: Radio B 92, Radio Studio B, Radio
 lndex, Naša borba, Danas, Demokratija, Dnevni telegraf
 
-rsdio 95,9MHz
-TAXI 157-668
-ma
-1764-011
-www.naxi.co.yu
-
-Jadran (524-057) - 13.00, 15.30,
-18.00, 20.30, 23.00 Porodične
-spletke
-Kozara (3235-648) - 14.00, 16.00,
-18.00, 20.30, 23.00 Rane
-Balkan (631-571) - 19.00, 21.00,
-23.00 Ljubav za jednu noć
-Avala (423-247)- 18.30, 20.30
-Vellka očekivanja
-20. oktobar I (687-182) - 19.00,
-21.00 Džumbus u gimnaziji
-20. oktobar U (687-182)- 18.30,
-21.00 Otkrovenje
-Zvezda (687-320) - 17.00, 19.00,
-21.00 Pleme iz komšiluka
-Terasa zvezda - 22.00 Rane
-Kosmaj (3227-279) - 19.00, 21.00,
-23.00 Romi i Mišel
-Partizan (642-570) - 10.00, 14.00,
-18.00 Pusimen; 12.00, 16.00,
-20.00 Kraljica seksa
-Jugoslavija (676-484) - 16.30,
-18.30, 20,30 Rane
-Fontana (602-397) - 18.30, 20.30
-Otkačena plavuša
-Sloboda (618-125) - 17.30 Badi,
-pas košarkaš; 19.30 Titanik
-Odeon (643-355) - 18.30, 21.00
-Slovo srama
-Mali odeon - 20,00 Dobro da
-bolje ne može biti; 22.30 Igra
-Dom omladine (3248-202) 15.30,
-18.30, 20.30 Lud za Ejmi;
-22.30 Od sumraka do svitanja
-Dom sindikata (3234-849) - Sala
-1 - 18.30, 21.00, 23.30 Kontakt;
-Sala 2 - 18.00,20.30, 23.00 Ljudi u
-crnom; Sala 3- 17.30, 20.00, 22.30
-Ljubav u Minesoti
-Mala Morava ( 623-198) - 18.00,
-20.30, 23.00 Bogojavljenska noć
-Vuk (421-314) - 17.00, 19.00
-Pleme iz komšiluka; 21.00 Sasvim
-neobičan život
-Roda (545-260) - 18.00 Pleme iz
-komšiluka; 20.00, 22.00 Velika
-očekivanja
-Terasa Roda - 21.00 Velika očekivanja
-Masleša (541-881) - 21.00, 23.00
-Vodeni svet
-Akademija 28 (3612-319) - Velika
-sala 20.00, 22.00 Svemirsld basket;
-Plava sala 20.00, 22.00 Čudni
-dani
-Kulturni centar (621-174) - 21.00
-Džeri Megvajer; 23.30 Sav taj džez
-Cinema Rex (638- 752)- 20.00
-Izložba 21.30 Projekcije filmova;
-Zombietovvn, Trototothem,
-Paralelni svet, Kult 'sličnosti,
-Troto- teror- rock, Black box
-BR O J Č AIVT
-Alo taksi 5322-888
-Taksi Maksis 581-111
-Taksi Akademac 417-022
-Taksi Alfa 4441-113
-NBA taksi N. Beograd 3185-777
-SOS Centar za pomoć devojkama
-(radnim danom od 15 - 21) 439488
-SOS savutovakštezažrtve rata i nasilja
-(radnim danom od 10-14) 36-13-695
-Infbrmativni centar AMSS 324-83-24
-Loto i sportska prognoza 9844
-Pozorište i bioskopi 9822
-TV prograra 9825
-Predlog jelovnika 9826
-Gradska inspekcija 3227-000
-Republička tržišna inspekrija
-3227-376
-Inibrmativni centar dddrodistriburije
-444-3783,452-398
-Kvarovi vodovoda 685-722,681-855
-Kvarovi kanalizadje ulice 464-085
-Zgrade 4442415
-Železnička stanica - Informadje
-do 22h 536493,6414880
-24h 629400,645-822
-Beogradska autobuska stanica 636-299
-Autobuska stanica „Lasta“ 625-740
-JAT rezervadje - Domači i evromediteranski
-saobračaj 3112-123
-Dugolinijski saobraćaj 3114414
-JAT - hotd „Slavija"
-450-584,450-562
-Aerodrom 601-555,601424
-250D9 CoMĆ-op, Tpl aoooge l/I
-mamsmmt
-
-
-
-mUHOODtM
-Tttmim,
-Fsx 025/31-3(6
-tiirna ]i nmdm Cž^N
-Tttm22-771
-Ca nmt HCnPEJJ ifflMMl
-
-r
-0
-©Vd'd'oo^
-yi)OOOOC
-000
-0000
-L,
-r/Kioooo
-l«K)OOOC
-J&vooooo
-oooooooc
-000
-000
-000
-000000
-oo
-0000
-0000
-o □
 Paviljon Veljković
 Centar za kulturnu dekontaminaciju
 Centar for Cultural Decontamination
 Birčaninova 21
-A Beograd
-tel/fax: 681-422
-• 361-02-70
-• (Igraju: )
-Franc Kafka
-„PROCES“
-Autor:
-Sonja Vukićević
-Muzika:
-Zoran Erić
-Stručni saradnici:
-Tanja Petrović
-Miki Manojlović
-Dizajn svetla:
-V“‘
-Sonja Vukićević
-Nađa Sekulić
-David Živković
-Marija Opsenica
-Milan Antonić
-Srđan Ivanović
-Zoltan Molnar
-Miloš Sofrenović
-Luka VukićevićUKRŠTENE REČI
 
 Vodoravno:
 1. Dobar čovek koji i pomaže
@@ -6435,15 +5957,7 @@ kosu
 50. Poćetna slova komedijaša
 Trifkovića -
 
-REŠENJE IZ PRETHODNOG BROJA:
-
-Sudari s
-milicijom
-
-MilivoJ Andelković
-
-AUTOR: R JOV
-
+<div id="vesti">
 Ovoga puta intervencija je bila izuzetno brutalna.
 Milicija je upotrebila silu koja je sve iznenadila tako
 da su se začuli i povici „dole vlada!" - uzvik
@@ -6519,17 +6033,7 @@ i stranim elementima: hajka na učesnike,
 identifikadja organizatora i istaknutih demonstranata.
 Kako su studenti već dobili poprilične batine, a uhapšeni
 prošli i dodatne vaspitne i represivne mere, izgleda da
-je neko iz tadašnjeg jugoslovenskog vrha tražio da se do-
-
-ii SICJ |e iskijp|#n# mkm 4®
-studenata, a kižnlen#
-13®» ®e« stuiieiaeita je najuren
-$a fckpitete da m f#k
-inn#§# k«iii|® m njih wate,
-neki m iw#ieni n# I
-ipfik esuđeni nn rebiju.
-
-gađaji politički raščiste na fakuitetima, bez osuđivanja
+je neko iz tadašnjeg jugoslovenskog vrha tražio da se događaji politički raščiste na fakuitetima, bez osuđivanja
 na duže vremenske kazne,
 Saslušavanje su vršili organi milidje i države, ali i studenti
 - revnosni aktivisti u domovima i na Univerzitetu.
@@ -6604,12 +6108,8 @@ zadesila knjigu o ‘6B. Nebojše Popova, kao i Dokumente
 Dela, Gledišta, Razloga, Studentskog lista... Zaplenjen
 je i zabranjen za javno prikazivanje i ogroman
 filmski i TV materijal o ovim događajima.
-Sutm: Konflikt pokol)enja
-
-Petak, 3. jul 1998
-
-23
-
+Sutra: Konflikt pokoljenja
+</div>
 IZDANJA DRUŠTVA ZA ISTINU 0 ANHFAŠISTIČKOJ NOB
 Knjige možete poručiti
 na žiro-račun preduzeća
@@ -6643,7 +6143,7 @@ Ratkovič (s popustom - 70 din)
 Ovim neopozivo poručujem knjige:
 nazivi knjiga
 Ime i prezime - adresaŽrtva izlivanja nafte
-
+<div id="magazin">
 FOTO: ROJTERS
 
 Kolombo - Kormoran proteže krila pokušavajući da se
@@ -6651,7 +6151,8 @@ oslobodi naslaga nafte. Naftaje iscurila u more u blizini
 luke u Kolombu tokom pretakanja iz grvkog u cejlonski
 tanker. Zeleni tvrde da 50 do 75 tona nafte, koliko se izlilo,
 predstavlja pretnju za morsku floru i faunu.
-
+</div>
+<div id="vreme">
 Za vikend - svežije
 
 Srbija: Promenljivo oblačno i u severnim krajevima malo
@@ -6673,7 +6174,8 @@ Vikend: Promenljivo oblačno i osetno svežije mestimično
 s kišom, pljuskovima i grmljavinama, naročito u popodnevnim
 i večernjim satima, Maksimalna temperatura u padu u
 proseku za 5 do 10 stepeni.
-
+</div>
+<div id="magazin">
 Miki Maus
 u štrajku
 
@@ -6727,7 +6229,8 @@ Aleksandru Simu. „Reč je o
 koja na ulici izgleda sasvim
 pristojno“, izjavio je jedan
 sused (Beta)
-
+</div>
+<div id="kolumna">
 Uvenuli božuri
 
 Mihajlo Kovač
@@ -6830,38 +6333,26 @@ Znam da ću se uvek vraćati u Moskvu, možda
 i posle telesne smrti
 
 Nataša B. Odalauič
-
-24
-
-dosta je za panas
-
-Petak, 3. jui 1998.
-
-POSETITE NAS NAINTERNETU
+</div>
+POSETITE NAS NA INTERNETU
 www.atlas.co.yu
 DINARSKi SEKTOR
 DEVIZNI SEKTOR
-«M4MOC«««000C«MO»«<«<O0»»»0e«:«0»Ne0C0««00O
-Atlas
-BELGRADE • YUGOSLAVIA
-
-ft
-o
 
 Beograd, ĐimrtrMja Tucovića bn. 13
 tel. 011/344-00-90 (3. linije
 tei/fex. 011/444-46-17, 459-569, 454-991
-e-mait; Logo@EUnet.yu
+e-mail; Logo@EUnet.yu
 telefoni
 WOA M
-teiefaksi
+telefaksi
 centrale
-telekomunikadoni
+telekomunikacioni
 ureaa|i i oprema
 mobilna telefonija
-oprema i pri&or
+oprema i pribor
 pribor i oprema
-za računore
+za računare
   </body>
  </text>
 </TEI>

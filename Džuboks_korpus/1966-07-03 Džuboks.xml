@@ -2,22 +2,16 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>The shortest TEI Document Imaginable</title>
+    <title></title>
    </titleStmt>
    <publicationStmt>
-    <p>First published as part of TEI P2, this is the P5
-         version using a namespace.</p>
+    <p></p>
    </publicationStmt>
    <sourceDesc>
-    <p>No source: this is an original work.</p>
+    <p></p>
    </sourceDesc>
   </fileDesc>
  </teiHeader>
- <text>
-  <body>
-   <p>This is about the shortest TEI document imaginable.</p>
-  </body>
- </text>
   <text>
   <body>
 džuboks
@@ -333,7 +327,7 @@ francuska Cslc)
 2. Une meche de cheveux (Pramen kose) Adamo
 3. Les elucubrations d’Antoine (Antoanov dugl put) Antoine
 4. Mon credo (Moje verovanje) Mireille Mathieu
-5* 3Le jouet extraordinaire <Neobična igračka) Claude Francois
+5* 3Le jouet extraordinaire Neobična igračka) Claude Francois
 6, Mourir ou vivre (Umreti Ш živeti) Herve Vilard
 7. Juanita banana The Peels
 

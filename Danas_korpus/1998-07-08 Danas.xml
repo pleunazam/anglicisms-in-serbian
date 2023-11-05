@@ -2,24 +2,19 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>The shortest TEI Document Imaginable</title>
+    <title></title>
    </titleStmt>
    <publicationStmt>
-    <p>First published as part of TEI P2, this is the P5
-         version using a namespace.</p>
+    <p></p>
    </publicationStmt>
    <sourceDesc>
-    <p>No source: this is an original work.</p>
+    <p></p>
    </sourceDesc>
   </fileDesc>
  </teiHeader>
- <text>
-  <body>
-   <p>This is about the shortest TEI document imaginable.</p>
-  </body>
- </text>
   <text>
   <body>
+    <div id="politika">
 Gonsales
 dolazi
 
@@ -56,15 +51,15 @@ gost SD, Obradović odgovara: „Nadam se
 da će se to desiti vrlo brzo. Gonsales nam
 se na pozivu zahvalio i rekao videćemo se
 u Beogradu“.
-
+    </div>
 S.Biševac
-
+<div id="vesti">
 Trenutni prekid vatre
 preduslov za dijalog
 
 FOTO: FONET/AP
 
-Kontakt gmpa danas ponovo o Kosovn
+Kontakt grupa danas ponovo o Kosovu
 
 Nemačka diplomatija će pokušati da sprovede
 Kinkelov program u pet tačaka
@@ -88,9 +83,7 @@ Nemački šef diplomatije
 Klaus Kinkel pre nedelju dana
 je naveo pet stvari koje će
 nemačka diplomatija „pokušati
-da sprovede" na ovom sa-
-
-stanku Kontakt grupe.
+da sprovede" na ovom sastanku Kontakt grupe.
 Prvo - momentalni prekid
 vatre kao preduslov za obnavljanje
 pregovora. Sam Kinkel
@@ -109,9 +102,7 @@ iz Moskve. To znači da novih
 sankcija neće biti (direktori
 ih, uostalom, i ne mogu donositi),
 a među onima koje su
-već uvedene, ali još nisu spro-
-
-vedene, nalazi se zabrana letenja
+već uvedene, ali još nisu sprovedene, nalazi se zabrana letenja
 avionima JAT.
 Treće - razmatranje ponude
 osnovnih elemenata za regulisanje
@@ -160,23 +151,12 @@ zasad o tome ne želi da govori.
 je komentar Aleksandra Tijanića.
 N. B. O.
 
-Sl OGIASAVAJTI
-oj| lfl*U| ■ UUSTU
-2i| ■ ■fll JyQl|3| Danas
-fIMJIMiIiJMiIiMIMSECfI te,/fax 4 . 38 ' 9 V
-
-aŽalim što mi
+Žalim što mi
 stoka pase zito
 
 Skandinavija
 
-2 DEM ■ 20 ATS ■ 90 SIT ■ 20 DEN ■ 2 HRK ■ 300 GRD
-
-BESPLATAN OGLASNI PROSTOR
-Strana 19
-
-T>anas na mtemetu
-■ http://www.danas.co.yu__Opasnost od širenja ratnog požara na Balkanu
+Opasnost od širenja ratnog požara na Balkanu
 
 Kofi Anan n izveštaju Savetn bezbednosti
 
@@ -195,7 +175,8 @@ na Kosovu", istakao je generalni sekretar UN, dodajući
 da obe strane moraju „pokazati uzdržanost i obnoviti
 pregovore kako bi našli mirno rešenje konfbkta".
 (FoNet)
-
+</div>
+<div id="ekonomija">
 Izbeglicama pomoć
 od 3,5 miliona dolara
 
@@ -212,8 +193,9 @@ brigu o deci) 250 hiljada dolara.
 Prema izjavi Stejt dipartmenta, najavljena pomoć namenjena
 je humanitarnim potrebama oko 100 hiljada izbeglica i raseljenih
 lica na Kosovu, kao i onima koji su našli utočište u
-drugim delovima Jugoslavije, Makedoniji i Albaniji. (FoNet}_
-
+drugim delovima Jugoslavije, Makedoniji i Albaniji. (FoNet
+</div>
+<div id="vesti">
 ČANAK: Rešenje u
 saradnji Beograda i Tirane
 
@@ -273,8 +255,6 @@ bilo gubljenje vremena",
 kazao je Canak. (Beta)
 
 Diplomate "rade" za obe zaraćene strane
-
-FOTO: PONET/AP
 
 Britanski mediji o značaju posmatračke misije
 
@@ -408,19 +388,7 @@ zbog opasnosti od rasplamsavanja
 krvavog rata na Balkanu ići
 na protektorat. (Beta)
 
-' lg Danas, dnevnik, Izdaje preduzeće za novinsko-izdavačku delatnost, DAN GRAF d.0.0, Redakcija; Vatroslava Jagića 3,
-Beograd, e-mail: danas@eunet.yu, fax. 451-442, glavni urednik 452-176, dnevna redakcija i prelom 456-895, unutrašnja
-m 452-162 i 437-019, spoljna 344-1999, kultura 344-2177, foto 344-1459, Beograd i sport 344-1591, direkcija 452-153,
-marketing 438-991. Predsednik Upravnog odbora: Radomir Ličina. V. d. direktora DAN GRAFA: Dušan Mitrović.
-Direktor lista: Dušan Simić. Glavni i odgovorni urednik: Grujica Spasović, Redakcijski kolegijum: Božidar Andrejić (zamemk glavnog i odgovornog
-urednika), Nikola Burzan, Petar Cvijić (Beograd, sport), Ludwik Wincenty Gadomski (ilustracije), Zdravko Huber (zamenik glavnog i odgovornog
-urednika), Milovan Jauković (desk), Jelka Jovanović, Radomir Ličina (svet), Gordana Logar, Zagorka Milošević, Aleksandar Nikašinović, Vesna
-Ninković-Džafo, Rade Radovanović (kultura), Imre Sabo (foto), Dušan Simić, Prodaja: Slavenka Đurović, Milorad Đurović, tel. 452-163,
-Žiro-računi 40816-603-5-3045538 i 40816-603-8-4045538, Štampa DP štamparija “Borba”, ISSN 1450-538X
-
-2
-
-Sreda, 8. jul 1998,Višak oružja, manjak
+Višak oružja, manjak
 zvaničnih informacija
 
 Uprkos očekivanom privremenom zatišju, na Kosovu i Metohiji nastavljeni sukobi
@@ -448,7 +416,7 @@ se da je ranjen još jedan
 policajac, od onih u civilu
 koji su bill u vozilu.
 Prema saopštenju prištinskog
-Medija centra, ~priča ; ‘
+Medija centra, ~priča
 je malo drugačija. Navodno,
 grupe albanskih ekstremista
 napadale su u ovom selu
@@ -468,9 +436,7 @@ Albanci, pobegli ka Grabovcu,
 đa je policija granatirala
 Lođe i da su sukobi, u kojima
 je spaljeno nekoliko kuća,
-zahvatili zatim i samu pe-
-
-riferiju Peći, naselje Brženik
+zahvatili zatim i samu periferiju Peći, naselje Brženik
 i istoimeno selo.
 Sudeći po tome što su sukobi
 trajali satima, izgleda
@@ -480,9 +446,7 @@ Brženika i Goraždevca, susednog
 sela, naoružala je,
 kako twdi albanska strana,
 policija pre ovih sukoba, a
-mnogi su skloni da prekjuče-
-
-rašnje događaje povezuju sa
+mnogi su skloni da prekjučerašnje događaje povezuju sa
 boravkom Vojisiava Šešelja u
 tim sebma, samo dan ranije.
 Preko puta naselja Brženik,
@@ -593,7 +557,7 @@ Situacija je i dalje
 vanredna. D.L.
 
 Pronađeno telo
-otetpgAlbaiiea
+otetog Albanca
 Priština - Nedaleko od
 Orahovca juče jepronađeho
 telo Albanca Hidaja Popaja,
@@ -629,9 +593,7 @@ ona je postala o/dailjna i imače
 odlučujuću ulogu“, izjavio je
 Gorani, lider Nezavisnog sindikata
 kosovskih Albanaca. tokom
-svoje posete Bosni. U ~na
-
-rednih nekoliko dana, OVT< će
+svoje posete Bosni. U narednih nekoliko dana, OVT će
 imenovati svoje predstavnike u
 (albanskom) pregovaračkom
 timu“, rekao je Gorani, upozoravajući
@@ -732,9 +694,7 @@ koje su grupe naoružanih
 Albanaca ostavile prilikom
 povlačenja. (FoNet)
 
-Sreda, 8. jul 1998,
-
-3Žalim što mi stoka pase žito
+Žalim što mi stoka pase žito
 
 Ljuhomir Kovačević izbeglica iz sela Rudnik kraj Kosovske Mitrovice
 
@@ -944,8 +904,6 @@ sigurni, poginulo je 24
 policajaca - dodaje njegova
 supruga Đurđa.
 
-VEUKO POPOVIC
-
 Veljko Popović
 
 U pratnji đva tenka poslednji napustili selo: Ljubomir
@@ -995,9 +953,7 @@ Isto tako, rekao je on, dok su specijalne
 jedinice jugoslovenske policije
 prekinule sve svoje ofanzivne
 operacije, predstavnici albanske zajednice
-na Kosovu ne žele da preu-
-
-zmu odgovarajuću obavezu. Još su
+na Kosovu ne žele da preuzmu odgovarajuću obavezu. Još su
 karakterističnije pozitivne ocene
 vodećih moskovških listova o ~novom
 držanju" beogradskih vlasti i
@@ -1038,10 +994,9 @@ dana potpuno utišali razgovori
 o pripremama vojne intervencije
 NATO-a radi rešavania kosovske
 krize“ - pišu Izvestija. (FoNet)
-
-4
-
-Sreda, 8. jul 1998,Rizično je ići
+</div>
+<div id="politika">
+Rizično je ići
 kod Miloševića
 
 Kilibarda potvrdio da se Đukanović
@@ -1138,7 +1093,8 @@ Milutinović.
 „Danas je dan bratoubistva i žalosno je što se slavi nacionalno
 nejedinstvo i mržnja", rekao je Kovačević na
 konferenciji za novinare. (Beta)
-
+</div>
+<div id="vesti">
 Kiosci bez Naše Borbe
 
 Beograd - Beogradski
@@ -1177,12 +1133,13 @@ kvalitet i profesionalan nivo
 na koji su naši čitaoci
 navikli", navodi se u saopštenju.
 (Beta)
-
+</div>
+<div id="politika">
 Susret Miloševića i Đukanovića neophodan
 
-Miodmg Vuković, potpredsednik cmogorske vlade
+Miodrag Vuković, potpredsednik crnogorske vlade
 
-Beogmd - Ja tačno ne znam da li
+Beograd - Ja tačno ne znam da li
 bilo susreta, ali ono što znam jeste da
 do tog susreta treba da dođe - izjavio
 je Miodrag Vuković potpredsednik
@@ -1197,9 +1154,7 @@ Cme Gore, Milo Đukanović.
 vrha je velika, a ima ogromne,
 štetne poslijedice i u našoj Republici
 i saveznoj državi. Mora se krenuti u
-sanaciju te krize, iii ćemo svi riziko-
-
-vati one krajnje negativne konsekvence
+sanaciju te krize, iii ćemo svi rizikovati one krajnje negativne konsekvence
 - ocenio je Vuković.
 Podsećajući da između Miloševića
 i Đukanovića ~ne samo kao pojedinaca
@@ -1243,11 +1198,11 @@ broj problema, a Cma Gora ne samo
 da je zabrinuta, nego trpi ogromne
 štete - ocenio je potpredsednlk cmogorske
 Vlade.
-
+</div>
 FOTO; FONET/AP
 
 L. Jovetić
-
+<div id="ekonomija">
 Dinar se stabilizuje
 promet opada
 
@@ -1274,7 +1229,8 @@ malom privredom u zemlji,
 Novom Pazaru, raspon je
 6,5-6,6 dinara, a u Podgorici
 6,5-6,7 dinara. (Beta)
-
+</div>
+<div id="kolumna">
 LEPOSAVA MILIĆEVIĆ:
 Narod ima gen za
 prepoznavanje fašizma
@@ -1315,9 +1271,7 @@ koji žele da nam objasne kako
 da živimo", rekla je ministarka
 Milićević. (Beta)
 
-Sreda, 8. jul 1998,
-
-5Daleko je Skandinavija
+Daleko je Skandinavija
 
 Može li „švedski model“ biti primenjen n zemljama n tranziciji
 
@@ -1330,7 +1284,7 @@ strateški cilj, bndući da on nije odiživ
 i biće napnšten mnogo pre nego što za
 ove zemlje on i teorijski postane dostnpan
 
-ISKUS E N J A
+ISKUŠENJA
 
 U sasvim skorašnjem članku,
 koji može da se nađe na
@@ -1368,9 +1322,7 @@ u Švedsku. Koja je _to muka
 koja tera Ijude da iz Šumadije
 potegnu da traže utočište negde
 u blizini severnog pola?
-Na to pitanje bi ideolozi i stra-
-
-tezi socijalne pravde u Srbiji
+Na to pitanje bi ideolozi i stratezi socijalne pravde u Srbiji
 trebalo da odgovore.
 Što se Asara Lindbeka tiče,
 on gleda da obavesti Ijude u
@@ -1458,9 +1410,7 @@ dvema susednim zemljama to
 je zato što je u periodu koji je
 prethodio dolasku na vlast
 onih koji su sada na vlasti postignuto
-mnogo više. Drukči-
-
-je rečeno, ma koliko da je sadašnja
+mnogo više. Drukčije rečeno, ma koliko da je sadašnja
 vlast istrajno uništavala
 srpsku privredu, nije još
 uvek uspela da je svede na nivo
@@ -1497,7 +1447,7 @@ del_a; finansijski i politički.
 Što se finansijskog tiče,
 trošak će zavisiti od toga koliko
 sukobi budu trajali. Ako
-potraju, ukupni troškovi če
+potraju, ukupni troškovi će
 
 biti izuzetno veliki. I to ne
 samo neposredno, već i u obliku
@@ -1548,7 +1498,7 @@ izgleda da će se naći na nivou
 zemlje kao celine, tražiće se
 protiv zemlje kao celine. U
 konačnom ishodu, zemlje više
-neće ni biti. •
+neće ni biti.
 
 Hrabrost Bojane Ristić
 
@@ -1573,16 +1523,16 @@ biti više prostora u vašem i našem listu. Bojana Ristić se na jugu
 praktično sama bori protiv crveno-crnog režima. Dajte da tu
 odvažnu ženu češće čujemo i vidimo. Uostalom, vreme je za žene
 političare i u opozicionim strankama.
-
-Jrena Popović,
+</div>
+Irena Popović,
 
 Beograd
-
+<div id="politika">
 Opozicija van čekaonice
 
-Iliia Đukić
+Ilija Đukić
 
-Ima li Srbija pravu altemativu (2)
+Ima li Srbija pravu altemativu
 
 Demokratska opozidja ili ono što,
 posle ulaska Srpskog pokreta obnove
@@ -1621,7 +1571,7 @@ ozbiljne, kritički i opozidono orijentisane
 javnosti. Hipoteka teškog sri'aranja
 a lakog rasturanja stranačkih koalicija
 pritisaka stranke kao i javnost,
-ali i potendjalne glasa&. Nedavna
+ali i potendjalne glasače. Nedavna
 istorija sa stvaranjem a zatim rasturanjem
 koalidje .Žajedno" i koalidje
 „Vojvodina", posle njiho\dh početnih
@@ -1677,25 +1627,22 @@ stranu primen Perovićeva Idberalna
 stranka na nedavnim vanrednim izborima
 u Crnoj Gori).
 Kraj
-
+</div>
+<div id="magazin">
 Vic
 
 - Sta vas muči? - pita psihijatar pacijenta.
-- Ništa, samo - porodica me je prosto naierala da dođem kod
-vas zato što toliko volim čarape od pamaka.
+- Ništa, samo - porodica me je prosto naterala da dođem kod
+vas zato što toliko volim čarape od pamuka.
 - Eh, toliki Ijudi vole pamučne čarape... one su i zdravije od
-sintetičkih. Eto, volim ih i jai
-- Je l’zbilja? A kako ih najviše volite - sa sirćetom, ili samo sa
+sintetičkih. Eto, volim ih i ja!
+- Je l’ zbilja? A kako ih najviše volite - sa sirćetom, ili samo sa
 malo soka od limuna?
 
-6
-
-Sreda, 8. jul 1998Požarevac, 7. jul;
-
-Zastava s pefokrakom ispred poznate diskoteke Marka Miloševića
-
-VEUKO POPOVTČ
-
+Zastava s petokrakom ispred poznate diskoteke Marka Miloševića
+</div>
+VELJKO POPOVTĆ
+<div id="kolumna">
 Svi u školu pretvaranja
 
 Ako hoćemo da izvučemo neku pouku iz
@@ -1765,9 +1712,7 @@ zbog toga jer se mnogo
 oslanjaju na kompjutere. Njima
 kompjuteri sve izračunaju i
 isplaniraju. Čak i ko će s kim i
-kako. Zbog toga su često veo-
-
-ma nesrećni, a i paradajz im je
+kako. Zbog toga su često veoma nesrećni, a i paradajz im je
 bezukusan. Nemci su uspešni
 jer su robovi preciznosti [njihov
 uzor nije čovek nego robot).
@@ -1831,8 +1776,7 @@ Oljuštiti narandžu to je kao otkriti zaspalo dete.
 Dok se naginjemo nad ponor starosti, deca dolaze
 iza nas i guraju nas napred.
 
-Izbor i preuod Mirjana Bazin
-
+Izbor i prevod Mirjana Bazin
 Sreća u nogama
 
 Nekada su nas učili da je naša zemlja najbogatija svakovrsnim
@@ -1870,7 +1814,8 @@ spremno da uteši i izgrdi malog čoveka, nauči ga da sanja
 budan i da delajpospan. Naša je televizija najveća laža na
 svetu, dovoLjno velika da obuhvati najveću vladu i pošaLje
 najveću TV-ekipu na najveći TV-spektakl na svetu.
-
+</div>
+<div id="magazin">
 JELISAVETA KARAĐORĐEVIĆ
 Princeza na zrnu nade
 
@@ -1918,9 +1863,7 @@ Princeza Jelisaveta je rođena
 izgledu nikako ne bi reklo)
 u Belom Dvoru u Beogradu kao
 najmlađe dete kneza Pavla i kneginje
-Olge. Detinjstvo i ranu mla-
-
-dost provela je u Keniji i Južnoafričkoj
+Olge. Detinjstvo i ranu mladost provela je u Keniji i Južnoafričkoj
 Republici, gde je završiia
 osnovnu školu. Budući da se porodica
 kneza Pavla često selila,
@@ -1948,10 +1891,9 @@ u Njujorku i sem humanitarnog
 rada bavi se i ekologijom.
 
 Ljubo Đorđević
-
-Sreda, 8. jul 1998
-
-7O'Kif prenela poruku Sadako Ogate
+</div>
+<div id="vesti">
+O'Kif prenela poruku Sadako Ogate
 
 Podgorica - Komesar Komesarijata
 za raseljena lica
@@ -1977,9 +1919,7 @@ uputio UNHCR. O’Kif je
 obavestila Šćepanovića da
 je glavnim donatorima prenet
 apel Vlade Crne Gore
-povodom pogoršane situaci-
-
-je sa izbeglicama i raseljenim
+povodom pogoršane situacije sa izbeglicama i raseljenim
 licima. Tokom jučerašnjih
 razgovora dogovoreno
 je da uskoro delegacija
@@ -2036,7 +1976,8 @@ SGS) podržala reforme koje
 je započela stara, a nastaviće
 nova crnogorska vlada.”
 R.B.
-
+</div>
+<div id="tehnologija">
 Uskoro mobilna telefonija
 za čitavu Republiku
 
@@ -2047,7 +1988,8 @@ u predstavništvu raješovitog preduzeća “Pro Monte” u
 Beranama. Omogućavanjem korišćenja mobilnih telefona u
 tim dvijema opštinama, praktično, mobilnom telefonijom će
 biti pokriveno čitavo područje Crne Gore. (Montena fax)
-
+</div>
+<div id="magazin">
 Popunjeni svi "Bokini" hoteli
 
 Herceg Novi - Svih sedam hotela
@@ -2106,7 +2048,8 @@ imaju izvjestan uticaj na Prvi TV kanal,
 ali ne i na drugi kanal TV Crne Gore, te da
 će i taj problem biti riješen do 10. jula.
 (Montena-fah)
-
+</div>
+<div id="politika">
 Samo SNP
 i liberali neće
 u novu Vladu
@@ -2140,7 +2083,8 @@ nove višestranačke Vlade Crne Gore, o
 kojem će se izjasniti Skupština ove republike
 do kraja iduće sedmice.
 M. D.
-
+</div>
+<div id="vesti">
 Nove registarske
 tablice bez zvijezde
 
@@ -2164,7 +2108,8 @@ sa novim oznakama, a
 rok za zamjenn starih tablica
 novim biće šest mjeseci.
 C. D.
-
+</div>
+<div id="ekonomija">
 Osnovana banka
 za razvoj Crne Gore
 
@@ -2199,7 +2144,8 @@ bankarstvo, a koja će biti u
 stanju da finansijski prati pošlovanje
 i razvoj osnivača,
 partnera i klijenata. C. D.
-
+</div>
+<div id="vesti">
 Dr Miodrag Drljević gradonačelnik Nikšića
 
 Nikšić - Skupština opštine Nikšić juče je za gradonačelnika
@@ -2215,9 +2161,7 @@ po političkoj i vjerskoj pripadnosti, ističući da će i dalje dio
 svog radnog vremena provoditi na urološkom odeljenju u Opštoj
 bolnici, jer ne želi da napusti svoj posao.(Montena-fax)
 
-8
-
-Sreda, 8. jul 1998Od "svetog rata" do vize za Grčku
+Od "svetog rata" do vize za Grčku
 
 Kosovo na putu od Kukeša do Tirane
 
@@ -2369,9 +2313,7 @@ poraoć onima koji bi da u potrazi za
 boljom budućnošću odu u Evropu i
 Ameriku, odakle će svojim porodicama
 slati novac. Oni vole Berišu,
-koji Kosovare zove “albanski orlo-
-
-vi”. Oni glasaju za njegovu Demokratsku
+koji Kosovare zove “albanski orlovi”. Oni glasaju za njegovu Demokratsku
 partiju i, takođe, sa ove strane
 granice na svaki način podržavaju
 pripadnike OVK.
@@ -2427,7 +2369,7 @@ kao da su spremni da se bore u
 neke interesantnije teme, kao na
 primer - kako mogu da dobiju vizu
 za Gtčku...
-
+</div>
 FOTO: ROJTEES
 
 Janis Dimitrijadis
@@ -2435,7 +2377,7 @@ Janis Dimitrijadis
 Pomažu OVK: Albauski vojnici na vežbi
 
 Nema poternica za našim saradnicima
-
+<div id="kolumna">
 Izjava Nataše Kandić povodom pisanja Politike o navodnoj ugrcženosti istraživača Fonda za humanitamo pravo od strane Albanaca
 
 Dnevni list Politika je u izdanjima od 6. i 7.
@@ -2466,9 +2408,7 @@ izdao poternicu za trojicom ofidra
 bivše Jugoslovenske armije zbog zločina u
 Vukovam.
 Što se tiče navoda Politike o javnom svedočenju
-Nore Ahmetaj o otmicama Srba na Ko-
-
-sovu, tačno je jedino da je FHP objavio izveštaj
+Nore Ahmetaj o otmicama Srba na Kosovu, tačno je jedino da je FHP objavio izveštaj
 o kidnapovanim i nestalim osobama na Kosovu,
 bez obzira na njihovu etničku pripadnost.
 U kontaktima sa novinarima i rodbinom nestalih
@@ -2497,7 +2437,8 @@ Srbije, koji pored policijskih snaga Republike
 Srbije, do 28. tebruara 1998. godine,
 sprovodi i Vojska Jugoslavije - kaže se u
 izjavi Nataše Kandić.
-
+</div>
+<div id="vesti">
 Stradali jedna krava i šoferšajbna
 O tome kako se režim odnosi prema kosovskim Aibancima, predsednica FHP Nataša
 Kandić navodi sledeći primer. Dvadeset i devetog aprila, na putu Peć - Priština, u
@@ -2511,9 +2452,7 @@ da dobavi službenu beiešku o dogadaju, FHP je primio službeni dopis u kojem
 se navodi da je prilikom sacbraćajnog incidenta povređcna jedna krava i oštećena
 šoferšajbna na sfužbenom a- 'omobilu - kaže se u izjavi Nataše Kandić.
 
-Sreda, 8. jul 1998.
-
-9PEROVIĆ: Počinje rad
+PEROVIĆ: Počinje rad
 grupe za Prevlaku
 
 Podgorica - Ministar inostranih poslova
@@ -2538,9 +2477,7 @@ radne grupe budu profesionalno odnosili prema
 tom pitanju, utohko su i šanse veće da
 predlozi cmogorske vlade budu kooptirani.
 - Ukoliko pohtika ne bude imala opredeIjujuću
-ulogu možemo doći do rešenja po-
-
-voljnog za Crnu Goru - istakao je'šef crnogorske
+ulogu možemo doći do rešenja povoljnog za Crnu Goru - istakao je'šef crnogorske
 diplomatije i rekao kako u slučaju da
 jugoslovenska vlada ne prihvati cmogorski
 nacrt platforme za Prevlaku, crnogorska vlada
@@ -2563,7 +2500,8 @@ za Prevlaku Nebojša Vučinić,_ pomoćnici
 u MIP Slavica Milačić i Veselin Šuković
 i član crnogorskog tima za pitanje granica
 Vuk Bošković. (Beta)
-
+</div>
+<div id="politika">
 KALINIĆ; Na izborima odluka
 da li će RS ostati država
 
@@ -2657,8 +2595,8 @@ RS. SPRS je, tvrdi
 njen predsednik, bez hipoteka
 i pokazala je da je stabilna
 politička partija na ko(U
-na sledećim izborima t - >a
-ozbiljno računati. (roNe'
+na sledećim izborima t -
+ozbiljno računati.
 
 KILIKBARDA: Bez
 Bulatovića obavezno
@@ -2727,7 +2665,8 @@ da se bori za interese
 Crne Gore kao ravnopravne
 članice u federaciji", rekao je
 Kilibarda. (Beta)
-
+</div>
+<div id="vesti">
 SBUTEGA: Prevlaka
 će ostati Hrvatskoj
 
@@ -2826,9 +2765,7 @@ sklopili vrlo nepovoljan
 sporazum po sve zaposlene u
 Kombinatu. S. L.
 
-10
-
-Simda, 8, jul 1998Protest jedino Vladu ne brine
+Protest jedino Vladu ne brine
 
 Uoči godišnjice uvođenja prinudne uprave u Novom Pazaru
 
@@ -2879,9 +2816,7 @@ Uz navodnu majorizaciju na
 štetu srpskog naroda, zvanični
 Beograd je bivšim novopazarskim
 vlastima, između ostalog,
-zamerao da ističu nepri-
-
-hvatljive nacionalne simbole,
+zamerao da ističu neprihvatljive nacionalne simbole,
 ne plačaju doprinose za osnovne
 i sreonje škole.
 Umesto izborne vlasti koalicije
@@ -2913,9 +2848,7 @@ unija, iste primile k znanju.
 Najodlučnije je reagovalo Ministarstvo
 inostranih poslova
 Turske čiji je ministar Ismaii
-Džem nedavno upozorio Evro-
-
-pu da postoji reaina opasnost
+Džem nedavno upozorio Evropu da postoji reaina opasnost
 širenja ratnog požara sa Kosova
 na Sandžak. Uticaj blizine
 kosovskog ratišta na razvoj situacije
@@ -2938,9 +2871,7 @@ pojavi malo Ijudi, što bi režim
 iskoristio i zloupotrebio u
 političke svrhe - ističe u izjavi
 Danasu Rasim Ljajić.
-Najavljen protest ne podrža-
-
-va ni nekadašnji koalicioni
+Najavljen protest ne podržava ni nekadašnji koalicioni
 partner Sulejmana Ugljanina
 Reformsko demokratska stranka
 Sandžaka. Lider ove partije
@@ -3077,9 +3008,7 @@ stanovnika.
 Da je problem ozbiljan, potvrđuje
 i činjenica da je o ovome
 raspravljano i na sednici Opštinskog
-odbora Socijalističke parti-
-
-je u Požarevcu. Tada su na problem
+odbora Socijalističke partije u Požarevcu. Tada su na problem
 nekontrolisanog naseljavanja
 u Kostolac sa Kosova, od
 strane Albanaca, Roma muslimanske
@@ -3100,16 +3029,13 @@ nisu evidentirani sa stalnim
 mestom boravka, da naočigled
 opštinskih vlasti uzurpiraju
 opštinsko zemljite, da ne služe
-vnicpn ■ ia naiveči broj dece ne
-" kakvu školu. Veliki
+vnicpn za naiveči broj dece nekakvu školu. Veliki
 broj iijui AliciaLi eura stanovništvo
 Kostolca glasnim puštanjem
 muslimanskih pesama sa
 jakih razglasa.
 Upozoreno je da iako koriste
-socijalnu pomoć i dobijaju hu-
-
-manitarnu pomoć, njihovi
+socijalnu pomoć i dobijaju humanitarnu pomoć, njihovi
 najznačajniji predstavncii voze
 skupe automobile „mercedes"
 i kombi vozila BMW. Kao na
@@ -3137,9 +3063,7 @@ obavljaju u obližnjem selu
 Stari Kostolac u poznatoj Todićevoj
 crkvi. Sve su jači zahtevi
 da se u ovom gradu izgradi
-džamija, a Albanci, Romi i Mu-
-
-slimani dotle svoje verske obrede
+džamija, a Albanci, Romi i Muslimani dotle svoje verske obrede
 vrše u iznajmljenoj kući.
 Posle sukoba na Kosmetu traje
 tiho, aii masovno doseljavanje.
@@ -3169,9 +3093,7 @@ a za realizaciju ovih zaključaka
 zadužen je savezni poslanik
 Dragiša Ivković. V. M. P.
 
-Srecia, 8. jul 1998,
-
-11Svedočanstvo istine
+Svedočanstvo istine
 
 Kako RTV Crne Gore izvještava o Kosova
 
@@ -3262,9 +3184,7 @@ artiljerije i tenkova u rušenju i
 spaljivanju sela u tome kraju. I
 dok je RTVS prikazivala milicijske
 kontrolne punktove, Euronjuz
-je snimao poređane tenko-
-
-ve pripremne za baražnu vatru,
+je snimao poređane tenkove pripremne za baražnu vatru,
 a zatim i eksplozije granata u
 udaljenim selima, da bi kamera
 zatim prošla i pored zgarišta
@@ -3380,15 +3300,15 @@ Ali, i to su pikanterije čuvene
 holbruške ~šatl-diplomatije“,
 konstatovaće, ničim više iznenađeni
 gledalac RTV Crne Gore.
-
-Miodmg Mamvić
+</div>
+Miodrag Mamvić
 
 FOTO: ROJTEES
-
+<div id="kolumna">
 Nezakonit izbor
 dr Miloša Labana
 
-Pismo ministrn prosvete sa
+Pismo ministra prosvete sa
 Elektrotehničkog fakulteta u Beogradu
 
 Beograd - Profesori Elektrotehničkog
@@ -3433,9 +3353,7 @@ raspisivanjem konkursa, a na
 predlog odgovarajuće katedre.
 Nadamo se da bi po istoj
 proceduri dekan mogao da revidira
-sve izbore naučno na-
-
-stvanog veća u ranijim sazivima
+sve izbore naučno nastvanog veća u ranijim sazivima
 - konstatuju profesori u pismu
 ministru.
 Osim ovog spornog imenovanja
@@ -3477,19 +3395,15 @@ Miloš Laban se prisećaju nekih
 ranijih godina i osporene
 stručne kavahtete tumače kao
 „ružan politički obračun".
-
+</div>
 L. Jovetić
-
-l2
-
-Sreda, 8. jul 1998,
 
 REPUBLIKA
 Glasilo građanskog samooslobađanja
-Glmu i odfu»omi _rtdruk .. . . , »
 Popov Protiv stihije straha, mrznje i nasitja
-Bocfrnd. Godm* X (1998)
 Broj 192—193 1-31. jul 1998. Cena 5 dinara
+
+<div id="kolumna">
 Čerupanje
 Drama na Kosovu izaziva sva
 Ijudska čula. Rastu zebnje od
@@ -3525,6 +3439,7 @@ znati i umeti da nadu izlaz,
 pitanje je samo kada i kako, i
 po koju cenu.
 N. P
+</div>
 Iz sadržaj SL'. Konstantin Obradović, Moćnid u nebranom grožđu • Nebojža Popov, Igre za sve
 • Mirko Đorđević, Kosovo - preteći metei • DraSko Bjelica, Problem i rešenje Kosova • Olga Zirojević,
 Istorjja Albanije • Siniša Stankov, Diepovi puni muke i moja • Dragan Cvetković, Na tapetu još i - pasoš
@@ -3534,7 +3449,7 @@ Despotović, Kultura vlasti • Đorđe Pavićević, Obrisi urbane javnosti • 
 srpske pameti
 I Knjiga u novinama: Mira Oklobdiija, Što da se radi? • Pavle Rak, Disidenti - kultura i pobtikaMisija na Kosovu ostaje
 preduslov elanstva
-
+<div id="politika">
 Uz potvrdu o pregovorima o povratku SRJ u OEBS
 
 Beč - Portparol Organizacije za evropsku
@@ -3548,7 +3463,7 @@ predstavnici Saveznog ministarstva
 za inostrane poslove i izaslanik predsedavajućeg
 OEBS, poljski ambasador Ježi
 Novak.
-„Ovo je samo početna faza , ali je veoma
+„Ovo je samo početna faza, ali je veoma
 bitno da su počeli pregovori", istakla je
 Flemingova, podsećajući međutim, da o
 povratku SRJ u članstvo OEBS moraju odlučiti
@@ -3559,9 +3474,7 @@ na Kosovo. Za povratak SRJ u članstvo vezuje
 se i napredak u razrešenju situacije
 na Kosovu, dodala je portparol OEBS.
 Misija bivšeg španskog premijera Felipea
-Gonsalesa bila je takođe jedna od te-
-
-ma prvih razgovora jugoslovenskih vlasti i
+Gonsalesa bila je takođe jedna od tema prvih razgovora jugoslovenskih vlasti i
 predstavnika OEBS, rekla je Flemingova,
 ali nije odgovrila na pitanje da li je i ta misija
 preduslov za vraćanje Jugoslavije u
@@ -3582,7 +3495,8 @@ beogradski mediji, delegaciju Savezne
 skupštine je na zasedanje Palamentarne
 skupštine OEBS pozvao predsednik ove institucije
 Havijer Ruperes. (FoNet)
-
+</div>
+<div id="vesti">
 Još jedna nemirna
 noć u Belfastu
 
@@ -3601,9 +3515,7 @@ Grupe mlađih Ijudi, naoružanih
 benzinskim bombama
 i kamenicama, su i u
 noći između ponedeljka i
-utorka napadale kamenica-
-
-ma policiju i palile vozila u
+utorka napadale kamenicama policiju i palile vozila u
 centru Belfasta. Glavnim
 poprištem sukoba, kvartom
 Sendi Rou, i dalje patroliral'u
@@ -3636,7 +3548,8 @@ ovaj sporazum o smanjenju nuklearnog oružja,
 pre lOintonove posete. Međutim, Duma je ovu raspravu
 odložila za jesen. Za razliku od Dume, američki Senat ratifikovao
 je STARTII 1996. (Beta, AP)
-
+</div>
+<div id="ekonomija">
 Novi pad ruskih akcija i rublje
 
 Moskva - Ruske akcije pale su prvog dana ove sedmice za 4,2
@@ -3647,7 +3560,8 @@ Rusiji. Ključni indeks RTS pao je na najniži nivo za dve godine,
 a najjače akcije izgubile su tri do pet odsto svoje vrednosti.
 Od početka ove godine ruske akcije su pale za 60 odsto. Vrednost
 rublje je od ponedljka takođe umanjena. (Beta, AFP)
-
+</div>
+<div id="vesti">
 Bon: Povećan
 broj azilanata
 iz SRJ
@@ -3693,9 +3607,7 @@ automobila, bračni
 par Vera i Duško Baltevski iz
 Bitolja, a povređeni su dva
 turska zvaničnika - državni
-ministar Rusti Ćazim Juze-
-
-len i poslanik Šinasi Altaner
+ministar Rusti Ćazim Juzelen i poslanik Šinasi Altaner
 - jedan novinar, jedan policajac
 i jedno lice iz vozila u
 kojem je bilo poginulih.
@@ -3757,13 +3669,9 @@ prikazanih na ovoj Rojtersovoj fotogmfiji, penzioneri su nosili i natpise: „Sk
 džepova", ~I vi ćete biti penzioneri jednog dana'. Prema odluci Ustavnog suda, hrvatska
 vladaje dužna da penzionerima isplati dug od 30 milijardi kuna (4,6 miliona dolara). Ovu
 obavezu vlada odbija s obrazlaženjem da će isplata ugroziti ekonomiju.
-
-Sreda, 8. jul 1998,
-
-T>aiias
-Nje gazete e mire mjafton
-
-13"Ušteda" od hiljadu
+</div>
+<div id="tehnologija">
+"Ušteda" od hiljadu
 milijardi dolara
 
 Hoće li sledeći milenijum početi katastrofom
@@ -3902,9 +3810,9 @@ tvorac programa za kućne kompjutere,
 Bil Gejts, mudro ćuti. Koliko
 li će tek para napraviti spasavajući
 svet od svojih grešaka?
-
+</div>
 Vladan Alimpijević
-
+<div id="kolumna">
 Cvetak iz ustaškog spomena
 
 Cemu služi medijsko uljepšavanje optuženog zločinca
@@ -4062,24 +3970,21 @@ proces provede do kraja. Kao što nije bilo dovoljno
 natjerati Tuđmana da potpiše Dejtonski sporazum,
 tako nije dostatno ni natjerati ga da sudi
 upravitelju ustaškoga koncentracijskoga logora.
-w » -r • '7 A T%
-
+</div>
 Miljenko Jergovič (AIM)
 
 Citat
 
-„Trebalo hi da prestanemo da engleski
+„Trebalo bi da prestanemo da engleski
 smatramo stranim jezikom."
 KLOD ALEGRE, francuski ministar obrazovanja
 i savetnik premijera Žospena
-
-14
-
-Sreda, 8. jul 1998,Grin
+<div id="kultura">
+Grin
 se (nije)
 vratio
 
-Prctposkdnje vemi Letnjeg džez festivala paiicu su preuzeli predstavnid tzv. britanskoe
+Prctposkdnje vemi Letnjeg džez festivala palicu su preuzeli predstavnid tzv. britanskoe
 Huza, pređvođeni nekadašnjom gitarskom legendom Piterom Grinom, Momak
 (sada umomi dedica] koji je polovinom šezđesetih nasledio Erika Kleptona u čuvenim
 “Bhrzbrejkeisima” (predvođeni Džonom Mejlom) a kasnije formiiao svcj bend “Flitvud
@@ -4092,14 +3997,14 @@ Me) nabis._ Možtia bi, da se sve dešavalo u nekora omanjem klubu, situadja une
 pođnosJjhija. No. sve se desilo tako kao jeste. Trunku starog Grina posetiod su mogli osetiti
 jcđino u “Mbatrosu” što, priznaćete, nije dovoljno za devedesetak minuta sedcnja u sali.
 Nekima je to trajaJo i krače.
-Nakon ponod nastupili su “Beer Drinkers & Hell Raisers” koji izazivaju jedino na pitanje
+Nakon ponod nastupili su “Beer Drinkers and Hell Raisers” koji izazivaju jedino na pitanje
 organizatoru. Šta, dođavola, oni traže na jednom ovakvom festivalu?
 
 D.Stošić
 
 Nepredvidljivi virtuoz(i)
 
-roznata porodica džezera Marsalis
+poznata porodica džezera Marsalis
 iz Nju Orieansa koju je u svet muzike
 lansirao otac Elis a koju čine još
 njegova čedri sina: saksofonisla Brenford,
@@ -4147,9 +4052,7 @@ poznavanje harmonija, osobenost
 u fraziranju i misaonost
 koja kao da sa scene prelazi u
 giedalište bile su glavne karakterislike
-koncerta koji je, jedno-
-
-stavno, zapalio veliku dvoranu SC-a. Posebno
+koncerta koji je, jednostavno, zapalio veliku dvoranu SC-a. Posebno
 je imponovala koncepdja nastupa
 koji je, pored dobro odabranih kompozicija,
 omogučio svakom članu sastava da se
@@ -4231,10 +4134,10 @@ Jugoslaviji nista dobro...
 Rusi "ovladali" poznatom
 srednjeevropskom banjom
 
-NamcugimnmKaiiomrskog fOmskog festimla
+Namcugimnm Kaiiomrskog filmskog festivala
 
 Spedjalno za Dams
-Kaiio\'e Vari su najčuvenija
+Kairlove Vari su najčuvenija
 banja srednje Evrope (Kadsbad)
 i vekovima omiljeno odrnonštc i
 leolište evropskih elita, od kialjeva
@@ -4260,7 +4163,7 @@ plakati koji oglasavaju nastupe
 (vikendom) mskih poppevača.
 Pre nešto manje od 10
 godina Rusi, koji su i sodjaiistička
-vremena ovde bili &sti gosti,
+vremena ovde bili čisti gosti,
 nestali su iz Karlovih Vari da bi
 se sada vratili u ogromnom talasu
 u banju koja je posiala istovremeno
@@ -4307,7 +4210,7 @@ plemićka elita je u istorni tradidonalno
 bila među najčešćim
 posetiodma ove banje ajib pedesetak
 izvora daju lekovito vodu
-koja sadrži &trdesetak raafih
+koja sadrži četrdesetak raafih
 minerala i leči bolesti sistema za
 varenje i poremećaje metabdizma.
 U Karlovim Varima je oesto,
@@ -4323,80 +4226,12 @@ raznih vrsta votke. Gost Kariovib
 Vari je bio i kosmonaut Gagarin,
 a moćnike i i čelnike sovjetske
 
-DOfflenMatee iz kcmmisliSdh
-vremaia i da ine pauHipino.
-Danas je tu Bora ruđa efila
-koja je bne gnila neio tob od
-treane nkufmh gcsfiju hanje, a
-ove još i više. iako je nemaSca
-gianica odaSe 25 lolomEtaia,
-ovde nn niio ne ttaa všza,
-dosta|i3dig3MircsM (daogpara
-nmcg su Čea ponm'o prcg>TOrili
-rusM kcji su napiasno 22boravili
-posie “pašane revoludje”),
-sve je Mffiife nego u kfoskvi
-- od šmde i ph® đo dpda.
-Lokalna poffičari “ne znaju”
-da H iza fcupovine hotda i zgrada
-stop ruska mafja afi jsfiču da su
-baqu od propadaifia aiasile ie
-pare. Dodaju da, ak) je fo i tačdo,
-ništa ne meoja na stvari jer je
-banja ostala “oaza miia” i neim
-nikaktfib probfema s kritninaldma,
-ni raSMm ni dmgtm stianim
-idcmadm.
-Od ruske najezde M zasad
-da ostane pošteden samo jedini
-o\ r dašnji hotei s pel zvezdka
-“GtandboM ffip” kcgi se oopšte
-ne iddamira u Rusp, bojea se
-da Ć£ izgubiti stam dobra kSja>
-teiu. Smeta im kažu što se ovde
-Rusi woma nefonnalno ponašaju
-- svuda se dkoto “muvaju”
-u trenakama i patikama i
-mogii bi đa oteraju bogate nemačke
-i druge zapadne goste.
-navikle na etikedju i odela s ktavatama
-na obeđima n hoffiskom
-restoiami TakvSt gosfftu
-je, međutim, svuda sve manje,
-ne samo u Kaitovim Varima. Budućnost
-izgleda piipada "novim
-Rusima” i sličnim “ooram”.
-
-Afikm lazaraić
-
 ARTičoke
-
-“XER =suaet autoia sttipova i fcizina u bioskopu
-Rexod6-ll.juk Svakpg dana između 11 i 14 sati organizuje
-se laciorća stripa dok će od 20 sati biti predstavijanje
-scena autcsipg stripa sa prcjekdjaimvideo
-filmova, proirocpm ibeizom strip izdanja Prodviđaiijeiokmdisto.
-8. jut Maketfcnija (Gotan Da&vj2atkD Kistevski].
-9. (Vefirnir Grgić i Štef Bartolić).
-10. jut BiH (Ajđn Baać i Zoja Bajbutović).
-
-1L jut OkmgS stD+kormt
-TOTOURaiEMBERRaduIicjn (19975,ff1mŽ2fe
-is TFfEtpffirp LoipdarE Sataš, Aefeas u 1S safi
-i i RiviljnrH i rvArm fflma raTfflmrop-mdffl iilo7X)f
-Bn : i>i' ; rro\ić Tenoa; U\*Dd u teonju i pofrtik
-~ apaaje.
-ilv 4V ■StenkD Dtagqević” iz Podgoace aastopiće
-'■ c LOsafiuGala^ifesakaEferodDGgmuzgau
-
-Sreda, 8. jul 19.98.
-
-15Od Kosova polja do
+</div>
+<div id="kolumna">
+Od Kosova polja do
 mondijalnog poljančeta
 
-\TTT/n r//ir\
-mivw iu ivi v
-Tcrrpr?fVAKsmrri?i^\
 
 Kaže Drugi program R.B, trećeg juna, u svojoj
 stalnoj turističkoj eipisiji petkom, da se u Kosjeriću
@@ -4433,7 +4268,7 @@ sam završio na najgluplji, najbesmislen|i način, u saobraćajd
 hom tumača fuđbalskih zbivanja, ali šta se još zbiva
 
 osim te mondijalne igre i, eventualno, onoga na “Čobanskim
-danima'7
+danima'
 Od pogibije na Kosovu polju pre šest vekova do današnjih
 svakodnevnih kosovskih pogibija, mediji
 predvođeni RTS-om do najvedh i najmasovnijih emotivnih
@@ -4457,12 +4292,12 @@ veštački prekinuto, ali ne i ukinuto. Imali bismo i opipljiv
 đokaz da, što se tiče fudbalske sirotinjske zcbave
 i jakih osećanja koja ona pokreće, pnpadamo giobak
 nom selu. Zajedno sa Englezima, na priraer, za koje,
-pred njihov meč sa Argentincima, Oi.Ji-S 1 da će
-porazprimititežeoddevalvacijefunte.Ovai jestc,
-imamo samo materijal za anaiizu neusp-- v a. 'mamo.
-dakle, fudbalsku analizu (nema vez. , 'a
+pred njihov meč sa Argentincima, Oida će
+porazprimititežeoddevalvacijefunte.Ovai jestc
+imamo samo materijal za anaiizu neusp imamo.
+dakle, fudbalsku analizu nema vezu sa
 
-glavnog, milionskoggrada nema vodu, što nema šećera
+glavnog, milionskog grada nema vodu, što nema šećera
 da se zasladi gorak život, što penzije.., što Kosovo...
 što Univerzitet... Živa zgoda, duža od šest vekova, za
 naše desetaračke guslarske analitičare.
@@ -4494,9 +4329,7 @@ u “romanu njegovog života” od Nebojše Bradića,
 repriziranom za razne aktuelne, premijeme asocijadje,
 četvrtog jula u Dokumentamo - dramskora programu
 R. B. “Roman” se svodi na čoveka u tragičnim
-okolnostima, derviša u knjizi i njegovog pisca u ži\,o-
-
-tu. Od počivšeg pisca koji je “više voleo da bude prevaren
+okolnostima, derviša u knjizi i njegovog pisca u životu. Od počivšeg pisca koji je “više voleo da bude prevaren
 nego pokvareri’, stiže ovom prilikom poruka da
 je “primetio da čovek ne sme da pokaže da je nezavistan,
 da treba da ima protektora kome če se diviti”, ali
@@ -4524,21 +4357,20 @@ godine, i koji bi trebalo da je raladakčki zaluđen za
 fudbalski mondijal, prepustio ga je svojim šeret izveštačima
 koji ga sa dosta smeha i podsmeha prate
 odavde i iz pariskih bistroa.
-
-Vlndimir Stefanavić
+</div>
+Vladimir Stefanović
 
 FOTO; EOJTERS
-
+<div id="magazin">
 Nemoćne spletke
 
-“Porodične spletke”/Hnsh; SAD, 1998; scenaristi: Džonatan
+“Porodične spletke” SAD, 1998; scenaristi: Džonatan
 Darbi i Qžejn Ruskoni; reditelj: Džonatan Darbi; igraju: Džesika
 Lang, Gvinet Paltrou, Džonatan Sič, Nina Foh, Dehi Mazar,
 Ričard Lajnbek, Hal Holbruk; distributer: Tak
 
-.ol
-Umoru spedjalnih efekata,
-agresivne akdje i pirotehmke
+Umoru specijalnih efekata,
+agresivne akcije i pirotehnike
 što čitave ove decenije
 dominira komerdjalnim
 svetskim filmom, starinski zamišljeno
@@ -4554,7 +4386,7 @@ uprkos činjenid da su se Darbi i
 njegod producenti zaista potrudili
 da takvu, kamemu i napetu
 pripovest suštinski nadgrade timom
-pr/oklasnih glumačkih vedeta,
+prvoklasnih glumačkih vedeta,
 film “Porodične spletke”
 isuviše brzo izneverava bukvalno
 sva gledalačka očekivanja i postaje
@@ -4568,7 +4400,7 @@ da zadrži samo za sebe i
 svoje grandiozno imanje, i svog
 sina, ali i svog budućeg unuka,
 Darbijev Glm “Porodične spletke”
-donekle -presvegapoatmosferi
+donekle -pre svega po atmosferi
 
 i pojedinim, upotrebljenim motivima
 - liči na kakvo klasično literamo
@@ -4601,9 +4433,7 @@ brkaju i ruše vednu žanrovskih
 propozidja koje je on sam odabrao
 i porinuo. Naime, ako se neprijatno
 pripovedno siromaštvo i
-posiedični, ogoljeni funkdonali-
-
-zam mogu opravdati budzetskim
+posiedični, ogoljeni funkdonalizam mogu opravdati budzetskim
 ograničenjima, ili ako je i povremena
 i savršeno nelogična narativna
 skokovitost takođe posledica
@@ -4635,9 +4465,9 @@ se pokazara inleriornom u
 odnosu na bezdušne spektakle
 koji nam se tako upomo i svakodnevno
 nude.
-
+</div>
 AD.Kostić
-
+<div id="kultura">
 Reditelj
 Džonatan
 Darbi na
@@ -4697,10 +4527,8 @@ svetlo uz isticanje d\e scene - smrt i ozdravljenje cara. Pozorištance
 “Puž” nastupilo je sa predstavom “Ivica i Marica”, tekst
 Branka Milićevića u režiji Slobodanke Aleksić, što je pohvaljeno tokom
 razgovora, zbog savršene komunidje sa decom. M. K
-
-16
-
-Sreda, 8. jul 1998,Crna Gora
+</div>
+Crna Gora
 
 TVCGI
 07.00 Muzički program
@@ -4921,7 +4749,7 @@ IS.OODnevnik
 21.30 Noćnik B 92
 22.00 Reklame
 23.00 RF Europe
-(<§)) Radio Montena
+(§)) Radio Montena
 96,8 MHz Nikšić .
 105,7 MHz
 Danilovgrad
@@ -4929,7 +4757,7 @@ Danilovgrad
 srpskom jeziku
 IS.lOŽurnal
 17.00 Vijesti Radija 892
-(# Pljevlja
+ Pljevlja
 09.00 Datum
 09.30 Lirika
 10.00 Vijesti
@@ -4982,106 +4810,11 @@ albanskom jeziku
 najznačajnijih
 događaja
 21.15 Veče uz radio
-
+<div id="kultura">
 RED VOŽNJE
+Karika koja nedostaje
 
-VOZO¥I
-Inforraacije na željezničkoj slanici u Podgorici 081/633-663,
-Nikšiću 083/22-180, Baru 085/12-210, Bijeiom Poiju
-084/22-951, Beogradu 011/645-936, 645-843,645-822.
-POLAZAK IZ PODGORICE
-Beograd: 1.1.30, 15.00, 20.40 (staje u stanicama Rakovica,
-Beograd-centar, Novi Sad, Zemun), 22.00 (auto-voz), 23.05
-Subotica; 20.40
-Bijelo Polje: 05.30, 11.30, 13.50, 15.00, 20.40, 23.05
-Bar: 04.55, 06,03, 06.25, 08.45, 10.25, 14.56, 16.55, 18.07,
-19.35,21,18
-POLAZAK IZ BEOGRADA
-Bar: 10.10, 14.10,22.10, 22.40 (iz Beograđ-Centra), 23.10
-(auto-voz)
-Bijeio Polje; 03,00, 10.10, 14.10, 22.10, 22.40
-(iz Beograd-Centra), 23,10 (auto-voz)
-Podgorica: 10.10, 14.10, 22.10, 22.40 (iz Beograđ-Centra),
-23.10 (auto-voz)
-POLAZAKIZ BARA
-Beograd: 10.35, 14.10, 19.50 (staje u stanicama Rakovica, Beograd-centar,
-Novi Beograđ i Zemun). 21.00 (auio-voz), 22.05
-Subotica: 19,50 (saobraća preko Beograd-Cenlra)
-Podgorica: 05.23, 06.25, 10.35,11.40, 14.10,14.25, 16.15,
-18.30, 19.50 i 22.05
-Bijelo Polje: 05,23, 10.35, 14,10, 18.15, 19,50 i 22.05
-POLAZAKIZ BIJELOG POUA
-Podgorica i Bar: 04.10, 04.36, 06.30, 12.32, 16,10,17.14,
-19.30
-Beograd: 06.10,13.21,16.50, 22.35 (za Beograd-centar),
-23.55 (auto-voz), 00.55
-Užice: 19.00
-Kosjerić: 10,20 (polazak iz Subotice)
-Bar - Podgorica: 19.00 (preko Beograd-Centra)
-Užice - Bijelo Polje; 03,09
-Kosjerić - Bijelo Polje: 14.25
-
-ADTOBUSI
-Informacije na autobuskoj stanici Pođgorica 081/632-430
-Beograd; 07.00, 10.15, 11.00,19.00, 20.00, 20.10, 20.45,
-21,15,23.00
-Bijelo Polje: 05.30, 06.30, 07.00, 08.00, 08.10, 08.30, 08,45,
-09.00, 09.30, 10.15,11.00, 11.40, 12.10, 12.40, 14.30, 15.00,
-16.00, 17.30, 18.00, 19.00, 20.00, 20,15, 20,30, 20.45, 21.15,
-22.00, 23.00
-Pljevlja; 06.00, 07.00, 11.30, 15.30
-Berane: 05.30, 06.30, 07.00, 08.00, 08.10, 08,30, 08:45,
-09.00, 09.30, 10,00, 11.00, 12.10,12.40, 14.30,15.00, 16.00,
-17.30, 18.00, 20.15, 20.30, 21.30, 22.00
-Nikšić; 05.30, 06,00, 06.20, 06.25, 06.40, 06.50, 07.15. 07.35,
-07,45, 08.00, 08.15, 09.00, 09.10, 09.25, 09.30, 10.00, 10.20,
-10.25, 10.45, 10.50, 11.00, 11.20, 12.00, 12.05, 12.20, 12.40,
-12.50, 13.00, 13.20,13.40, 13.45, 14.15, 14.30, 14.50, 15.00,
-15.10, 15.20, 15,30, 15.50, 16.00, 16.20, 16.50, 17.00. 17.20.
-17.50, 18,10, 18.25, 18.30, 19.00, 19.30, 20.00, 20,15: 21.00,
-22.15 :
-Žabljak: 06.00, 11,30, 15.30
-Plužine: 07.40, 13.00, 14.50
-Cetinje: 06.00, 06.15, 06.50, 07.00, 07.30, 08.00, 08,20, 09.00.
-09.30, 10.00, 10.30, 11.00, 13.00, 1.3.15, 13.45, 14:00, 15.00,
-15,40, 16.40, 16.50, 17,30, 18.00, 18.30, 19.00, 20.00, 22.00
-Herceg-Novi; 06.00, 06.15, 06.40, 06.50, 07.00, 07.30, 07.45.
-08.10, 08.20, 09.30, 09.45, 10.00, 10.30, 11.00, 12.00. 12.45.
-13.00, 13.45, 14.00, 15.00, 15.30, 15.50, 16.45, 16,50,17.30,
-18.30, 19.00, 21.00, 22.00
-Kotor: 06,00, 07,30, 09.00, 10.00, 12.00, 13.45, 16.50, 18.00,
-19.00.
-Budva: 04,00, 06.00, 06.15, 06,40, 06.50, 07.00, 07.30, 07.45,
-08.10, 08.20, 08.30, 09.00, 09,30, 09.45, 10.00, 10.30, 11.00,
-12.00, 12.30, .12.45, 13.45, 14,00, 14.45, 15.30, 15.50, 16.50,
-17.30, 18.00, 18.30, 19.00, 21.00, 22.00
-Niš: 08.10, 20.15
-Užice; 07.00, 10.15, 19.00, 20.00, 20.45, 21.15
-Šavnik: 06.00, 11.30
-Bileća: 06.40, 07.00, 08.30, 10,50, 14.15, 15,10, 15.30
-Šćepan Polje: 07.40, 14.50
-Nevesinje-Gacko: 06.40, 07,00, 08.30, 10.50,15.30 (utorak,
-srijeda, petaki subota)
-Trebinje: 06.25, 07.00, 10.50, 14.20, 15.30, 16.20 (ponedjeIjak,
-srijeda i
-Srbinje-Foća: 07.40, 14.50
-Sarajevo; 23.40
-Sarajevo-Lukavica: 07,40, 10.15 (ponedjeljak, utorak
-i subota)
-Sarajevo-Pale; 07.40 (svake nedjelje)
-Prizren-Đakovica: 05.30, 06,30, 12,40
-Peć: 05.30. 06.30, 08.30, 11.40, 12.40, 21.30
-Priština: 06.10, 07,30, 15.00, 20.30, 21.30, 22.00
-Skoplje; 22.00
-Subotica; 20.45
-Banjaluka: 20.25 (srijeda, subota i nedjelja)
-Istanbul: 07.30 (srijeda i nedjelja)
-
-Sreda, 8. jul 1998,
-
-l7Karika koja nedostaje
-
-To nije došb iz svemim/došb je sa
+To nije došb iz svemira došlo je sa
 juga ” - kaže se u jednoj pesmi Ala Andersona.
 Zamenica “to” odnosi se na
 rock'n'roll. Sledeći logku ovih stihova
@@ -5129,9 +4862,7 @@ Tamo gde su bili vapaj, bol u srcu i jecaj
 sada su duboka depresivnost, suiddalni
 i homiddalni impulsL Melanholičnost i
 prividni mir koji dominiraju na pločama
-Souled American kao da su uvod u eks-
-
-ploziju osećanja i impulsa koja će se svakog
+Souled American kao da su uvod u eksploziju osećanja i impulsa koja će se svakog
 trenutka desiti.
 Album Sonny ovog sastava iz 1992.
 godine prva je NO DEPRESSION ploča.
@@ -5147,39 +4878,7 @@ novu muzičku viziju. Oni su karika koja
 nedostaje pri pokušaju razumevanja aktuelnih
 muzičkih trendova.
 
-ZikkaSiinić
-
-Najsjajniji dragulj
-
-jeaVesofgra&
-
-by Dragomir Nikolić
-Lncinda MDiams Cbanged Tbe Locks (sa aDjmna Lucinda MDiams, 1989)
-
-Preferiram ženske vokale. Glas Lucinde Williams posebno. Sličan je titraju
-plamena. Nije visok ni snažan ali je moćan i izražajan.
-Pesma Changed The Locks nalazi se na albumu Lucmda Williams koji je
-1989. godine izdala diskogralska kuća Rough Trade. To je pesma puna besa
-Gubitak, osveta i ćežnja su njen sadržaj. Pomalo unjkavim i na trenutke potpuno
-ravnim glasom Ludnda isporučuje bes i rezignadiu. Agresivni blues ritam
-koji valja uomi sve pred sobom i gitare koje se obrusavaju, dobar su kontrapunkt
-Ludndinom otuđenom glasu. Ritam i gitara dobro korespondiraju
-sa osnovnom temom pesme: besom zbog gubitka i prekida veze. Izuzetnom
-rockerskom veSinom oand prati kulmiraranje Ludndinogbesa. Ona poćinje
-od toga da će promeniti bravu na vratima da On ne bi mogao da uđe, a završava
-sa izjavom da će promeniti ime grada u kome živi đa je nikada ne bi
-našao:
-Iclianged the lock on my fmnl door
-I changed the mmber on my phone
-I cnanged the kind ofcar I anve
-I changed the kind ofclothes I wear
-/ changed the tracks undemeaih the tmin
-I chariged the name ofthis toim
-Odličan tekst. Nije ni čudo ako se zna da je Lucindin otac jedan od najvedh
-američkih pesnika.
-Ludnda jekraljica među songvvriterima, Numera Changed The Locks je najsjajniji
-dragulj na njenoj krura.
-(.Autorje rock enutzijasta iz Beogmda)
+Zikka Siinić
 
 NOVA ROK OPERA
 
@@ -5225,7 +4924,7 @@ od ultimatrvnih pop hitova
 (kao što je Valentines Day koja bi
 mogla oa posluži kao literami
 predložak za nastavak Kevin Klajnovog
-filmskog hita In & Out) do
+filmskog hita In and Out) do
 zahuktalih Nomeansno minijatura
 u kojima prisustvo svih ostalih
 isntrumenata sem onih bazičnih
@@ -5285,7 +4984,7 @@ stvari krstio
 bi zvuk Willard
 Grant
 Conspiracy
-n a z i v o m
+nazivom
 gotika mvmdmja.
 No. Willard Grantovci u sebi
 imaju isuviše humora da bi celokupni
@@ -5313,22 +5012,19 @@ muški ritual kojim se u pođ-
 
 zemJju obavlja misteriozna inicijacija.
 Violina, čelo, gitara i glas. auditivne
-dosetke oka&ne o pesmu poput
+dosetke okačene o pesmu poput
 
 zveckajućih privezaka, autorska kolaboracija
 Roberta Fishera i Paula
 Austma u znaku zasenčenja onih
 životnih intenziteta koji menjaju ritam
 podilaženja srsi jeze od svakodnevice,
-tih sumornih saga o po-
-
-naenosn Koja
+tih sumornih saga o ponaenosn Koja
 zlostavlja kosti
 ali ne übija voIju
 koraku, koraku
 koji recimo
 vodi... čak
-doOPSuftDoesen'tMatterl
 Volite li pesme
 o predsobljima
 neizrecive
@@ -5340,24 +5036,9 @@ Grant Conspiracy
 pravi su
 vremeplov kroz nestvarnost bednih
 Ijubavnika za vaše letnje putovanje.
-
+</div>
 Zarica Kojić
 
-18
-
-breda, 8, jul i998.Sreda, 8. jul 1998
-
-19
-
-A
-d
-T
-*
-O
-o
-kf
-*
-&
 Omladinska zadruga Beograd ima
 mogućnosti da svoje članove uputi na
 sledeće poslove: - spremačice, servirke,
@@ -5365,8 +5046,6 @@ rad u vešeraju, lakši i teži fizički
 poslovi, poslovi konduktera - kontrolora
 i operativni poslovi
 Omladinska zadruga Beograd
-11070 Novi Beograd, Palmira Toljatija 5/TV,
-Tel. 600-130,673-671,671-751
 Vi koji hoćete da radite privremeno povremene
 poslove, dođite i učlanite se.
 OMLADNISKA
@@ -5376,13 +5055,7 @@ ZAPOSUAVA VECIBROJ OMLADINACA OD 18-40 G. ZA RAD U
 GRADSKOM SAOBRAĆAJNOM BEOGRAD
 DOĐITE, UĆLANITE SE BESPLATNO I
 POĆNITE DA RADITE ODMAH
-Mtl SI NATEL 139-840 I 311-43-22/LOK. 809 I 778
-® Ml SE NALAZIMO U SAVA CENTRU M. POPOVIĆA
-■ll 9IISPRAT BOX 213 SVAKOG RADNOG DANA
-11 OD BM-18 M -15 M ISUBOTOM OD 9-13
-_
 
-sa aassa nspravlta dabar “tlsa'
 684- lok 315
 685- lok 315
 OMLADINSKA
@@ -5399,18 +5072,6 @@ i devojke za sledeće poslove:
 - Rad u ugostiteljstvu
 - Fizički poslovi na dnevnicu
 
-DNEVNOM LISTU
-Tianas
-POTREBNI
-KOLPORTERI
-m
-IPRODUCENTI
-m
-UMARKETINGU.
-RADNAPROCENAT,
-pozomte: 433-153
-
-i mtmt.
 za sve koji traže i nude posao
 BESPLATAN OGLASNI PROSTOR
 Tel: 438-991 od 9.00 do 16.00
@@ -5427,12 +5088,10 @@ POTREBM KONOBARI, KONOBA- 1
 RlCi;, RESTORANU “STOJA I VU- I LUNA PARKU POTREBNIRADNILE”
 VRBNIČKA 7 A RAKOVICA. I Cl, 036/ 22-577, IU UČNO KOD
 TEL 585-611 | BAZENA U KRAUEVU.
-8
 POTREBAN OGRANIČEN BRO.I | POTREBAN VREDAN, SPOSOSARADNEKA-AKVIZITERA.
 ZARA- | BAN RADNEK NA “BUVUAKU”.
 DAIOO% TEL: 019/743-391 I PRODAJA ELEKTROMATERIZVATIPO
-PODNE I JALA TEL 138 - 758
-7 7 I
+
 POTREBNO VISF. KERAMCARA, I POTREBNE MLAĐE RADNICE,
 PARKEIARA, VODOINSTALATE- | RADNICI, HAZMH ZANIMANJA
 RA 1 VOZAČA SA SOPSTVENIM | POSREDUJE “IDAM”
@@ -5451,14 +5110,14 @@ TELO32/819
 HTTNO POTREBNA RADNICA ZA
 DEPHACUU. ZEMUN - GALEMKA
 TEL 103 - 270
-§ ROBNOJ KUCI “ATLANTIK”
+§OBNOJ KUCI “ATLANTIK”
 POTREBNI STOLARI-MONTA-1
-1
+
 ZERI. DOCI UCNO, OD 15 DO 18.
 ILUE GARAŠANINA 23, TAŠMAJDAN.
-| POTREBNA RADMCA U PARHI
+POTREBNA RADMCA U PARHI
 MERUI. TEL 400 - 611
-i
+
 POTREBNA DEVOJKA SA VOZAČKIMISPITOM
 “B” KATEGORUE
 ZA RAD NA DUŽE VREME.
@@ -5513,15 +5172,13 @@ tel. 324-78-24
 
 OMLADINSKA
 ZADRUGA
-V
-D
 Beograd,
 Franca Rozmana 22
 Potreban veći broj
 momaka sa IV stepenom
 stručne spreme
-za poslove čuvara
-bvatrogasaca.
+za poslove čuvar
+vatrogasaca.
 101:344-19-§2 P
 344-38-22
 
@@ -5542,7 +5199,7 @@ Ovim neopozivo naručujem primeraka knjige Ričarda Holbruka
 Uplatu izvršiti na ž.r. 40816-603-5-3045538. Narudžbenicu i dokaz o uplati pošaljite na adresu:
 Dangraf d.o. Jagićeva 3,11000 Beograd
 Dopunske Informacije možete đobiti na telefon 011/452-153 lli tel/fax 011/438-991.Bitka za premijeru
-
+<div id="sport">
 Danas na MONDIJALU:
 
 Drugo polufmale: Francuska - Hrvatska (21.00)
@@ -5584,12 +5241,7 @@ su potpuno zatajili,
 pa na putu do polufinala
 nisu postigli ni jedan
 gol (u regularnom toku
-meča). Doduše, protiv pa-
-
-MBM
-FOTO: ROJTERS
-
-ragvaja, Francuzi su igrali
+meča). Doduše, protiv paragvaja, Francuzi su igrali
 bez Zinedina Zidana, koji
 nije špic igrač, ali je sjajan
 graditeij igre, a uz to
@@ -5625,11 +5277,6 @@ je Španac Hose Manuel
 Garsija Aranda.
 
 FOTO: ROJTERS
-
-FRANCUSKA: Bartez, Tiram, Blan, Desai, Lizarazu, Dešamp,
-Peti, Đorkaef, Pires, Zidan, Anri.
-HRVATSKA: Ladić, Štimac, Bilić, Šimić, Jarni, Soldo, Asanović,
-Boban, Stanić, Šuker, Vlaović.
 
 MIROSLAV BLAŽEVIĆ:
 Mi nismo Balkanci
@@ -5698,7 +5345,7 @@ košta 6,2 milijarde franaka,
 što iznosi nešto više od milijardu
 dolara. U odnosu na
 Olimpijske igre u Naganu,
-to je jeftinije takmi&nje,
+to je jeftinije takmičenje,
 jer je Japan za zimsku
 olimpijadu izdvojio 6,6 milijardi
 franaka. Ovaj ekonomista
@@ -5755,9 +5402,7 @@ organizacija,
 napravila promet od 24 railijardi
 franaka. (Beta)
 
-20
-
-Sreda, 8. jul 1998.GUROVIĆ: Ne treba
+GUROVIĆ: Ne treba
 ml grčki pasoš!
 
 Plavi na SP bez Tarlaća i Stoiakovića
@@ -5783,9 +5428,7 @@ lekcija iz odnosa prema reprezentaciji
 svim igračima za naredni
 period. Međutim, kao
 grom iz vedra neba nas je pogodila
-informacija da grčki sa-
-
-vez neće dozvoliti učešće ni
+informacija da grčki savez neće dozvoliti učešće ni
 jednom ~Grku“, uz blagonakost
 FIBA, na Svetskom prvenstvu.
 Na ovu, ipak očekivanu
@@ -5806,9 +5449,7 @@ od mladog Milana Gurovića.
 Upitan da prokomentariše celokupnu
 situaciju, Gurović je
 odgovorio:
-- Ne znam šta da vam ka-
-
-žem. Ja sam tu informaciju
+- Ne znam šta da vam kažem. Ja sam tu informaciju
 pročitao u novinama i za sada
 nemam najpreciznije podatke
 o tome šta se tačno dešava.
@@ -5901,7 +5542,7 @@ Košarkaši Jugoslavije završili su drugi deo priprema pred
 uastupajuće Svetsko prvenstvo u Atini. Posle dvostrukog poraza
 u Trevizu, naši momci su u trećoj utakmici uspeli da svladaju
 Azure s 76 : 66, da bi već sutradan ponovo izgubili u poslednjoj
-proveri ( bez prisustva publikejposle produžetka 92 :
+proveri bez prisustva publikejposle produžetka 92 :
 90 (79:79). Posle poslednje utakmice, Obradović je novinarima
 koji nisu mogli da gledaju utakmicu podneo raport.
 - Igrali smo više nego dobro. Čak smo u pojedinim trenutcima
@@ -6005,33 +5646,8 @@ on naslednik Kasparova na
 šahovskom prestolu.
 Anand - Kasparov
 (Frankfin’t 1998.)
-1. e 4 c5 2.5f3d6 3.d4 ch 4.
-Sd 4 Sf6 5. Sc 3 a 6 6. Le 3 Sg 4
-7. Lgs he B.Lh4 g5 9. Lg3 Lg7
-10. Le 2 h5 11. Lg4 Lg4 12. f3
-Ld 7 13. Lf 2 Sc 6 14. Dd2 Ses
-15. b3 e 6 16. Sde2 TcB 17. Ld 4
-
-b5 18. Sdl TgB 19. Se 3 a 5 20.
-0-0-0 a 4 21. Kbl ab 22. cb
-TaB 23. Lc 3 Ta 6 24. Sc 2 LfB
-25. Sb 4 TaB 26. Sd 4 Le 7 27.
-Thel DcB 28. Lb 2 Db7 29.
-Sdc2 f6 30. Sd 4 h4 31. g3 g4
-32. f4 Sf3 33. Sf3 gf 34. F5 hg
-35. hg Tg 3 36. Dh 2 Tgs 37.
-Lcl Tg 7 38. Dhs + Tf 7 39.
-Df 3. Crni predaje. L. D.
-Mat u tii poteza
-A. Kauders, 1903.
-
-Sreda, 8. jul 1998.
-
-2122
-
-Sreda, 8. jul 1998.
-
-PRETPLATITE SE N A
+</div>
+PRETPLATITE SE NA
 Uplatom odgovarajuće pretplate na naše žiro-račune
 40816-603-5-3045538
 40816-603-8-4045538
@@ -6044,45 +5660,11 @@ mesecna
 80,00
 (Ime i prezime ili naziv finne)
 (Ulica i broj fli poštanski fah)
-□□□□□
-(Mesto) (telefon)
-DOKAZ 0 UPLATII OVAJ KUPON POŠAUITE NA ADRESU
-REDAKCUE (Dangraf d. o. o), Vatroslava Jagića 3, 11000
-Beagrad (za prodajna službu) ISVAKOM ČETE MOČI
-POZJTIVNO DA ODGOVORTTE NA PTTANJE
-da li ste
-a rb i s sn i ?
-
-Samo 2 minuta
-dnevno
-(Crßna prijaftiog nmša je jeJštstvto
-prtp&il 22 vnćmjt prMne bcje inst
-Tijru gtog imerićkog pnpanta je
-postepoa promesa pignrenadje kose.
-tsepnsveba ia ukuane, posk 7-3
-neddje ne pastoje nk sede viaa Portd
-togs titiče ai svnb i pemt
 PROTIV SEDE KOSE
 SUPER POTENCIIA
 Na prirodan način !
-bz pomoć lopatb Gmssig (ž&išenj
-pnpasfc stirog preio 1000 godm
-iz šafeionabe imeke medsche
-pobćijk potencfju na ptoveren i
-naisjpjmijj načm.
 Jednostavno
-- TzblcU za mrisvl/en/c sa vrteminom C
-- Nzjcfektnj/i kontrolor apetita, koji
-di/ctu prrtvara u užrvsn/e.
-- Koristise samo jedna ÜbJeta dnemo
-sat vTtrrtem posk prvog obroka.
-- Stmultše szgorevanjc masnih naslaga
-cekilrt i / zateže kozu, što je potvrđeno
-u przksi korisnika.
-- Fakovanje traje 70 dana i sidda od
-3-5 kg masnih nasfega.
-JW.jew-v<Hal
-BEZBORA I STARENJA
+BEZ BORA I STARENJA
 Brzo i efikasno!
 Najnttviji holrvudsid prepant
 pro6v bora i starenja.
@@ -6093,50 +5675,12 @@ nivo šečera u krvi
 KLARUĆITE INLA TELEFONJ
 SVAKOC DA.NIA. OO 8-22h
 
-v»
-<>
-3
-»
-an
-7 i L J S V 0* 0 1 4 / 2 2 0 9 1 9
-
 PRVI PRIVATNI RAT O U GRADU
 95, \.nz FM STEREO
 S
 RADIO
 17500 VRANJE, ul. Zelengorska 28
 Tel/Fax: 017/21-333 i 24-466
-
-A7OJ1 2-777
-Q marketing UiOn 2-700
-
-E&OOT9 SH 1&0(
-umim,
-Mmm-m
-Cmtiiai a
-Timn-m
-PAHHO COMBOP
-TB »O.JO KSi CT tM Ell
-urnim
-.ižiima mjnmmHi (&.
-TilM22-771
-
-Novo
-#ČUDOtf
-donosi
-Pšhot«rap«a{ Mića ]ovanovk
-Stadcntklnja Marija vratlo
-a prethodni život
-Bila panski mornar
-Prv! srpskl prorok
-Hcboja Borevićapozorava
-Meteor promaaje zemlja
-gaba pogada Srbija
-tfmerikand izmeriH;
-Dua je teka tri grama
-Pronađenc blago na Đorćoia
-Pola mitiona doiaro a pajza
-I jo 300 tada a Čada
 
 ZA NAJAM
 stana ili kuće u Tivtu,
@@ -6149,34 +5693,7 @@ Moguć svaki
 dogovor.
 Tel. 081/811-158
 
-X
-11:00-14:00 racJlonJca stripa
-20:00 predstavtjanje scena
-Eautorskog stripa sa
-projekcijama video fiimova;
-promocije i berza strip izdar ja
-Slovenija (Kalerrna fcrfirović »
-Jakob KJemenčrć)
-Juaoslavlja (Raša Popcvrć
-Sasa Rakezić. V/ostok.
-Nikofei Vitković.,.)
-Mak&donlja (Goran Dačev i
-Zlatko Krstevski)
-Hrvatska (Vefimir Grgić i
-Štef Bartolić)
-cinema (Ajdin Bašic i
-jevreiska 16 Bajbutović)
-beog^ac^ 1 ■ , ■ ) ul okrugfl sto + konce-rt
-‘fiomoć u Fond za otvneno
-. .družtvo. Hoteia TCasana".
-produkoja B92KuSur Kcntakl-Austr^a
-6. Jut
-7. Jui
-8. Jui
-9. Jul
 
-mmmmTitm oehtab
-FUiMONAL
 Gospodar Jovanova br 5.
 182-232
 639-188
@@ -6209,33 +5726,12 @@ tel. 016/ 212-772
 radio ne radio, svira ti 016 radio...
 16000 Leskovac, Vojvode Mišića 2
 
-i
-•0■s>
-CHLEKO COBHCUJE
 MARKETING - 023 62983
 
 PRVA PRAVA REGIOHALNA RTV
 Muzlfkl radlo 95,5 Mhi
 Folk kanal 98,7 Mhz
 100,8 Mhz
-THFH2UA
-52 ITHF
-• Ćuprlja Boljevac
-Lapovo
-/ _
-„/, / Paraćln
-Vmjaćka /
-banja / / /a
-RAPIO
-_ TELEVIZIJA
-f AJek&androvac
-KraJjevo fŠk
-amio
-Kru&evac
-ProkupJJ
-Kuršumllja
-TEL/FAX (018) 547-123,347-100
-MILION LJUDI ĆE VAM POMOĆI DA POSTANETE MAJUSPEŠIfIJIUKRŠTENE REČI
 
 Vodoravno;
 1. Smeje se ko lud na...
@@ -6314,20 +5810,9 @@ slova
 REŠENJE !Z PRETHODNOG BROJA:
 
 AUTOR: R. JOV
-
+<div id="kolumna">
 Dogadaj kod
 Podvožnjaka
-
-dftrleni ftnieiti ediifčiijv
-dn utrei neći, pedv
-km itnrein deiv grada i dv
-prti Saveznoßi sknpltinttii i
-BWmm kkmm sve|e
-Kvd
-pvdvvnsfvkai v blixl»i Sl¥*n
-pviicija biokira sw@ preinie*.
-$m vbe slrvne pvcinjv im iefe
-teneiice
 
 Te nedeljne večeri 2. jula u zgradi Radničkog univerziteta
 “Novi Beograd”, zakazana je zabavno-muzička
@@ -6481,11 +5966,8 @@ podižu barikade na vratima i prozorima i naoružavaju se
 polugama, motkama i lancima, spremni da se odupiru
 dok se Beograd ne probudi. U samo svitanje neko se provukao
 kroz blokadu i doneo džak vrućeg hleba - za većinu
-prvi obrok posle 24 časa. Sutra: Crveni univerzitđ
-
-Sreda, 8. jul 1998
-
-23
+prvi obrok posle 24 časa. Sutra: Crveni univerzitet
+</div>
 
 IZDANJA DRUSTVA ZA ISTINU 0 ANTIFASISTICKOJ NUb
 Knjige možete poručiti
@@ -6519,17 +6001,20 @@ Politika i ustav Radoslav
 Ratkovič (s popustom - 70 din)
 Ovira neopozivo poručujem knjige:
 nazivi knjiga
-Ime i prezime - adresaPrva knjiga na engleskom
+Ime i prezime - adresa
+<div id="magazin">
+Prva knjiga na engleskom
 
 FOTO: ROJTEES
 
 London - Pod uveličavajućim staklom se vidi detalj prvog
 izdanja Časerovih „Kanterberijskih priča". Knjigu je
 1477. godine izdao ViUjam Kakston i to je prva knjiga
-šrampana na engleskom jeziku. Osmogjula biće ponuđena
+šrampana na engleskom jeziku. Osmog jula biće ponuđena
 na prodaju u londonskoj aukcijskoj kući Kristi po izuzetno
 visokoj ceni od 500.000 do 700.000 funti sterlinga.
-
+</div>
+<div id="vreme">
 Svežije s kišom i pljuskovima
 
 Srbija: Oblačno i svežije vreme sa kišom, pljuskovima i grmljavinom.
@@ -6549,7 +6034,8 @@ severu do 20 stepeni na jugu. Najviša dnevna temperatura
 od 20 na severu do 27 stepeni na primorju.
 Sutra: U kontinentalnom delu zemlje sveže i vetrovito. Ponegde
 mogući kratkotrajni pljuskovi. Na primorju sunčano.
-
+</div>
+<div id="vesti">
 Surovi zločin
 u Teksasu
 
@@ -6575,7 +6061,8 @@ prvostepenog übistva
 tužilaštvu daje mogućnost
 da zatraži izricanje smrtne
 kazne. (Beta-Rojters)
-
+</div>
+<div id="nauka">
 Mamut iz
 epruvete
 
@@ -6601,7 +6088,8 @@ izumrli su pre oko 30.000 godina,
 a njihovi se ostaci mogu
 naći na nekoliko mesta u
 Sibiru. (Beta-Rojters)
-
+</div>
+<div id="kolumna">
 Deca sve vide
 
 Borka Pavieević
@@ -6652,7 +6140,8 @@ ratnika i pevačica, na redu su kumstva. Ali sve to ipak
 izgleda zakasnelo, a gomila akumuliranog kiča oko smrti,
 otadžbine i svega svetog je tolika, da i razmnožavanje deluje
 nekako umorno i tužno. Pa i deca to vide.
-
+</div>
+<div id="gastronomija">
 Poslednje autentično srpsko pivo
 
 Kada je hladno svako pivo je dobro. Međutim,
@@ -6709,37 +6198,23 @@ li da se smejete ili da plačete? Onda put po noge,
 na hodočašće po okolnim selima, u potrazi
 za „pićem vaše mladosti". ..Valjevsko"?
 Stvarno najbolje!
-
+</div>
 Zoran Panović
-
-IMHE SABO
-
-24/Danas
-
-DOSTA JE ZA X>anas
-
-Sreda, 8. jul'l99B
 
 POSETITE NAS NAINTERNETU
 www.atlas.co.yu
 DINARSKI SEKTOR
 324^23*^4
 DEVIZNI SEKTOR
-Atlas
-<: : .i
-BELGRADE • VUGOSLAVIA
 
-t
-Id
-
-Besgpad, Dimitrija Tucovića br. 13
+Beograd, Dimitrija Tucovića br. 13
 tel. 011/344-00-90 (3. liniie)
 telfeX. 011/444-46-17, 459-569, 454-991
 e-maif: Logo@EUnet.yu
 telefoni
 teiefaksi
 centrate
-telekomunikadoni
+telekomunikacioni
 ureaa|i i oprema
 mobilna telefonija
 oprema i prtbor

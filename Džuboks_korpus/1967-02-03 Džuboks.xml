@@ -2,22 +2,16 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>The shortest TEI Document Imaginable</title>
+    <title></title>
    </titleStmt>
    <publicationStmt>
-    <p>First published as part of TEI P2, this is the P5
-         version using a namespace.</p>
+    <p></p>
    </publicationStmt>
    <sourceDesc>
-    <p>No source: this is an original work.</p>
+    <p></p>
    </sourceDesc>
   </fileDesc>
  </teiHeader>
- <text>
-  <body>
-   <p>This is about the shortest TEI document imaginable.</p>
-  </body>
- </text>
   <text>
   <body>
 džuboks
@@ -1931,23 +1925,6 @@ Između ovlh kačketa, beretki, kapa i
 šeširića od vune, somota, žerseja,
 svako će naći nešto po svom ukusu
 
-<3®
-cS
-<s3
-f 555
-<32
-O
-e 3
-cS
-Csg
-©
-Ф/г>
-<sa
-«=з
-F%O
-c~i
-|S)
-€§>
 
 14NJIHOV SJAJ NE TAMNI
 
@@ -4026,7 +4003,6 @@ HASIiOVA HIJE ВП.O .r.
 ŽELE DA SE DOPISUJU
 
 DRAGAN PETROVIĆ, Požarevac,
-¥J <% 4-r% гс q fi 7
 KRUNO MARKOVIC, Kraljevo,
 Ш-З, Ekonomska škola
 VASILI JE ILIC, Tuzla, V.P. 2553

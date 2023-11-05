@@ -2,29 +2,20 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>The shortest TEI Document Imaginable</title>
+    <title></title>
    </titleStmt>
    <publicationStmt>
-    <p>First published as part of TEI P2, this is the P5
-         version using a namespace.</p>
+    <p></p>
    </publicationStmt>
    <sourceDesc>
-    <p>No source: this is an original work.</p>
+    <p></p>
    </sourceDesc>
   </fileDesc>
  </teiHeader>
- <text>
-  <body>
-   <p>This is about the shortest TEI document imaginable.</p>
-  </body>
- </text>
   <text>
   <body>
-20 DENARA e O,5 KM
-
-www.danasnews.com
-
-Dhaveštenje Vlada Snhije pneuze
+<div id="kolumna">
+Obaveštenje Vlada Srbije pneuze
 
 čitaocima
 
@@ -60,14 +51,15 @@ da je ovo bio jedini način da list
 Danas nastavi da izlazi. ·
 
 ___Redakcija Danasa
-
+</div>
+<div id="vesti">
 Po Zakonu o Javnom
 informisanju
 i prijavi ginekologa
 dr Miloša Ognjevića
 
 WIN kažnjen Sa
-280.000 tlinana
+280.000 dinara
 
 Beograd – Beogradski nedeljnik NIN i
 glavni ı odgovorni urednik tog lista Stevan
@@ -87,12 +79,11 @@ U tekstu je navedena izjava anonimne Žene
 koja kaže da ju je „dr Miša Ognjenović iz
 DZ Voždovac savetovao da prekine dvomesečnu
 trudnoću Zbog radijacije“. A.M.
-
-Strana 3
-
+</div>
+<div id="politika">
 Nikola Šainović, SPS
 Ppetdisednik tinžave
-može ila iode
+može i da dođe
 u Svaki njen tea
 
 Beograd ~ Visoki funkcioner Socijalističke
@@ -108,18 +99,6 @@ Sainović je juče na konferenciji za novinare
 stranke, odgovorio da je „SNP Crne
 Gore izvor informacije“, te da „ostavlja
 njima da to komentarišu“. LJ
-
-. Strana 4
-
-i Budimpešte
-
-www.sabfravel.com·
-
-Deligradska 9
-- ___ -Beograd
-- 011/361-59-59
-
-la SP
 
 Na pitanje da li preuzimanje GSP znači i prvi korak ka prinudnoj upravi u Beogradu
 visoki funkcioner SPS Nikola Šainović rekao je da „znači baš to“
@@ -140,10 +119,9 @@ do višednevnog štrajka privatnika.
 
 U upravnu zgradu GSP juče nešto posle
 13 časova ušla je desetočlana grupa na čelu
-sa Zlatanom Peručićem, šefom socijali- RH
-sta Palilule i Zoranom Miloševićem, bivšim E
-predsednikom Izvršnog odbora Skupštine |
-grada Beograda. Vest o tome da gradskim |_
+sa Zlatanom Peručićem, šefom socijalista Palilule i Zoranom Miloševićem, bivšim
+predsednikom Izvršnog odbora Skupštine
+grada Beograda. Vest o tome da gradskim
 prevoznikom od juče ne upravlja gradska
 vlada prvi je obnarodovao Nikola Sainović,
 visoki funkcioner SPS, juče na redovnoj
@@ -151,8 +129,6 @@ konferenciji za novinare.
 
 – Vlada Srbije nosi veliki teret upravljanja
 ekonomskim“ svim drugim procesima
-
-| SRĐAN STEVANOVIC
 
 u Republici. Očigledno je đa je gradska
 vlast umesto ulaganja i brige za jedan izuzetno
@@ -175,16 +151,11 @@ saobraćajnog preduzeća znači i prvi korak
 ka prinudnoj upravi u Beogradu, Sainović
 je kazao da je „ovaj gest Vlade mera za Zzaštitu
 građana“ i da „znači Daš to“.
-
-T-M.-=IJ. Đ: M A.
-Strana 8
-
+</div>
+<div id="ekonomija">
 Zbog jugoslovenskog duga mađarskoj firmi „Mol“
 
 justavijen nusli nas
-
-RRST daBia
-koncesiji
 
 Beograd — Vlada Srbije je
 
@@ -243,7 +214,8 @@ je stiglo obaveštenje da je obustava
 ruskog gasa razlog Zaustavljanja
 proizvodnje roto papira
 u Matrozu. N. Uzelac
-
+</div>
+<div id="vesti">
 Ubijen Goran Žugić, savetnik
 Mila Đukanovića za bezbednost
 
@@ -263,11 +235,9 @@ preduzimaju opsežne mere na planu rasvetljavanja
 tog dela. Dodaje se da će javnost o tome biti
 blagovremeno informisana. VK.
 
-Strana 3
-
 Sastanak opozicionih stranaka
 
-Na dnevnom PBillI
+Na dnevnom 
 
 jellinstvena lista?
 
@@ -284,9 +254,6 @@ je izjavio za Danas da će pred predstavnike
 opozicionih stranaka izneti predlog pokreta
 Otpor o kome će se raspravljati. S. E.
 
-Strana 3
-
-| INWeWOJX - OLiGdOž
 
 vo finansiranja, projektovanja,
 izgradnje, korišćenja i održavanja
@@ -298,11 +265,8 @@ autoputa koji će poveZivati
 Novi Sad i Beograd i koji će
 biti završen u roku od najviše
 dve godine. AE
-
-Strana 14
-
-CENTRA 3078blue
-
+</div>
+<div id="tehnologija">
 Microstar MS-6178D w/4MB UDMA66
 Intel P2 466MHz 128kB
 
@@ -322,32 +286,9 @@ Microstar AMR 56K V.90 f/m
 
 Asound zvučnici 160W P.M.P.O.
 Blue Midi Tower ATX w/DSPC
-
-PS/2 Mouse + pad
-PS/2 dtk Win98 tastatura
-
-Er 536 19 242
-ii S 536 19 243
-
-_Protnmpufprnpntar 64 64 ı+
-
-GEMTEKRA LIME
-
-|| 1410
-- - eSc-obe /E90
-7: ppr-EZS /LIO_
-
-} 35211OiS | INOTOL1S
-3511Od | IAO11nd
-
-INIZVLNIOMI
-
-CZ2 petak, 2. jiun 2000.
+</div>
 
 Zoran Živković, gradonačelnik Niša i potpredsednik DS
-
-Polišaj ila se Ugjni
-SI pBOliti7uje
 
 Niš - Gradonačelnik Niša i potpredsednik
 DS Zoran Zivković izJavio
